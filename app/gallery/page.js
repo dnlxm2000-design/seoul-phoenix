@@ -32,6 +32,18 @@ const albums = [
         desc: 'Welcome our new players!',
         src: '/gallery/gallery-4.jpg',
       },
+      {
+        id: 10,
+        title: 'Cameroon Players',
+        desc: '카메룬 신입 선수 Ismaila, Yahaya 합류 (2026.01.19)',
+        src: '/20260119-cameroon-players.jpg',
+      },
+      {
+        id: 11,
+        title: 'Match Day Poster',
+        desc: 'Imigresen FC 홈경기 포스터 (2025.10.08)',
+        src: '/20251008-matchday-poster.jpg',
+      },
     ],
   },
   {
@@ -55,6 +67,12 @@ const albums = [
         title: 'Match Preparation',
         desc: '경기 전 워밍업',
         gradient: 'from-green-500/20 via-teal-500/20 to-cyan-500/20',
+      },
+      {
+        id: 12,
+        title: 'Training BTS',
+        desc: '훈련 비하인드 씬 (2025.10.09)',
+        src: '/20251009-training-bts.jpg',
       },
     ],
   },
@@ -144,6 +162,14 @@ const albums = [
         videoId: '9WalhIZ-yNU',
         desc: 'Community Shield Cup 2026 친선전',
       },
+      {
+        id: 9,
+        title: '서울피닉스 훈련 비하인드',
+        channel: 'Seoul Phoenix FC',
+        views: 'Instagram',
+        src: '/20251009-training-video.mp4',
+        desc: '훈련장 비하인드 씬 (2025.10.09)',
+      },
     ],
   },
 ];
@@ -192,36 +218,58 @@ export default function GalleryPage() {
           {activeAlbum === 'video' ? (
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
               {currentAlbum?.videos?.map((video) => (
-                <a
-                  key={video.id}
-                  href={`https://www.youtube.com/watch?v=${video.videoId}`}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="group relative aspect-[16/9] rounded-xl overflow-hidden bg-brand-black shadow-sm hover:shadow-lg transition-all duration-300 border border-gray-100"
-                >
-                  <img
-                    src={`https://img.youtube.com/vi/${video.videoId}/hqdefault.jpg`}
-                    alt={video.title}
-                    className="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
-                    loading="lazy"
-                  />
-                  <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/10 to-transparent" />
-                  <div className="absolute inset-0 flex items-center justify-center">
-                    <div className="w-12 h-12 rounded-full bg-brand-red/90 flex items-center justify-center shadow-lg group-hover:scale-110 group-hover:bg-brand-red transition-transform duration-300">
-                      <svg className="w-5 h-5 text-white ml-0.5" fill="currentColor" viewBox="0 0 24 24">
-                        <path d="M8 5v14l11-7z" />
-                      </svg>
+                video.src ? (
+                  <div
+                    key={video.id}
+                    className="group relative aspect-[16/9] rounded-xl overflow-hidden bg-brand-black shadow-sm hover:shadow-lg transition-all duration-300 border border-gray-100"
+                  >
+                    <video
+                      src={video.src}
+                      controls
+                      className="absolute inset-0 w-full h-full object-cover"
+                      preload="metadata"
+                    />
+                    <div className="absolute bottom-0 left-0 right-0 p-3 bg-gradient-to-t from-black/80 to-transparent">
+                      <p className="text-white font-semibold text-xs leading-tight mb-0.5 line-clamp-2">{video.title}</p>
+                      <div className="flex items-center gap-2">
+                        <span className="text-white/50 text-[10px]">{video.channel}</span>
+                        <span className="text-white/30 text-[10px]">·</span>
+                        <span className="text-white/40 text-[10px]">{video.views}</span>
+                      </div>
                     </div>
                   </div>
-                  <div className="absolute bottom-0 left-0 right-0 p-3">
-                    <p className="text-white font-semibold text-xs leading-tight mb-0.5 line-clamp-2">{video.title}</p>
-                    <div className="flex items-center gap-2">
-                      <span className="text-white/50 text-[10px]">{video.channel}</span>
-                      <span className="text-white/30 text-[10px]">·</span>
-                      <span className="text-white/40 text-[10px]">조회 {video.views}</span>
+                ) : (
+                  <a
+                    key={video.id}
+                    href={`https://www.youtube.com/watch?v=${video.videoId}`}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="group relative aspect-[16/9] rounded-xl overflow-hidden bg-brand-black shadow-sm hover:shadow-lg transition-all duration-300 border border-gray-100"
+                  >
+                    <img
+                      src={`https://img.youtube.com/vi/${video.videoId}/hqdefault.jpg`}
+                      alt={video.title}
+                      className="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                      loading="lazy"
+                    />
+                    <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/10 to-transparent" />
+                    <div className="absolute inset-0 flex items-center justify-center">
+                      <div className="w-12 h-12 rounded-full bg-brand-red/90 flex items-center justify-center shadow-lg group-hover:scale-110 group-hover:bg-brand-red transition-transform duration-300">
+                        <svg className="w-5 h-5 text-white ml-0.5" fill="currentColor" viewBox="0 0 24 24">
+                          <path d="M8 5v14l11-7z" />
+                        </svg>
+                      </div>
                     </div>
-                  </div>
-                </a>
+                    <div className="absolute bottom-0 left-0 right-0 p-3">
+                      <p className="text-white font-semibold text-xs leading-tight mb-0.5 line-clamp-2">{video.title}</p>
+                      <div className="flex items-center gap-2">
+                        <span className="text-white/50 text-[10px]">{video.channel}</span>
+                        <span className="text-white/30 text-[10px]">·</span>
+                        <span className="text-white/40 text-[10px]">조회 {video.views}</span>
+                      </div>
+                    </div>
+                  </a>
+                )
               ))}
             </div>
           ) : (
