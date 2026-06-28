@@ -48,26 +48,44 @@ export default function Header() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16 lg:h-20">
           {/* Logo */}
-          <Link href="/" className="flex items-center gap-2 group">
-            <div className="relative w-10 h-10 lg:w-12 lg:h-12 bg-white rounded-full overflow-hidden shrink-0 ring-2 ring-brand-gold/30 group-hover:ring-brand-gold transition-all">
-              <Image
-                src="/logo.jpg"
-                alt="서울피닉스 FC 로고"
-                fill
-                sizes="48px"
-                className="object-cover"
-                priority
-              />
-            </div>
-            <div className="flex flex-col">
-              <span className="text-lg lg:text-xl font-extrabold tracking-tight text-white">
-                서울피닉스
+          <div className="flex items-center gap-3">
+            <Link href="/" className="flex items-center gap-2 group">
+              <div className="relative w-10 h-10 lg:w-12 lg:h-12 bg-white rounded-full overflow-hidden shrink-0 ring-2 ring-brand-gold/30 group-hover:ring-brand-gold transition-all">
+                <Image
+                  src="/logo.jpg"
+                  alt="서울피닉스 FC 로고"
+                  fill
+                  sizes="48px"
+                  className="object-cover"
+                  priority
+                />
+              </div>
+              <div className="flex flex-col">
+                <span className="text-lg lg:text-xl font-extrabold tracking-tight text-white">
+                  서울피닉스
+                </span>
+                <span className="text-[10px] lg:text-xs font-medium text-brand-gold-light -mt-1 tracking-wider uppercase">
+                  Seoul Phoenix FC
+                </span>
+              </div>
+            </Link>
+
+            {/* Federation Logo */}
+            <div className="hidden sm:flex items-center gap-2 pl-3 border-l border-white/20">
+              <div className="relative w-8 h-8 lg:w-10 lg:h-10 shrink-0">
+                <Image
+                  src="/images/partners/k-international-club.svg"
+                  alt="K·국제클럽축구연맹"
+                  width={40}
+                  height={40}
+                  className="object-contain"
+                />
+              </div>
+              <span className="text-[9px] lg:text-[10px] font-medium text-brand-gold-light leading-tight">
+                K·국제클럽<br />축구연맹
               </span>
-              <span className="text-[10px] lg:text-xs font-medium text-brand-gold-light -mt-1 tracking-wider uppercase">
-                Seoul Phoenix FC
-              </span>
             </div>
-          </Link>
+          </div>
 
           {/* Desktop Navigation */}
           <nav className="hidden lg:flex items-center gap-1">
