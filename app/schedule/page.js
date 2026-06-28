@@ -324,17 +324,13 @@ function MatchCard({ match }) {
 
         {/* Teams & Score */}
         <div className="grid grid-cols-3 gap-3 items-center mb-4">
-          <div className={`text-right ${isHome ? 'order-1' : 'order-3'}`}>
+          <div className="text-right">
             <p className={`font-bold text-sm lg:text-base ${isHome ? 'text-brand-red' : 'text-brand-black'}`}>
               {match.home}
             </p>
-            {isHome ? (
-              <span className="inline-block mt-0.5 text-[10px] font-bold text-brand-red bg-brand-red/10 px-1.5 py-0.5 rounded">홈</span>
-            ) : (
-              <span className="inline-block mt-0.5 text-[10px] font-bold text-brand-gray bg-gray-100 px-1.5 py-0.5 rounded">원정</span>
-            )}
+            <span className="inline-block mt-0.5 text-[10px] font-bold text-brand-red bg-brand-red/10 px-1.5 py-0.5 rounded">홈</span>
           </div>
-          <div className="order-2 text-center">
+          <div className="text-center">
             {isUpcoming ? (
               <span className="inline-block px-4 py-1.5 bg-brand-black text-white text-xs font-bold rounded-lg">
                 VS
@@ -351,15 +347,11 @@ function MatchCard({ match }) {
               </span>
             )}
           </div>
-          <div className={`text-left ${isHome ? 'order-3' : 'order-1'}`}>
+          <div className="text-left">
             <p className={`font-bold text-sm lg:text-base ${!isHome ? 'text-brand-red' : 'text-brand-black'}`}>
               {match.away}
             </p>
-            {!isHome ? (
-              <span className="inline-block mt-0.5 text-[10px] font-bold text-brand-red bg-brand-red/10 px-1.5 py-0.5 rounded">원정</span>
-            ) : (
-              <span className="inline-block mt-0.5 text-[10px] font-bold text-brand-gray bg-gray-100 px-1.5 py-0.5 rounded">홈</span>
-            )}
+            <span className="inline-block mt-0.5 text-[10px] font-bold text-brand-gray bg-gray-100 px-1.5 py-0.5 rounded">원정</span>
           </div>
         </div>
 
