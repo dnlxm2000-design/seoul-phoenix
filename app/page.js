@@ -253,6 +253,102 @@ export default function HomePage() {
         </div>
       </section>
 
+      {/* K·국제클럽축구연맹 사업 구조 */}
+      <section className="py-20 lg:py-28 bg-white">
+        <div className="max-w-6xl mx-auto px-4">
+          <div className="text-center mb-12">
+            <h2 className="text-2xl lg:text-3xl font-extrabold text-brand-black mb-2">K·국제클럽축구연맹 사업 구조</h2>
+            <p className="text-brand-gray">서울피닉스 FC가 속한 국제 클럽 축구 연맹의 6대 사업 영역</p>
+          </div>
+
+          {/* Federation Logo Center */}
+          <div className="flex justify-center mb-12">
+            <div className="relative w-24 h-24 lg:w-32 lg:h-32">
+              <Image
+                src="/images/partners/k-international-club.svg"
+                alt="K·국제클럽축구연맹 로고"
+                fill
+                className="object-contain"
+              />
+            </div>
+          </div>
+
+          {/* Business Areas - 2x3 Grid */}
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {/* 프로선수 */}
+            <div className="bg-gradient-to-br from-blue-500 to-blue-600 rounded-2xl p-6 text-white shadow-lg">
+              <h3 className="text-lg font-bold mb-3">프로선수</h3>
+              <ul className="space-y-1 text-sm text-blue-100">
+                <li>입단, 연봉계약</li>
+                <li>각종 Endorsement 계약</li>
+                <li>이적, 임대 계약</li>
+                <li>기록(경력)관리</li>
+                <li>자산관리</li>
+                <li>종합매니지먼트</li>
+              </ul>
+            </div>
+
+            {/* 프로구단 */}
+            <div className="bg-gradient-to-br from-orange-400 to-pink-500 rounded-2xl p-6 text-white shadow-lg">
+              <h3 className="text-lg font-bold mb-3">프로구단</h3>
+              <ul className="space-y-1 text-sm text-orange-100">
+                <li>마케팅 대행</li>
+                <li>외국인 선수 영입주선</li>
+                <li>해외 전훈등 스케줄관리</li>
+                <li>운용 물품 공급</li>
+                <li>클럽 간 경기</li>
+              </ul>
+            </div>
+
+            {/* KFA 등 단체 */}
+            <div className="bg-gradient-to-br from-purple-500 to-purple-600 rounded-2xl p-6 text-white shadow-lg">
+              <h3 className="text-lg font-bold mb-3">KFA 등 단체</h3>
+              <ul className="space-y-1 text-sm text-purple-100">
+                <li>프로모션 대행</li>
+                <li>공익사업</li>
+                <li>Licensing</li>
+                <li>국가 간 경기</li>
+              </ul>
+            </div>
+
+            {/* 일반 소비계층 */}
+            <div className="bg-gradient-to-br from-pink-400 to-purple-500 rounded-2xl p-6 text-white shadow-lg">
+              <h3 className="text-lg font-bold mb-3">일반 소비계층</h3>
+              <ul className="space-y-1 text-sm text-pink-100">
+                <li>제조 / 유통시장</li>
+                <li>On-Line 쇼핑몰</li>
+                <li>스타마케팅</li>
+                <li>레저사업</li>
+                <li>참여 스포츠 유도</li>
+              </ul>
+            </div>
+
+            {/* 클럽하우스운영 */}
+            <div className="bg-gradient-to-br from-yellow-400 to-orange-500 rounded-2xl p-6 text-white shadow-lg">
+              <h3 className="text-lg font-bold mb-3">클럽하우스운영</h3>
+              <ul className="space-y-1 text-sm text-yellow-100">
+                <li>U-12, U-15,</li>
+                <li>U-18, U-20</li>
+                <li>프로 및 세미프로</li>
+                <li>기업팀 운영계획</li>
+              </ul>
+            </div>
+
+            {/* 기업 */}
+            <div className="bg-gradient-to-br from-teal-500 to-teal-600 rounded-2xl p-6 text-white shadow-lg">
+              <h3 className="text-lg font-bold mb-3">기업</h3>
+              <ul className="space-y-1 text-sm text-teal-100">
+                <li>스포츠를 이용한 홍보</li>
+                <li>광고 주선</li>
+                <li>스폰서 집</li>
+                <li>이벤트 개최</li>
+                <li>스타마케팅</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* CTA Section */}
       <section className="py-20 lg:py-28 bg-brand-black relative overflow-hidden">
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_50%,rgba(230,57,70,0.1),transparent_60%)]" />
