@@ -14,9 +14,9 @@ const timeline = [
   },
   {
     year: '2025',
-    title: '서울피닉스 FC로 재탄생',
+    title: '서울피닉스 FC 창단',
     description:
-      '말레이시아 Cyberjaya로 연고지 이전 및 클럽명 변경. Malaysia A1 Semi-Pro League 참가',
+      '말레이시아 Cyberjaya로 연고지 확정 및 창단. Malaysia A1 Semi-Pro League 참가',
   },
   {
     year: '2025-26',
@@ -50,9 +50,10 @@ const headCoach = {
 };
 
 const staff = [
-  { name: '권혁훈', role: '구단주', desc: '클럽의 비전과 방향성 제시' },
-  { name: '서진영', role: '회장', desc: '구단 운영 총괄' },
-  { name: '변병주', role: '회장', desc: '구단 운영 총괄' },
+  { name: '손진영', role: '구단주', desc: '클럽의 비전과 방향성 제시' },
+  { name: '변병주', role: '단장', desc: '구단 운영 총괄' },
+  { name: '조금현', role: '법률위원장 및 감사', desc: '법률 자문 및 회계 감사' },
+  { name: '엄민식', role: '운영국장', desc: '구단 운영 및 관리' },
 ];
 
 export const metadata = {
