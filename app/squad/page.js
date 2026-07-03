@@ -1,33 +1,54 @@
 import Link from 'next/link';
 
 const players = [
+  // Goalkeepers
   { number: 1, name: 'Vikneswaran Krisnan', position: 'GK', nation: 'MAS', flag: '🇲🇾' },
-  { number: 2, name: '임오규', position: 'MF', nation: 'KOR', flag: '🇰🇷' },
-  { number: 5, name: 'Wan Syamil Sulaiman', position: 'MF', nation: 'MAS', flag: '🇲🇾' },
-  { number: 6, name: '송영주', position: 'MF', nation: 'KOR', flag: '🇰🇷' },
-  { number: 7, name: '정은호', position: 'DF', nation: 'KOR', flag: '🇰🇷' },
-  { number: 9, name: '이지석', position: 'DF', nation: 'KOR', flag: '🇰🇷' },
-  { number: 10, name: '최찬양', position: 'MF', nation: 'KOR', flag: '🇰🇷', captain: true },
-  { number: 12, name: '박평안', position: 'DF', nation: 'KOR', flag: '🇰🇷' },
-  { number: 13, name: '오상묵', position: 'MF', nation: 'KOR', flag: '🇰🇷' },
-  { number: 15, name: 'Adam Ilham Idwan Shah', position: 'MF', nation: 'MAS', flag: '🇲🇾' },
-  { number: 16, name: '유준혁', position: 'MF', nation: 'KOR', flag: '🇰🇷' },
+  { number: 31, name: 'Ko Su-Wan', position: 'GK', nation: 'KOR', flag: '🇰🇷' },
+  { number: 99, name: 'Oh Ji-Hun', position: 'GK', nation: 'KOR', flag: '🇰🇷' },
+
+  // Defenders
+  { number: 5, name: '정은호 (Jung Eun-Ho)', position: 'DF', nation: 'KOR', flag: '🇰🇷' },
+  { number: 7, name: '이지석 (Yi Ji-Seok)', position: 'DF', nation: 'KOR', flag: '🇰🇷' },
+  { number: 12, name: '박평안 (Park Pyeong-An)', position: 'DF', nation: 'KOR', flag: '🇰🇷' },
   { number: 17, name: 'Mhlengi Sibonani Ndhlovu', position: 'DF', nation: 'RSA', flag: '🇿🇦' },
   { number: 18, name: 'Zubair Kamarulzaman', position: 'DF', nation: 'MAS', flag: '🇲🇾' },
-  { number: 22, name: '방선우', position: 'MF', nation: 'KOR', flag: '🇰🇷' },
-  { number: 23, name: '최지윤', position: 'DF', nation: 'KOR', flag: '🇰🇷' },
-  { number: 24, name: '—', position: '—', nation: '—', flag: '' },
+  { number: 23, name: '최지윤 (Choi Ji-Yun)', position: 'DF', nation: 'KOR', flag: '🇰🇷' },
+  { number: 26, name: '한승민 (Han Seung-Min)', position: 'DF', nation: 'KOR', flag: '🇰🇷' },
+  { number: 27, name: '윤정민 (Yoon Jeong-Min)', position: 'DF', nation: 'KOR', flag: '🇰🇷' },
+  { number: 28, name: '황찬원 (Hwang Chan-Won)', position: 'DF', nation: 'KOR', flag: '🇰🇷' },
+  { number: 37, name: 'Yusof Umar', position: 'DF', nation: 'MAS', flag: '🇲🇾' },
+  { number: 66, name: '박세희 (Park Se-Hee)', position: 'DF', nation: 'KOR', flag: '🇰🇷' },
+
+  // Midfielders
+  { number: 2, name: '임오규 (Lim Oh-Kyu)', position: 'MF', nation: 'KOR', flag: '🇰🇷' },
+  { number: 4, name: 'Wan Syamil Sulaiman', position: 'MF', nation: 'MAS', flag: '🇲🇾' },
+  { number: 6, name: '송영주 (Song Young-Ju)', position: 'MF', nation: 'KOR', flag: '🇰🇷' },
+  { number: 10, name: '최찬양 (Choi Chan-Yang)', position: 'MF', nation: 'KOR', flag: '🇰🇷', captain: true },
+  { number: 13, name: '오상묵 (Oh Sang-Muk)', position: 'MF', nation: 'KOR', flag: '🇰🇷' },
+  { number: 15, name: 'Adam Ilham Idwan Shah', position: 'MF', nation: 'MAS', flag: '🇲🇾' },
+  { number: 16, name: '유준혁 (Yu Jun-Hyuk)', position: 'MF', nation: 'KOR', flag: '🇰🇷' },
+  { number: 22, name: '방선우 (Bang Sun-Woo)', position: 'MF', nation: 'KOR', flag: '🇰🇷' },
+  { number: 29, name: 'Danial Ashraf', position: 'MF', nation: 'MAS', flag: '🇲🇾' },
+  { number: 32, name: '윤소명 (Yun So-Myeong)', position: 'MF', nation: 'KOR', flag: '🇰🇷' },
+  { number: 33, name: 'Afif Jazimin', position: 'MF', nation: 'MAS', flag: '🇲🇾' },
+  { number: 39, name: 'Afiq Haikal', position: 'MF', nation: 'MAS', flag: '🇲🇾' },
+  { number: 77, name: 'Hakimi Mat Isa', position: 'MF', nation: 'MAS', flag: '🇲🇾' },
+
+  // Forwards
+  { number: 24, name: 'Allwell Kelvin Chimereucheya', position: 'FW', nation: 'NGA', flag: '🇳🇬' },
+  { number: 25, name: '임우진 (Lim Woo-Jin)', position: 'FW', nation: 'KOR', flag: '🇰🇷' },
 ];
 
 const positionGroups = [
   { key: 'GK', label: '골키퍼', color: 'bg-yellow-500' },
   { key: 'DF', label: '수비수', color: 'bg-blue-500' },
   { key: 'MF', label: '미드필더', color: 'bg-green-500' },
+  { key: 'FW', label: '공격수', color: 'bg-red-500' },
 ];
 
 export const metadata = {
   title: '선수단',
-  description: '서울피닉스 FC의 선수단을 소개합니다.',
+  description: '서울피닉스FC의 선수단을 소개합니다.',
 };
 
 function PositionBadge({ position }) {
@@ -47,6 +68,7 @@ export default function SquadPage() {
   const goalkeepers = players.filter((p) => p.position === 'GK');
   const defenders = players.filter((p) => p.position === 'DF');
   const midfielders = players.filter((p) => p.position === 'MF');
+  const forwards = players.filter((p) => p.position === 'FW');
 
   return (
     <div className="pt-20 bg-brand-black">
@@ -55,7 +77,20 @@ export default function SquadPage() {
         <div className="absolute inset-0 bg-gradient-to-br from-brand-red/20 via-brand-black to-brand-black" />
         <div className="relative z-10 max-w-5xl mx-auto px-4 text-center">
           <h1 className="text-4xl lg:text-5xl font-extrabold text-white mb-4">선수단</h1>
-          <p className="text-lg text-white/60">2026시즌 서울피닉스 FC의 선수들을 소개합니다</p>
+          <p className="text-lg text-white/60">2025-26시즌 서울피닉스FC의 선수들을 소개합니다</p>
+          {/* Season Navigation */}
+          <div className="flex items-center justify-center gap-3 mt-6">
+            <span className="inline-flex items-center gap-1.5 px-4 py-2 rounded-lg text-sm font-medium bg-brand-red text-white">
+              2025-26 시즌
+            </span>
+            <span className="text-white/30 text-sm">|</span>
+            <Link
+              href="/squad/2026-27"
+              className="inline-flex items-center gap-1.5 px-4 py-2 rounded-lg text-sm font-medium bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-all"
+            >
+              2026-27 시즌 →
+            </Link>
+          </div>
         </div>
       </section>
 
@@ -99,13 +134,26 @@ export default function SquadPage() {
           </div>
 
           {/* Midfielders */}
-          <div>
+          <div className="mb-10">
             <h2 className="text-lg font-extrabold text-brand-black mb-4 flex items-center gap-2">
               <span className="w-2 h-2 rounded-full bg-green-500" />
               미드필더
             </h2>
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
               {midfielders.map((player) => (
+                <PlayerCard key={player.number} player={player} />
+              ))}
+            </div>
+          </div>
+
+          {/* Forwards */}
+          <div>
+            <h2 className="text-lg font-extrabold text-brand-black mb-4 flex items-center gap-2">
+              <span className="w-2 h-2 rounded-full bg-red-500" />
+              공격수
+            </h2>
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+              {forwards.map((player) => (
                 <PlayerCard key={player.number} player={player} />
               ))}
             </div>

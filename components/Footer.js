@@ -41,25 +41,20 @@ export default function Footer() {
               <div className="relative w-10 h-10 bg-white rounded-full overflow-hidden shrink-0 ring-2 ring-brand-gold/30">
                 <Image
                   src="/logo.jpg"
-                  alt="서울피닉스 FC 로고"
+                  alt="서울피닉스FC 로고"
                   fill
                   sizes="40px"
                   className="object-cover"
                 />
               </div>
               <div className="flex flex-col">
-                <span className="text-lg font-extrabold">서울피닉스</span>
-                <span className="text-[10px] text-brand-gold-light -mt-1 tracking-wider uppercase">
-                  Seoul Phoenix FC
-                </span>
+                <span className="text-lg font-extrabold">서울피닉스FC</span>
               </div>
             </Link>
             <p className="text-white/60 text-sm leading-relaxed mb-6">
-              대한민국-말레이시아를 잇는 축구 클럽.
+              대한민국과 말레이시아(Malaysia A1 Semi-Pro League)를 잇는 축구 클럽.
               <br />
-              Malaysia A1 Semi-Pro League에서
-              <br />
-              새로운 역사를 만들어갑니다.
+              새로운 도전, 새로운 역사를 만들어갑니다.
             </p>
             <div className="flex items-center gap-3">
               {['youtube', 'instagram', 'facebook'].map((social) => (
@@ -105,7 +100,7 @@ export default function Footer() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
           <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
             <p className="text-white/40 text-xs">
-              © {new Date().getFullYear()} Seoul Phoenix FC. All rights reserved.
+              © {new Date().getFullYear()} 서울피닉스FC. All rights reserved.
             </p>
             <div className="flex items-center gap-6 text-white/40 text-xs">
               <a href="#" className="hover:text-white/60 transition-colors">

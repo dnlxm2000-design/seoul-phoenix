@@ -1,0 +1,749 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - link "서울피닉스FC 로고 서울피닉스FC" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img "서울피닉스FC 로고" [ref=e8]
+          - generic [ref=e10]: 서울피닉스FC
+        - link "K·국제클럽축구연맹 K·국제클럽 축구연맹" [ref=e11] [cursor=pointer]:
+          - /url: /federation/
+          - img "K·국제클럽축구연맹" [ref=e13]
+          - generic [ref=e14]:
+            - text: K·국제클럽
+            - text: 축구연맹
+      - navigation [ref=e15]:
+        - link "홈" [ref=e16] [cursor=pointer]:
+          - /url: /
+        - link "클럽 소개" [ref=e17] [cursor=pointer]:
+          - /url: /about/
+        - link "뉴스" [ref=e18] [cursor=pointer]:
+          - /url: /news/
+        - link "선수단" [ref=e19] [cursor=pointer]:
+          - /url: /squad/
+        - link "경기 일정" [ref=e20] [cursor=pointer]:
+          - /url: /schedule/
+        - link "갤러리" [ref=e21] [cursor=pointer]:
+          - /url: /gallery/
+        - link "연맹 소개" [ref=e22] [cursor=pointer]:
+          - /url: /federation/
+        - link "연락처" [ref=e23] [cursor=pointer]:
+          - /url: /contact/
+  - main [ref=e24]:
+    - generic [ref=e25]:
+      - generic [ref=e28]:
+        - heading "경기 일정" [level=1] [ref=e29]
+        - paragraph [ref=e30]: 서울피닉스의 2025-26 A1 Semi-Pro League 전 경기 결과
+      - generic [ref=e32]:
+        - generic [ref=e33]:
+          - generic [ref=e34]:
+            - generic [ref=e35]:
+              - paragraph [ref=e36]: "28"
+              - paragraph [ref=e37]: 경기
+            - generic [ref=e38]:
+              - paragraph [ref=e39]: "5"
+              - paragraph [ref=e40]: 승
+            - generic [ref=e41]:
+              - paragraph [ref=e42]: "2"
+              - paragraph [ref=e43]: 무
+            - generic [ref=e44]:
+              - paragraph [ref=e45]: "21"
+              - paragraph [ref=e46]: 패
+          - generic [ref=e47]: "득점: 21 · 실점: 101 · 최종 순위: 13위"
+        - generic [ref=e48]:
+          - heading "2026년 5월(4경기)" [level=2] [ref=e49]:
+            - text: 2026년 5월
+            - generic [ref=e50]: (4경기)
+          - generic [ref=e51]:
+            - 'link "Match #235 패 자세히 → Kedah FA 0 : 3 서울피닉스FC 원정 2026.05.23 STADIUM DARUL AMAN, ALOR SETAR" [ref=e52] [cursor=pointer]':
+              - /url: /schedule/235/
+              - generic [ref=e54]:
+                - generic [ref=e55]:
+                  - generic [ref=e56]: "Match #235"
+                  - generic [ref=e57]:
+                    - generic [ref=e58]: 패
+                    - generic [ref=e59]: 자세히 →
+                - generic [ref=e60]:
+                  - paragraph [ref=e62]: Kedah FA
+                  - generic [ref=e64]:
+                    - generic [ref=e65]: "0"
+                    - generic [ref=e66]: ":"
+                    - generic [ref=e67]: "3"
+                  - generic [ref=e68]:
+                    - paragraph [ref=e69]: 서울피닉스FC
+                    - generic [ref=e70]: 원정
+                - generic [ref=e71]:
+                  - generic [ref=e73]: 2026.05.23
+                  - generic [ref=e74]: STADIUM DARUL AMAN, ALOR SETAR
+            - 'link "Match #231 승 자세히 → 서울피닉스FC 홈 3 : 1 Perlis GSA 2026.05.16 STADIUM MINI PERSADA PLUS" [ref=e75] [cursor=pointer]':
+              - /url: /schedule/231/
+              - generic [ref=e77]:
+                - generic [ref=e78]:
+                  - generic [ref=e79]: "Match #231"
+                  - generic [ref=e80]:
+                    - generic [ref=e81]: 승
+                    - generic [ref=e82]: 자세히 →
+                - generic [ref=e83]:
+                  - generic [ref=e84]:
+                    - paragraph [ref=e85]: 서울피닉스FC
+                    - generic [ref=e86]: 홈
+                  - generic [ref=e88]:
+                    - generic [ref=e89]: "3"
+                    - generic [ref=e90]: ":"
+                    - generic [ref=e91]: "1"
+                  - paragraph [ref=e93]: Perlis GSA
+                - generic [ref=e94]:
+                  - generic [ref=e96]: 2026.05.16
+                  - generic [ref=e97]: STADIUM MINI PERSADA PLUS
+            - 'link "Match #218 패 자세히 → Perak FA 0 : 2 서울피닉스FC 원정 2026.05.09 KOMPLEKS BOLA SEPAK PERAK, CHEPOR" [ref=e98] [cursor=pointer]':
+              - /url: /schedule/218/
+              - generic [ref=e100]:
+                - generic [ref=e101]:
+                  - generic [ref=e102]: "Match #218"
+                  - generic [ref=e103]:
+                    - generic [ref=e104]: 패
+                    - generic [ref=e105]: 자세히 →
+                - generic [ref=e106]:
+                  - paragraph [ref=e108]: Perak FA
+                  - generic [ref=e110]:
+                    - generic [ref=e111]: "0"
+                    - generic [ref=e112]: ":"
+                    - generic [ref=e113]: "2"
+                  - generic [ref=e114]:
+                    - paragraph [ref=e115]: 서울피닉스FC
+                    - generic [ref=e116]: 원정
+                - generic [ref=e117]:
+                  - generic [ref=e119]: 2026.05.09
+                  - generic [ref=e120]: KOMPLEKS BOLA SEPAK PERAK, CHEPOR
+            - 'link "Match #213 패 자세히 → UM-Damansara Utd 1 : 8 서울피닉스FC 원정 2026.05.02 STADIUM UM ARENA, KUALA LUMPUR" [ref=e121] [cursor=pointer]':
+              - /url: /schedule/213/
+              - generic [ref=e123]:
+                - generic [ref=e124]:
+                  - generic [ref=e125]: "Match #213"
+                  - generic [ref=e126]:
+                    - generic [ref=e127]: 패
+                    - generic [ref=e128]: 자세히 →
+                - generic [ref=e129]:
+                  - paragraph [ref=e131]: UM-Damansara Utd
+                  - generic [ref=e133]:
+                    - generic [ref=e134]: "1"
+                    - generic [ref=e135]: ":"
+                    - generic [ref=e136]: "8"
+                  - generic [ref=e137]:
+                    - paragraph [ref=e138]: 서울피닉스FC
+                    - generic [ref=e139]: 원정
+                - generic [ref=e140]:
+                  - generic [ref=e142]: 2026.05.02
+                  - generic [ref=e143]: STADIUM UM ARENA, KUALA LUMPUR
+        - generic [ref=e144]:
+          - heading "2026년 4월(3경기)" [level=2] [ref=e145]:
+            - text: 2026년 4월
+            - generic [ref=e146]: (3경기)
+          - generic [ref=e147]:
+            - 'link "Match #199 패 자세히 → Selangor II 0 : 5 서울피닉스FC 원정 2026.04.19 STADIUM UITM SHAH ALAM, SELANGOR" [ref=e148] [cursor=pointer]':
+              - /url: /schedule/199/
+              - generic [ref=e150]:
+                - generic [ref=e151]:
+                  - generic [ref=e152]: "Match #199"
+                  - generic [ref=e153]:
+                    - generic [ref=e154]: 패
+                    - generic [ref=e155]: 자세히 →
+                - generic [ref=e156]:
+                  - paragraph [ref=e158]: Selangor II
+                  - generic [ref=e160]:
+                    - generic [ref=e161]: "0"
+                    - generic [ref=e162]: ":"
+                    - generic [ref=e163]: "5"
+                  - generic [ref=e164]:
+                    - paragraph [ref=e165]: 서울피닉스FC
+                    - generic [ref=e166]: 원정
+                - generic [ref=e167]:
+                  - generic [ref=e169]: 2026.04.19
+                  - generic [ref=e170]: STADIUM UITM SHAH ALAM, SELANGOR
+            - 'link "Match #190 패 자세히 → 서울피닉스FC 홈 0 : 4 Kelantan WTS 2026.04.13 STADIUM MINI PERSADA PLUS" [ref=e171] [cursor=pointer]':
+              - /url: /schedule/190/
+              - generic [ref=e173]:
+                - generic [ref=e174]:
+                  - generic [ref=e175]: "Match #190"
+                  - generic [ref=e176]:
+                    - generic [ref=e177]: 패
+                    - generic [ref=e178]: 자세히 →
+                - generic [ref=e179]:
+                  - generic [ref=e180]:
+                    - paragraph [ref=e181]: 서울피닉스FC
+                    - generic [ref=e182]: 홈
+                  - generic [ref=e184]:
+                    - generic [ref=e185]: "0"
+                    - generic [ref=e186]: ":"
+                    - generic [ref=e187]: "4"
+                  - paragraph [ref=e189]: Kelantan WTS
+                - generic [ref=e190]:
+                  - generic [ref=e192]: 2026.04.13
+                  - generic [ref=e193]: STADIUM MINI PERSADA PLUS
+            - 'link "Match #180 패 자세히 → Imigresen II 1 : 7 서울피닉스FC 원정 2026.04.04 STADIUM UPM, SERDANG" [ref=e194] [cursor=pointer]':
+              - /url: /schedule/180/
+              - generic [ref=e196]:
+                - generic [ref=e197]:
+                  - generic [ref=e198]: "Match #180"
+                  - generic [ref=e199]:
+                    - generic [ref=e200]: 패
+                    - generic [ref=e201]: 자세히 →
+                - generic [ref=e202]:
+                  - paragraph [ref=e204]: Imigresen II
+                  - generic [ref=e206]:
+                    - generic [ref=e207]: "1"
+                    - generic [ref=e208]: ":"
+                    - generic [ref=e209]: "7"
+                  - generic [ref=e210]:
+                    - paragraph [ref=e211]: 서울피닉스FC
+                    - generic [ref=e212]: 원정
+                - generic [ref=e213]:
+                  - generic [ref=e215]: 2026.04.04
+                  - generic [ref=e216]: STADIUM UPM, SERDANG
+        - generic [ref=e217]:
+          - heading "2026년 3월(1경기)" [level=2] [ref=e218]:
+            - text: 2026년 3월
+            - generic [ref=e219]: (1경기)
+          - 'link "Match #174 패 자세히 → 서울피닉스FC 홈 0 : 2 Bunga Raya 2026.03.30 STADIUM MINI PERSADA PLUS" [ref=e221] [cursor=pointer]':
+            - /url: /schedule/174/
+            - generic [ref=e223]:
+              - generic [ref=e224]:
+                - generic [ref=e225]: "Match #174"
+                - generic [ref=e226]:
+                  - generic [ref=e227]: 패
+                  - generic [ref=e228]: 자세히 →
+              - generic [ref=e229]:
+                - generic [ref=e230]:
+                  - paragraph [ref=e231]: 서울피닉스FC
+                  - generic [ref=e232]: 홈
+                - generic [ref=e234]:
+                  - generic [ref=e235]: "0"
+                  - generic [ref=e236]: ":"
+                  - generic [ref=e237]: "2"
+                - paragraph [ref=e239]: Bunga Raya
+              - generic [ref=e240]:
+                - generic [ref=e242]: 2026.03.30
+                - generic [ref=e243]: STADIUM MINI PERSADA PLUS
+        - generic [ref=e244]:
+          - heading "2026년 2월(2경기)" [level=2] [ref=e245]:
+            - text: 2026년 2월
+            - generic [ref=e246]: (2경기)
+          - generic [ref=e247]:
+            - 'link "Match #167 승 자세히 → Kedah Darul Aman 6 : 1 서울피닉스FC 원정 2026.02.15 STADIUM MINI MPKP, JITRA" [ref=e248] [cursor=pointer]':
+              - /url: /schedule/167/
+              - generic [ref=e250]:
+                - generic [ref=e251]:
+                  - generic [ref=e252]: "Match #167"
+                  - generic [ref=e253]:
+                    - generic [ref=e254]: 승
+                    - generic [ref=e255]: 자세히 →
+                - generic [ref=e256]:
+                  - paragraph [ref=e258]: Kedah Darul Aman
+                  - generic [ref=e260]:
+                    - generic [ref=e261]: "6"
+                    - generic [ref=e262]: ":"
+                    - generic [ref=e263]: "1"
+                  - generic [ref=e264]:
+                    - paragraph [ref=e265]: 서울피닉스FC
+                    - generic [ref=e266]: 원정
+                - generic [ref=e267]:
+                  - generic [ref=e269]: 2026.02.15
+                  - generic [ref=e270]: STADIUM MINI MPKP, JITRA
+            - 'link "Match #157 패 자세히 → 서울피닉스FC 홈 0 : 6 ATM 2026.02.07 STADIUM MAJLIS PERBANDARAN SEPANG" [ref=e271] [cursor=pointer]':
+              - /url: /schedule/157/
+              - generic [ref=e273]:
+                - generic [ref=e274]:
+                  - generic [ref=e275]: "Match #157"
+                  - generic [ref=e276]:
+                    - generic [ref=e277]: 패
+                    - generic [ref=e278]: 자세히 →
+                - generic [ref=e279]:
+                  - generic [ref=e280]:
+                    - paragraph [ref=e281]: 서울피닉스FC
+                    - generic [ref=e282]: 홈
+                  - generic [ref=e284]:
+                    - generic [ref=e285]: "0"
+                    - generic [ref=e286]: ":"
+                    - generic [ref=e287]: "6"
+                  - paragraph [ref=e289]: ATM
+                - generic [ref=e290]:
+                  - generic [ref=e292]: 2026.02.07
+                  - generic [ref=e293]: STADIUM MAJLIS PERBANDARAN SEPANG
+        - generic [ref=e294]:
+          - heading "2026년 1월(4경기)" [level=2] [ref=e295]:
+            - text: 2026년 1월
+            - generic [ref=e296]: (4경기)
+          - generic [ref=e297]:
+            - 'link "Match #146 패 자세히 → Manjung City 1 : 5 서울피닉스FC 원정 2026.01.30 STADIUM MAJLIS PERBANDARAN MANJUNG" [ref=e298] [cursor=pointer]':
+              - /url: /schedule/146/
+              - generic [ref=e300]:
+                - generic [ref=e301]:
+                  - generic [ref=e302]: "Match #146"
+                  - generic [ref=e303]:
+                    - generic [ref=e304]: 패
+                    - generic [ref=e305]: 자세히 →
+                - generic [ref=e306]:
+                  - paragraph [ref=e308]: Manjung City
+                  - generic [ref=e310]:
+                    - generic [ref=e311]: "1"
+                    - generic [ref=e312]: ":"
+                    - generic [ref=e313]: "5"
+                  - generic [ref=e314]:
+                    - paragraph [ref=e315]: 서울피닉스FC
+                    - generic [ref=e316]: 원정
+                - generic [ref=e317]:
+                  - generic [ref=e319]: 2026.01.30
+                  - generic [ref=e320]: STADIUM MAJLIS PERBANDARAN MANJUNG
+            - 'link "Match #141 패 자세히 → 서울피닉스FC 홈 2 : 6 Malaysian Univ. 2026.01.24 STADIUM MAJLIS PERBANDARAN SEPANG" [ref=e321] [cursor=pointer]':
+              - /url: /schedule/141/
+              - generic [ref=e323]:
+                - generic [ref=e324]:
+                  - generic [ref=e325]: "Match #141"
+                  - generic [ref=e326]:
+                    - generic [ref=e327]: 패
+                    - generic [ref=e328]: 자세히 →
+                - generic [ref=e329]:
+                  - generic [ref=e330]:
+                    - paragraph [ref=e331]: 서울피닉스FC
+                    - generic [ref=e332]: 홈
+                  - generic [ref=e334]:
+                    - generic [ref=e335]: "2"
+                    - generic [ref=e336]: ":"
+                    - generic [ref=e337]: "6"
+                  - paragraph [ref=e339]: Malaysian Univ.
+                - generic [ref=e340]:
+                  - generic [ref=e342]: 2026.01.24
+                  - generic [ref=e343]: STADIUM MAJLIS PERBANDARAN SEPANG
+            - 'link "Match #134 패 자세히 → Kelantan Red Warrior 0 : 6 서울피닉스FC 원정 2026.01.20 STADIUM SULTAN MUHAMMAD IV, KOTA BHARU" [ref=e344] [cursor=pointer]':
+              - /url: /schedule/134/
+              - generic [ref=e346]:
+                - generic [ref=e347]:
+                  - generic [ref=e348]: "Match #134"
+                  - generic [ref=e349]:
+                    - generic [ref=e350]: 패
+                    - generic [ref=e351]: 자세히 →
+                - generic [ref=e352]:
+                  - paragraph [ref=e354]: Kelantan Red Warrior
+                  - generic [ref=e356]:
+                    - generic [ref=e357]: "0"
+                    - generic [ref=e358]: ":"
+                    - generic [ref=e359]: "6"
+                  - generic [ref=e360]:
+                    - paragraph [ref=e361]: 서울피닉스FC
+                    - generic [ref=e362]: 원정
+                - generic [ref=e363]:
+                  - generic [ref=e365]: 2026.01.20
+                  - generic [ref=e366]: STADIUM SULTAN MUHAMMAD IV, KOTA BHARU
+            - 'link "Match #127 패 자세히 → 서울피닉스FC 홈 0 : 9 JDT II 2026.01.11 STADIUM MAJLIS PERBANDARAN SEPANG" [ref=e367] [cursor=pointer]':
+              - /url: /schedule/127/
+              - generic [ref=e369]:
+                - generic [ref=e370]:
+                  - generic [ref=e371]: "Match #127"
+                  - generic [ref=e372]:
+                    - generic [ref=e373]: 패
+                    - generic [ref=e374]: 자세히 →
+                - generic [ref=e375]:
+                  - generic [ref=e376]:
+                    - paragraph [ref=e377]: 서울피닉스FC
+                    - generic [ref=e378]: 홈
+                  - generic [ref=e380]:
+                    - generic [ref=e381]: "0"
+                    - generic [ref=e382]: ":"
+                    - generic [ref=e383]: "9"
+                  - paragraph [ref=e385]: JDT II
+                - generic [ref=e386]:
+                  - generic [ref=e388]: 2026.01.11
+                  - generic [ref=e389]: STADIUM MAJLIS PERBANDARAN SEPANG
+        - generic [ref=e390]:
+          - heading "2025년 12월(3경기)" [level=2] [ref=e391]:
+            - text: 2025년 12월
+            - generic [ref=e392]: (3경기)
+          - generic [ref=e393]:
+            - 'link "Match #117 패 자세히 → 서울피닉스FC 홈 0 : 2 Kedah FA 2025.12.28 STADIUM MAJLIS PERBANDARAN SEPANG" [ref=e394] [cursor=pointer]':
+              - /url: /schedule/117/
+              - generic [ref=e396]:
+                - generic [ref=e397]:
+                  - generic [ref=e398]: "Match #117"
+                  - generic [ref=e399]:
+                    - generic [ref=e400]: 패
+                    - generic [ref=e401]: 자세히 →
+                - generic [ref=e402]:
+                  - generic [ref=e403]:
+                    - paragraph [ref=e404]: 서울피닉스FC
+                    - generic [ref=e405]: 홈
+                  - generic [ref=e407]:
+                    - generic [ref=e408]: "0"
+                    - generic [ref=e409]: ":"
+                    - generic [ref=e410]: "2"
+                  - paragraph [ref=e412]: Kedah FA
+                - generic [ref=e413]:
+                  - generic [ref=e415]: 2025.12.28
+                  - generic [ref=e416]: STADIUM MAJLIS PERBANDARAN SEPANG
+            - 'link "Match #108 패 자세히 → Perlis GSA 0 : 8 서울피닉스FC 원정 2025.12.20 KOMPLEKS SUKAN UITM PERLIS, ARAU" [ref=e417] [cursor=pointer]':
+              - /url: /schedule/108/
+              - generic [ref=e419]:
+                - generic [ref=e420]:
+                  - generic [ref=e421]: "Match #108"
+                  - generic [ref=e422]:
+                    - generic [ref=e423]: 패
+                    - generic [ref=e424]: 자세히 →
+                - generic [ref=e425]:
+                  - paragraph [ref=e427]: Perlis GSA
+                  - generic [ref=e429]:
+                    - generic [ref=e430]: "0"
+                    - generic [ref=e431]: ":"
+                    - generic [ref=e432]: "8"
+                  - generic [ref=e433]:
+                    - paragraph [ref=e434]: 서울피닉스FC
+                    - generic [ref=e435]: 원정
+                - generic [ref=e436]:
+                  - generic [ref=e438]: 2025.12.20
+                  - generic [ref=e439]: KOMPLEKS SUKAN UITM PERLIS, ARAU
+            - 'link "Match #101 패 자세히 → Perak FA 0 : 8 서울피닉스FC 원정 2025.12.14 KOMPLEKS BOLA SEPAK PERAK, CHEPOR" [ref=e440] [cursor=pointer]':
+              - /url: /schedule/101/
+              - generic [ref=e442]:
+                - generic [ref=e443]:
+                  - generic [ref=e444]: "Match #101"
+                  - generic [ref=e445]:
+                    - generic [ref=e446]: 패
+                    - generic [ref=e447]: 자세히 →
+                - generic [ref=e448]:
+                  - paragraph [ref=e450]: Perak FA
+                  - generic [ref=e452]:
+                    - generic [ref=e453]: "0"
+                    - generic [ref=e454]: ":"
+                    - generic [ref=e455]: "8"
+                  - generic [ref=e456]:
+                    - paragraph [ref=e457]: 서울피닉스FC
+                    - generic [ref=e458]: 원정
+                - generic [ref=e459]:
+                  - generic [ref=e461]: 2025.12.14
+                  - generic [ref=e462]: KOMPLEKS BOLA SEPAK PERAK, CHEPOR
+        - generic [ref=e463]:
+          - heading "2025년 11월(3경기)" [level=2] [ref=e464]:
+            - text: 2025년 11월
+            - generic [ref=e465]: (3경기)
+          - generic [ref=e466]:
+            - 'link "Match #94 패 자세히 → UM-Damansara Utd 0 : 3 서울피닉스FC 원정 2025.11.16 STADIUM UM ARENA, KUALA LUMPUR" [ref=e467] [cursor=pointer]':
+              - /url: /schedule/94/
+              - generic [ref=e469]:
+                - generic [ref=e470]:
+                  - generic [ref=e471]: "Match #94"
+                  - generic [ref=e472]:
+                    - generic [ref=e473]: 패
+                    - generic [ref=e474]: 자세히 →
+                - generic [ref=e475]:
+                  - paragraph [ref=e477]: UM-Damansara Utd
+                  - generic [ref=e479]:
+                    - generic [ref=e480]: "0"
+                    - generic [ref=e481]: ":"
+                    - generic [ref=e482]: "3"
+                  - generic [ref=e483]:
+                    - paragraph [ref=e484]: 서울피닉스FC
+                    - generic [ref=e485]: 원정
+                - generic [ref=e486]:
+                  - generic [ref=e488]: 2025.11.16
+                  - generic [ref=e489]: STADIUM UM ARENA, KUALA LUMPUR
+            - 'link "Match #81 승 자세히 → Machan FC 2 : 1 서울피닉스FC 원정 2025.11.07 STADIUM HANG TUAH, MELAKA" [ref=e490] [cursor=pointer]':
+              - /url: /schedule/81/
+              - generic [ref=e492]:
+                - generic [ref=e493]:
+                  - generic [ref=e494]: "Match #81"
+                  - generic [ref=e495]:
+                    - generic [ref=e496]: 승
+                    - generic [ref=e497]: 자세히 →
+                - generic [ref=e498]:
+                  - paragraph [ref=e500]: Machan FC
+                  - generic [ref=e502]:
+                    - generic [ref=e503]: "2"
+                    - generic [ref=e504]: ":"
+                    - generic [ref=e505]: "1"
+                  - generic [ref=e506]:
+                    - paragraph [ref=e507]: 서울피닉스FC
+                    - generic [ref=e508]: 원정
+                - generic [ref=e509]:
+                  - generic [ref=e511]: 2025.11.07
+                  - generic [ref=e512]: STADIUM HANG TUAH, MELAKA
+            - 'link "Match #77 패 자세히 → 서울피닉스FC 홈 0 : 3 Selangor II 2025.11.02 STADIUM MAJLIS PERBANDARAN SEPANG" [ref=e513] [cursor=pointer]':
+              - /url: /schedule/77/
+              - generic [ref=e515]:
+                - generic [ref=e516]:
+                  - generic [ref=e517]: "Match #77"
+                  - generic [ref=e518]:
+                    - generic [ref=e519]: 패
+                    - generic [ref=e520]: 자세히 →
+                - generic [ref=e521]:
+                  - generic [ref=e522]:
+                    - paragraph [ref=e523]: 서울피닉스FC
+                    - generic [ref=e524]: 홈
+                  - generic [ref=e526]:
+                    - generic [ref=e527]: "0"
+                    - generic [ref=e528]: ":"
+                    - generic [ref=e529]: "3"
+                  - paragraph [ref=e531]: Selangor II
+                - generic [ref=e532]:
+                  - generic [ref=e534]: 2025.11.02
+                  - generic [ref=e535]: STADIUM MAJLIS PERBANDARAN SEPANG
+        - generic [ref=e536]:
+          - heading "2025년 10월(3경기)" [level=2] [ref=e537]:
+            - text: 2025년 10월
+            - generic [ref=e538]: (3경기)
+          - generic [ref=e539]:
+            - 'link "Match #66 무 자세히 → Kelantan WTS 2 : 2 서울피닉스FC 원정 2025.10.25 STADIUM SULTAN MUHAMMAD IV, KOTA BHARU" [ref=e540] [cursor=pointer]':
+              - /url: /schedule/66/
+              - generic [ref=e542]:
+                - generic [ref=e543]:
+                  - generic [ref=e544]: "Match #66"
+                  - generic [ref=e545]:
+                    - generic [ref=e546]: 무
+                    - generic [ref=e547]: 자세히 →
+                - generic [ref=e548]:
+                  - paragraph [ref=e550]: Kelantan WTS
+                  - generic [ref=e552]:
+                    - generic [ref=e553]: "2"
+                    - generic [ref=e554]: ":"
+                    - generic [ref=e555]: "2"
+                  - generic [ref=e556]:
+                    - paragraph [ref=e557]: 서울피닉스FC
+                    - generic [ref=e558]: 원정
+                - generic [ref=e559]:
+                  - generic [ref=e561]: 2025.10.25
+                  - generic [ref=e562]: STADIUM SULTAN MUHAMMAD IV, KOTA BHARU
+            - 'link "Match #63 패 자세히 → 서울피닉스FC 홈 0 : 2 Imigresen II 2025.10.12 STADIUM MAJLIS PERBANDARAN SEPANG" [ref=e563] [cursor=pointer]':
+              - /url: /schedule/63/
+              - generic [ref=e565]:
+                - generic [ref=e566]:
+                  - generic [ref=e567]: "Match #63"
+                  - generic [ref=e568]:
+                    - generic [ref=e569]: 패
+                    - generic [ref=e570]: 자세히 →
+                - generic [ref=e571]:
+                  - generic [ref=e572]:
+                    - paragraph [ref=e573]: 서울피닉스FC
+                    - generic [ref=e574]: 홈
+                  - generic [ref=e576]:
+                    - generic [ref=e577]: "0"
+                    - generic [ref=e578]: ":"
+                    - generic [ref=e579]: "2"
+                  - paragraph [ref=e581]: Imigresen II
+                - generic [ref=e582]:
+                  - generic [ref=e584]: 2025.10.12
+                  - generic [ref=e585]: STADIUM MAJLIS PERBANDARAN SEPANG
+            - 'link "Match #51 패 자세히 → Bunga Raya 0 : 2 서울피닉스FC 원정 2025.10.06 STADIUM TAMPIN, NEGERI SEMBILAN" [ref=e586] [cursor=pointer]':
+              - /url: /schedule/51/
+              - generic [ref=e588]:
+                - generic [ref=e589]:
+                  - generic [ref=e590]: "Match #51"
+                  - generic [ref=e591]:
+                    - generic [ref=e592]: 패
+                    - generic [ref=e593]: 자세히 →
+                - generic [ref=e594]:
+                  - paragraph [ref=e596]: Bunga Raya
+                  - generic [ref=e598]:
+                    - generic [ref=e599]: "0"
+                    - generic [ref=e600]: ":"
+                    - generic [ref=e601]: "2"
+                  - generic [ref=e602]:
+                    - paragraph [ref=e603]: 서울피닉스FC
+                    - generic [ref=e604]: 원정
+                - generic [ref=e605]:
+                  - generic [ref=e607]: 2025.10.06
+                  - generic [ref=e608]: STADIUM TAMPIN, NEGERI SEMBILAN
+        - generic [ref=e609]:
+          - heading "2025년 9월(4경기)" [level=2] [ref=e610]:
+            - text: 2025년 9월
+            - generic [ref=e611]: (4경기)
+          - generic [ref=e612]:
+            - 'link "Match #43 승 자세히 → Kedah Darul Aman 2 : 0 서울피닉스FC 원정 2025.09.28 STADIUM UM ARENA, KUALA LUMPUR" [ref=e613] [cursor=pointer]':
+              - /url: /schedule/43/
+              - generic [ref=e615]:
+                - generic [ref=e616]:
+                  - generic [ref=e617]: "Match #43"
+                  - generic [ref=e618]:
+                    - generic [ref=e619]: 승
+                    - generic [ref=e620]: 자세히 →
+                - generic [ref=e621]:
+                  - paragraph [ref=e623]: Kedah Darul Aman
+                  - generic [ref=e625]:
+                    - generic [ref=e626]: "2"
+                    - generic [ref=e627]: ":"
+                    - generic [ref=e628]: "0"
+                  - generic [ref=e629]:
+                    - paragraph [ref=e630]: 서울피닉스FC
+                    - generic [ref=e631]: 원정
+                - generic [ref=e632]:
+                  - generic [ref=e634]: 2025.09.28
+                  - generic [ref=e635]: STADIUM UM ARENA, KUALA LUMPUR
+            - 'link "Match #38 패 자세히 → ATM 1 : 3 서울피닉스FC 원정 2025.09.21 STADIUM MINDEF, KUALA LUMPUR" [ref=e636] [cursor=pointer]':
+              - /url: /schedule/38/
+              - generic [ref=e638]:
+                - generic [ref=e639]:
+                  - generic [ref=e640]: "Match #38"
+                  - generic [ref=e641]:
+                    - generic [ref=e642]: 패
+                    - generic [ref=e643]: 자세히 →
+                - generic [ref=e644]:
+                  - paragraph [ref=e646]: ATM
+                  - generic [ref=e648]:
+                    - generic [ref=e649]: "1"
+                    - generic [ref=e650]: ":"
+                    - generic [ref=e651]: "3"
+                  - generic [ref=e652]:
+                    - paragraph [ref=e653]: 서울피닉스FC
+                    - generic [ref=e654]: 원정
+                - generic [ref=e655]:
+                  - generic [ref=e657]: 2025.09.21
+                  - generic [ref=e658]: STADIUM MINDEF, KUALA LUMPUR
+            - 'link "Match #28 승 자세히 → 서울피닉스FC 홈 1 : 0 Manjung City 2025.09.13 STADIUM MAJLIS PERBANDARAN SEPANG" [ref=e659] [cursor=pointer]':
+              - /url: /schedule/28/
+              - generic [ref=e661]:
+                - generic [ref=e662]:
+                  - generic [ref=e663]: "Match #28"
+                  - generic [ref=e664]:
+                    - generic [ref=e665]: 승
+                    - generic [ref=e666]: 자세히 →
+                - generic [ref=e667]:
+                  - generic [ref=e668]:
+                    - paragraph [ref=e669]: 서울피닉스FC
+                    - generic [ref=e670]: 홈
+                  - generic [ref=e672]:
+                    - generic [ref=e673]: "1"
+                    - generic [ref=e674]: ":"
+                    - generic [ref=e675]: "0"
+                  - paragraph [ref=e677]: Manjung City
+                - generic [ref=e678]:
+                  - generic [ref=e680]: 2025.09.13
+                  - generic [ref=e681]: STADIUM MAJLIS PERBANDARAN SEPANG
+            - 'link "Match #15 무 자세히 → Kelantan Red Warrior 0 : 0 서울피닉스FC 원정 2025.09.06 STADIUM SULTAN MUHAMMAD IV, KOTA BHARU" [ref=e682] [cursor=pointer]':
+              - /url: /schedule/15/
+              - generic [ref=e684]:
+                - generic [ref=e685]:
+                  - generic [ref=e686]: "Match #15"
+                  - generic [ref=e687]:
+                    - generic [ref=e688]: 무
+                    - generic [ref=e689]: 자세히 →
+                - generic [ref=e690]:
+                  - paragraph [ref=e692]: Kelantan Red Warrior
+                  - generic [ref=e694]:
+                    - generic [ref=e695]: "0"
+                    - generic [ref=e696]: ":"
+                    - generic [ref=e697]: "0"
+                  - generic [ref=e698]:
+                    - paragraph [ref=e699]: 서울피닉스FC
+                    - generic [ref=e700]: 원정
+                - generic [ref=e701]:
+                  - generic [ref=e703]: 2025.09.06
+                  - generic [ref=e704]: STADIUM SULTAN MUHAMMAD IV, KOTA BHARU
+        - generic [ref=e705]:
+          - heading "2025년 8월(2경기)" [level=2] [ref=e706]:
+            - text: 2025년 8월
+            - generic [ref=e707]: (2경기)
+          - generic [ref=e708]:
+            - 'link "Match #22 패 자세히 → Malaysian Univ. 0 : 3 서울피닉스FC 원정 2025.08.24 STADIUM INSPEN, KAJANG" [ref=e709] [cursor=pointer]':
+              - /url: /schedule/22/
+              - generic [ref=e711]:
+                - generic [ref=e712]:
+                  - generic [ref=e713]: "Match #22"
+                  - generic [ref=e714]:
+                    - generic [ref=e715]: 패
+                    - generic [ref=e716]: 자세히 →
+                - generic [ref=e717]:
+                  - paragraph [ref=e719]: Malaysian Univ.
+                  - generic [ref=e721]:
+                    - generic [ref=e722]: "0"
+                    - generic [ref=e723]: ":"
+                    - generic [ref=e724]: "3"
+                  - generic [ref=e725]:
+                    - paragraph [ref=e726]: 서울피닉스FC
+                    - generic [ref=e727]: 원정
+                - generic [ref=e728]:
+                  - generic [ref=e730]: 2025.08.24
+                  - generic [ref=e731]: STADIUM INSPEN, KAJANG
+            - 'link "Match #7 승 자세히 → JDT II 1 : 0 서울피닉스FC 원정 2025.08.16 STADIUM MAJLIS BANDARAYA PASIR GUDANG" [ref=e732] [cursor=pointer]':
+              - /url: /schedule/7/
+              - generic [ref=e734]:
+                - generic [ref=e735]:
+                  - generic [ref=e736]: "Match #7"
+                  - generic [ref=e737]:
+                    - generic [ref=e738]: 승
+                    - generic [ref=e739]: 자세히 →
+                - generic [ref=e740]:
+                  - paragraph [ref=e742]: JDT II
+                  - generic [ref=e744]:
+                    - generic [ref=e745]: "1"
+                    - generic [ref=e746]: ":"
+                    - generic [ref=e747]: "0"
+                  - generic [ref=e748]:
+                    - paragraph [ref=e749]: 서울피닉스FC
+                    - generic [ref=e750]: 원정
+                - generic [ref=e751]:
+                  - generic [ref=e753]: 2025.08.16
+                  - generic [ref=e754]: STADIUM MAJLIS BANDARAYA PASIR GUDANG
+        - paragraph [ref=e756]: "출처: FAM CMS (cms.fam.org.my) · Liga A1 Semi-Pro 2025/2026"
+  - contentinfo [ref=e757]:
+    - generic [ref=e759]:
+      - generic [ref=e760]:
+        - link "서울피닉스FC 로고 서울피닉스FC" [ref=e761] [cursor=pointer]:
+          - /url: /
+          - img "서울피닉스FC 로고" [ref=e763]
+          - generic [ref=e765]: 서울피닉스FC
+        - paragraph [ref=e766]:
+          - text: 대한민국과 말레이시아(Malaysia A1 Semi-Pro League)를 잇는 축구 클럽.
+          - text: 새로운 도전, 새로운 역사를 만들어갑니다.
+        - generic [ref=e767]:
+          - link "youtube" [ref=e768] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=e769]: "Y"
+          - link "instagram" [ref=e770] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=e771]: I
+          - link "facebook" [ref=e772] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=e773]: F
+      - generic [ref=e774]:
+        - heading "클럽" [level=3] [ref=e775]
+        - list [ref=e776]:
+          - listitem [ref=e777]:
+            - link "클럽 소개" [ref=e778] [cursor=pointer]:
+              - /url: /about/
+          - listitem [ref=e779]:
+            - link "선수단" [ref=e780] [cursor=pointer]:
+              - /url: /squad/
+          - listitem [ref=e781]:
+            - link "경기 일정" [ref=e782] [cursor=pointer]:
+              - /url: /schedule/
+          - listitem [ref=e783]:
+            - link "갤러리" [ref=e784] [cursor=pointer]:
+              - /url: /gallery/
+      - generic [ref=e785]:
+        - heading "미디어" [level=3] [ref=e786]
+        - list [ref=e787]:
+          - listitem [ref=e788]:
+            - link "뉴스" [ref=e789] [cursor=pointer]:
+              - /url: /news/
+          - listitem [ref=e790]:
+            - link "한국 축구" [ref=e791] [cursor=pointer]:
+              - /url: /news/?category=korean
+          - listitem [ref=e792]:
+            - link "말레이시아 축구" [ref=e793] [cursor=pointer]:
+              - /url: /news/?category=malaysia
+      - generic [ref=e794]:
+        - heading "고객 지원" [level=3] [ref=e795]
+        - list [ref=e796]:
+          - listitem [ref=e797]:
+            - link "연락처" [ref=e798] [cursor=pointer]:
+              - /url: /contact/
+          - listitem [ref=e799]:
+            - link "자주 묻는 질문" [ref=e800] [cursor=pointer]:
+              - /url: /contact/
+          - listitem [ref=e801]:
+            - link "티켓 예매" [ref=e802] [cursor=pointer]:
+              - /url: /schedule/
+    - generic [ref=e805]:
+      - paragraph [ref=e806]: © 2026 서울피닉스FC. All rights reserved.
+      - generic [ref=e807]:
+        - link "개인정보처리방침" [ref=e808] [cursor=pointer]:
+          - /url: "#"
+        - link "이용약관" [ref=e809] [cursor=pointer]:
+          - /url: "#"
+  - alert [ref=e810]

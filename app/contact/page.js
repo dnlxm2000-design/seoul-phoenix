@@ -50,19 +50,37 @@ export default function ContactPage() {
     message: '',
   });
   const [submitted, setSubmitted] = useState(false);
+  const [isLoading, setIsLoading] = useState(false);
+  const [errorMsg, setErrorMsg] = useState('');
 
   const handleChange = (e) => {
     const { name, value } = e.target;
     setFormData((prev) => ({ ...prev, [name]: value }));
   };
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
-    // Simulate form submission
-    console.log('Form submitted:', formData);
-    setSubmitted(true);
-    setFormData({ name: '', email: '', subject: '', message: '' });
-    setTimeout(() => setSubmitted(false), 5000);
+    setIsLoading(true);
+    setErrorMsg('');
+    try {
+      const res = await fetch('https://soccerline.dothome.co.kr/api/inquiries.php', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(formData),
+      });
+      const data = await res.json();
+      if (data.success) {
+        setSubmitted(true);
+        setFormData({ name: '', email: '', subject: '', message: '' });
+        setTimeout(() => setSubmitted(false), 5000);
+      } else {
+        setErrorMsg(data.message || '전송에 실패했습니다.');
+      }
+    } catch (err) {
+      setErrorMsg('서버 연결에 실패했습니다. 다시 시도해주세요.');
+    } finally {
+      setIsLoading(false);
+    }
   };
 
   return (
@@ -72,7 +90,7 @@ export default function ContactPage() {
         <div className="absolute inset-0 bg-gradient-to-br from-brand-red/20 via-brand-black to-brand-black" />
         <div className="relative z-10 max-w-5xl mx-auto px-4 text-center">
           <h1 className="text-4xl lg:text-5xl font-extrabold text-white mb-4">연락처</h1>
-          <p className="text-lg text-white/60">서울피닉스에 연락하려면 아래 정보를 이용해 주세요</p>
+          <p className="text-lg text-white/60">서울피닉스FC에 연락하려면 아래 정보를 이용해 주세요</p>
         </div>
       </section>
 

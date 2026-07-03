@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>DB 초기화</title>
+  <style>
+    body { font-family: sans-serif; max-width: 600px; margin: 50px auto; padding: 20px; }
+    .success { color: green; background: #e8f5e9; padding: 15px; border-radius: 8px; }
+    .error { color: red; background: #ffebee; padding: 15px; border-radius: 8px; }
+    h1 { color: #1d1d1d; }
+  </style>
+</head>
+<body>
+  <h1>서울피닉스FC 데이터베이스 초기화</h1>
+      <div class="success">뉴스 테이블이 이미 존재합니다. (30개의 뉴스)</div>
+      <p><a href="/news">뉴스 페이지로 이동 →</a></p>
+  <hr>
+  <p style="color: #999; font-size: 12px;">⚠️ 완료 후 이 파일(api/setup.php)을 삭제하세요!</p>
+</body>
+</html>

@@ -1,0 +1,44 @@
+- generic [active] [ref=f7e1]:
+  - generic [ref=f7e2]:
+    - heading "서울피닉스FC 관리자" [level=1] [ref=f7e3]
+    - generic [ref=f7e4]:
+      - link "사이트 보기" [ref=f7e5] [cursor=pointer]:
+        - /url: /news
+      - text: "|"
+      - link "로그아웃" [ref=f7e6] [cursor=pointer]:
+        - /url: "?action=logout"
+  - generic [ref=f7e8]:
+    - heading "뉴스 등록" [level=2] [ref=f7e9]
+    - generic [ref=f7e10]:
+      - generic [ref=f7e11]:
+        - generic [ref=f7e12]: 제목 *
+        - textbox [ref=f7e13]
+      - generic [ref=f7e14]:
+        - generic [ref=f7e15]:
+          - generic [ref=f7e16]: 카테고리 *
+          - combobox [ref=f7e17]:
+            - option "클럽 소식" [selected]
+            - option "한국 축구"
+            - option "말레이시아 축구"
+            - option "인터뷰"
+        - generic [ref=f7e18]:
+          - generic [ref=f7e19]: 날짜 *
+          - textbox [ref=f7e20]: 2026-07-02
+      - generic [ref=f7e21]:
+        - generic [ref=f7e22]:
+          - generic [ref=f7e23]: 작성자
+          - textbox [ref=f7e24]: 서울피닉스 미디어
+        - generic [ref=f7e25]:
+          - generic [ref=f7e26]: 이미지
+          - generic [ref=f7e27]:
+            - textbox "https://..." [ref=f7e28]
+            - generic [ref=f7e29]: 또는
+            - button "Choose File" [ref=f7e30]
+            - button "업로드" [ref=f7e31] [cursor=pointer]
+      - generic [ref=f7e32]:
+        - generic [ref=f7e33]: 본문 *
+        - textbox [ref=f7e34]
+      - generic [ref=f7e35]:
+        - button "등록하기" [ref=f7e36] [cursor=pointer]
+        - link "취소" [ref=f7e37] [cursor=pointer]:
+          - /url: admin.php

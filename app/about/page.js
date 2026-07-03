@@ -3,18 +3,8 @@ import Image from 'next/image';
 
 const timeline = [
   {
-    year: '2023.01',
-    title: 'Vanesse FC 창단',
-    description: 'K4 League 참가를 목표로 클럽 창단',
-  },
-  {
-    year: '2024',
-    title: '세종 SA FC로 재창단',
-    description: '세종시를 연고지로 클럽명 변경 및 재창단',
-  },
-  {
     year: '2025',
-    title: '서울피닉스 FC 창단',
+    title: '서울피닉스FC 창단',
     description:
       '말레이시아 Cyberjaya로 연고지 확정 및 창단. Malaysia A1 Semi-Pro League 참가',
   },
@@ -43,7 +33,7 @@ const headCoach = {
     { period: '2013 - 현재', role: 'National U-17 코치', org: 'Football Association of Malaysia (FAM)' },
     { period: '2019 - 2020', role: 'Head Coach, U-21 Presidents Cup', org: 'Selangor United FC' },
     { period: '2024 - 현재', role: '기술 이사 / 코칭 디렉터', org: 'Kelantan FA (Red Warriors)' },
-    { period: '2025 - 현재', role: 'Head Coach', org: '서울피닉스 FC' },
+    { period: '2025 - 현재', role: 'Head Coach', org: '서울피닉스FC' },
   ],
   education: 'Bachelor of Sports Studies — Universiti Teknologi MARA (UiTM), Malaysia',
   linkedin: 'https://my.linkedin.com/in/ariff-hashim-03753a49',
@@ -51,14 +41,20 @@ const headCoach = {
 
 const staff = [
   { name: '손진영', role: '구단주', desc: '클럽의 비전과 방향성 제시' },
-  { name: '변병주', role: '단장', desc: '구단 운영 총괄' },
-  { name: '조금현', role: '법률위원장 및 감사', desc: '법률 자문 및 회계 감사' },
-  { name: '엄민식', role: '운영국장', desc: '구단 운영 및 관리' },
+  { name: '김홍범', role: '이사장', desc: '클럽 운영 총괄 및 의사 결정' },
+  { name: '이다솜', role: '사업본부장', desc: '사업 전략 및 운영 관리' },
+  { name: '권혁민', role: '단장', desc: '구단 운영 총괄' },
+  { name: '엄민식', role: '사무국장', desc: '구단 행정 및 사무 관리' },
+  { name: '변민기', role: '사무차장', desc: '사무국 업무 지원' },
+  { name: '변병주', role: '테크니컬 디렉터', desc: '기술 전략 및 코칭 디렉팅' },
+  { name: '김두선', role: '감독', desc: '1군 팀 지휘 및 경기 운영' },
+  { name: 'Ariff Hashim', role: '공동감독', desc: '훈련 및 경기 전술 코칭' },
+  { name: '황찬원', role: '주장', desc: '팀 리더십 및 선수단 대표' },
 ];
 
 export const metadata = {
   title: '클럽 소개',
-  description: '서울피닉스 FC의 역사, 비전, 코치진을 소개합니다.',
+  description: '서울피닉스FC의 역사, 비전, 코치진을 소개합니다.',
 };
 
 export default function AboutPage() {
@@ -70,7 +66,7 @@ export default function AboutPage() {
         <div className="relative z-10 max-w-4xl mx-auto px-4 text-center">
           <h1 className="text-4xl lg:text-5xl font-extrabold text-white mb-4">클럽 소개</h1>
           <p className="text-lg text-white/60 max-w-2xl mx-auto">
-            대한민국과 말레이시아를 잇는 축구 클럽, 서울피닉스 FC의 이야기입니다
+            대한민국과 말레이시아를 잇는 축구 클럽, 서울피닉스FC의 이야기입니다
           </p>
         </div>
       </section>
@@ -82,14 +78,13 @@ export default function AboutPage() {
             <div>
               <span className="text-sm font-bold text-brand-red uppercase tracking-widest">About</span>
               <h2 className="text-3xl lg:text-4xl font-extrabold text-brand-black mt-2 mb-6">
-                서울피닉스 FC의
+                서울피닉스FC의
                 <br />
                 <span className="text-brand-red">비전과 미션</span>
               </h2>
               <div className="space-y-4 text-brand-gray leading-relaxed">
                 <p>
-                  서울피닉스 FC는 2023년 Vanesse FC로 창단되어, 2025년 말레이시아 Cyberjaya로 연고지를
-                  이전하며 새롭게 출범한 축구 클럽입니다.
+                  서울피닉스FC는 2025년 말레이시아 Cyberjaya를 연고지로 창단하여
                 </p>
                 <p>
                   우리는 한국 축구의 우수한 시스템과 말레이시아의 축구 열정을 결합하여,
@@ -106,7 +101,7 @@ export default function AboutPage() {
                 <div className="relative w-48 h-48 lg:w-56 lg:h-56 bg-white rounded-full overflow-hidden ring-4 ring-brand-gold/20 shadow-xl mb-4">
                   <Image
                     src="/logo.jpg"
-                    alt="서울피닉스 FC 공식 로고"
+                    alt="서울피닉스FC 공식 로고"
                     fill
                     sizes="224px"
                     className="object-cover"
@@ -165,6 +160,60 @@ export default function AboutPage() {
                 <p className="text-sm text-brand-gray leading-relaxed">{value.desc}</p>
               </div>
             ))}
+          </div>
+        </div>
+      </section>
+
+      {/* League Info */}
+      <section id="league" className="py-20 lg:py-24 bg-white">
+        <div className="max-w-4xl mx-auto px-4">
+          <h2 className="text-3xl font-extrabold text-brand-black text-center mb-12">
+            말레이시아 A1 세미프로 리그
+          </h2>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+            <div className="space-y-4 text-brand-gray leading-relaxed">
+              <p>
+                말레이시아 A1 세미프로 리그(Malaysia A1 Semi-Pro League)는 말레이시아 축구 리그 시스템의 2부 리그로, 
+                아마추어 풋볼 리그(AFL)가 주관합니다. 2019년 기존의 FAM 리그를 대체하여 창설되었으며, 
+                현재 말레이시아 축구의 중요한 축으로 자리잡고 있습니다.
+              </p>
+              <p>
+                리그는 매년 8월부터 이듬해 5월까지 진행되며, 16개 팀이 홈 앤 어웨이 방식으로 경쟁합니다. 
+                시즌 중반 상위 3개 팀은 말레이시아 컵(Malaysia Cup) 진출 자격을 얻으며, 
+                시즌 종료 후 상위 2개 팀은 말레이시아 슈퍼리그로 승격됩니다. 
+                하위 2개 팀은 A2 아마추어 리그로 강등됩니다.
+              </p>
+            </div>
+            <div className="bg-brand-gray-light/30 rounded-2xl p-6 border border-gray-100 space-y-4">
+              <div className="flex items-center gap-3">
+                <span className="w-10 h-10 rounded-full bg-brand-red/10 flex items-center justify-center text-brand-red font-bold text-sm">단계</span>
+                <div>
+                  <p className="font-semibold text-brand-black">2부 리그</p>
+                  <p className="text-sm text-brand-gray">말레이시아 축구 시스템</p>
+                </div>
+              </div>
+              <div className="flex items-center gap-3">
+                <span className="w-10 h-10 rounded-full bg-brand-red/10 flex items-center justify-center text-brand-red font-bold text-sm">기간</span>
+                <div>
+                  <p className="font-semibold text-brand-black">8월 ~ 5월</p>
+                  <p className="text-sm text-brand-gray">매 시즌</p>
+                </div>
+              </div>
+              <div className="flex items-center gap-3">
+                <span className="w-10 h-10 rounded-full bg-brand-red/10 flex items-center justify-center text-brand-red font-bold text-sm">팀</span>
+                <div>
+                  <p className="font-semibold text-brand-black">16개 팀</p>
+                  <p className="text-sm text-brand-gray">홈 앤 어웨이 방식</p>
+                </div>
+              </div>
+              <div className="flex items-center gap-3">
+                <span className="w-10 h-10 rounded-full bg-brand-red/10 flex items-center justify-center text-brand-red font-bold text-sm">승격</span>
+                <div>
+                  <p className="font-semibold text-brand-black">상위 2팀</p>
+                  <p className="text-sm text-brand-gray">말레이시아 슈퍼리그 승격</p>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </section>

@@ -12,6 +12,7 @@ const navItems = [
   { label: '선수단', href: '/squad' },
   { label: '경기 일정', href: '/schedule' },
   { label: '갤러리', href: '/gallery' },
+  { label: '연맹 소개', href: '/federation' },
   { label: '연락처', href: '/contact' },
 ];
 
@@ -53,7 +54,7 @@ export default function Header() {
               <div className="relative w-10 h-10 lg:w-12 lg:h-12 bg-white rounded-full overflow-hidden shrink-0 ring-2 ring-brand-gold/30 group-hover:ring-brand-gold transition-all">
                 <Image
                   src="/logo.jpg"
-                  alt="서울피닉스 FC 로고"
+                  alt="서울피닉스FC 로고"
                   fill
                   sizes="48px"
                   className="object-cover"
@@ -62,16 +63,16 @@ export default function Header() {
               </div>
               <div className="flex flex-col">
                 <span className="text-lg lg:text-xl font-extrabold tracking-tight text-white">
-                  서울피닉스
-                </span>
-                <span className="text-[10px] lg:text-xs font-medium text-brand-gold-light -mt-1 tracking-wider uppercase">
-                  Seoul Phoenix FC
+                  서울피닉스FC
                 </span>
               </div>
             </Link>
 
             {/* Federation Logo */}
-            <div className="hidden sm:flex items-center gap-2 pl-3 border-l border-white/20">
+            <Link
+              href="/federation"
+              className="hidden sm:flex items-center gap-2 pl-3 border-l border-white/20 hover:opacity-80 transition-opacity"
+            >
               <div className="relative w-8 h-8 lg:w-10 lg:h-10 shrink-0">
                 <Image
                   src="/images/partners/k-international-club.svg"
@@ -81,10 +82,10 @@ export default function Header() {
                   className="object-contain"
                 />
               </div>
-              <span className="text-[9px] lg:text-[10px] font-medium text-brand-gold-light leading-tight">
+              <span className="text-xs lg:text-sm font-extrabold tracking-tight text-white leading-tight">
                 K·국제클럽<br />축구연맹
               </span>
-            </div>
+            </Link>
           </div>
 
           {/* Desktop Navigation */}

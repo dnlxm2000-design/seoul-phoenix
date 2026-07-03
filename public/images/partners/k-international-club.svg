@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" fill="none">
+  <!-- Background -->
+  <rect width="400" height="500" fill="white"/>
+  
+  <!-- Shield shape - outer -->
+  <path d="M200 30 C280 30 340 70 340 120 L340 250 C340 330 280 400 200 430 C120 400 60 330 60 250 L60 120 C60 70 120 30 200 30Z" fill="#0a1628" stroke="#c9a84c" stroke-width="4"/>
+  
+  <!-- Inner shield -->
+  <path d="M200 50 C270 50 320 85 320 125 L320 245 C320 315 270 375 200 400 C130 375 80 315 80 245 L80 125 C80 85 130 50 200 50Z" fill="#0f1d35" stroke="#c9a84c" stroke-width="1.5" stroke-dasharray="4 3"/>
+  
+  <!-- K INTERNATIONAL CLUB - top -->
+  <text x="200" y="115" font-family="Georgia, serif" font-size="18" font-weight="bold" fill="#c9a84c" text-anchor="middle" letter-spacing="2">K INTERNATIONAL CLUB</text>
+  
+  <!-- Soccer ball -->
+  <circle cx="200" cy="220" r="65" fill="url(#ballGradient)" stroke="#e8e8e8" stroke-width="2"/>
+  <circle cx="200" cy="220" r="60" fill="white"/>
+  <!-- Pentagon pattern -->
+  <polygon points="200,165 230,180 245,210 225,240 175,240 155,210 170,180" fill="#1a1a1a"/>
+  <polygon points="200,165 215,175 210,195 190,195 185,175" fill="#1a1a1a"/>
+  <polygon points="245,210 255,235 240,255 220,245 225,215" fill="#1a1a1a"/>
+  <polygon points="155,210 145,235 160,255 180,245 175,215" fill="#1a1a1a"/>
+  <polygon points="175,240 180,265 200,275 220,265 225,240" fill="#1a1a1a"/>
+  
+  <!-- Gold ribbon -->
+  <path d="M60 200 L120 190 L280 190 L340 200 L280 210 L120 210 Z" fill="url(#ribbonGradient)" stroke="#b8942a" stroke-width="1"/>
+  
+  <!-- Ribbon ends -->
+  <path d="M60 200 L30 180 L50 200 L30 220 Z" fill="#c9a84c" stroke="#b8942a" stroke-width="1"/>
+  <path d="M340 200 L370 180 L350 200 L370 220 Z" fill="#c9a84c" stroke="#b8942a" stroke-width="1"/>
+  
+  <!-- Football Federation - bottom -->
+  <text x="200" y="300" font-family="Georgia, serif" font-size="16" font-weight="bold" fill="#c9a84c" text-anchor="middle" letter-spacing="2">FOOTBALL FEDERATION</text>
+  
+  <!-- Korean text -->
+  <text x="200" y="400" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#1a237e" text-anchor="middle" letter-spacing="3">K·국제클럽축구연맹</text>
+  
+  <!-- SMA -->
+  <text x="200" y="440" font-family="Arial, sans-serif" font-size="10" fill="#1a237e" text-anchor="middle" letter-spacing="1">SMA</text>
+  <text x="200" y="455" font-family="Arial, sans-serif" font-size="9" fill="#1a237e" text-anchor="middle" letter-spacing="0.5">SPORTS MATCH ANALYSIS</text>
+  
+  <!-- Gradients -->
+  <defs>
+    <linearGradient id="ribbonGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#e6c545"/>
+      <stop offset="50%" stop-color="#c9a84c"/>
+      <stop offset="100%" stop-color="#b8942a"/>
+    </linearGradient>
+    <radialGradient id="ballGradient" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#d0d0d0"/>
+    </radialGradient>
+  </defs>
+</svg>

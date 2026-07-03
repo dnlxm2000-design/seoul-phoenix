@@ -1,0 +1,732 @@
+﻿<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>愿由ъ옄 ??쒕낫??- ?쒖슱?쇰땳?짦C</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { 
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      background: #f5f5f5;
+      min-height: 100vh;
+    }
+    .header {
+      background: #1d1d1d;
+      color: white;
+      padding: 16px 24px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .header h1 { font-size: 20px; font-weight: 700; }
+    .header a { color: #999; text-decoration: none; font-size: 14px; }
+    .header a:hover { color: white; }
+    .container { max-width: 1200px; margin: 0 auto; padding: 24px; }
+    .msg {
+      background: #e8f5e9;
+      color: #2e7d32;
+      padding: 12px 16px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+    }
+    .card {
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+      overflow: hidden;
+    }
+    .card-header {
+      padding: 20px 24px;
+      border-bottom: 1px solid #eee;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .card-header h2 { font-size: 18px; font-weight: 700; }
+    .btn {
+      display: inline-block;
+      padding: 10px 20px;
+      border-radius: 8px;
+      font-size: 14px;
+      font-weight: 600;
+      text-decoration: none;
+      cursor: pointer;
+      border: none;
+      transition: all 0.2s;
+    }
+    .btn-primary { background: #E63946; color: white; }
+    .btn-primary:hover { background: #d32f3f; }
+    .btn-sm { padding: 6px 12px; font-size: 12px; }
+    .btn-edit { background: #2196F3; color: white; }
+    .btn-delete { background: #f44336; color: white; }
+    .btn-cancel { background: #9e9e9e; color: white; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    th, td {
+      padding: 14px 16px;
+      text-align: left;
+      border-bottom: 1px solid #eee;
+    }
+    th {
+      background: #fafafa;
+      font-weight: 600;
+      font-size: 13px;
+      color: #666;
+    }
+    td { font-size: 14px; }
+    tr:hover { background: #f9f9f9; }
+    .category-badge {
+      display: inline-block;
+      padding: 4px 10px;
+      border-radius: 20px;
+      font-size: 12px;
+      font-weight: 600;
+    }
+    .cat-club { background: #e3f2fd; color: #1976d2; }
+    .cat-korean { background: #fce4ec; color: #c2185b; }
+    .cat-malaysia { background: #e8f5e9; color: #388e3c; }
+    .cat-interview { background: #fff3e0; color: #f57c00; }
+    .actions { display: flex; gap: 6px; }
+    
+    /* ???ㅽ???*/
+    .form-card {
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+      padding: 24px;
+    }
+    .form-card h2 {
+      font-size: 18px;
+      font-weight: 700;
+      margin-bottom: 24px;
+    }
+    .form-group { margin-bottom: 20px; }
+    .form-group label {
+      display: block;
+      font-size: 14px;
+      font-weight: 600;
+      color: #333;
+      margin-bottom: 8px;
+    }
+    .form-group input,
+    .form-group select,
+    .form-group textarea {
+      width: 100%;
+      padding: 12px 16px;
+      border: 2px solid #e5e7eb;
+      border-radius: 8px;
+      font-size: 15px;
+      font-family: inherit;
+      transition: border-color 0.2s;
+    }
+    .form-group input:focus,
+    .form-group select:focus,
+    .form-group textarea:focus {
+      outline: none;
+      border-color: #E63946;
+    }
+    .form-group textarea {
+      min-height: 300px;
+      resize: vertical;
+      line-height: 1.6;
+    }
+    .form-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+    }
+    .form-actions {
+      display: flex;
+      gap: 12px;
+      margin-top: 24px;
+    }
+    .empty-state {
+      text-align: center;
+      padding: 60px 20px;
+      color: #999;
+    }
+    
+    /* ???ㅽ???*/
+    .tabs {
+      display: flex;
+      gap: 4px;
+      margin-bottom: 20px;
+      background: white;
+      padding: 4px;
+      border-radius: 12px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .tab {
+      flex: 1;
+      padding: 12px 20px;
+      text-align: center;
+      border-radius: 8px;
+      font-size: 14px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s;
+      text-decoration: none;
+      color: #666;
+    }
+    .tab:hover { background: #f5f5f5; }
+    .tab.active { background: #E63946; color: white; }
+    .badge {
+      display: inline-block;
+      background: #E63946;
+      color: white;
+      font-size: 11px;
+      padding: 2px 8px;
+      border-radius: 10px;
+      margin-left: 6px;
+    }
+    .inquiry-unread { background: #fff3e0; }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h1>?쒖슱?쇰땳?짦C 愿由ъ옄</h1>
+    <div>
+      <a href="/news" target="_blank">?ъ씠??蹂닿린</a>
+      &nbsp;|&nbsp;
+      <a href="?action=logout">濡쒓렇?꾩썐</a>
+    </div>
+  </div>
+  
+  <div class="container">
+          <div class="msg">
+        ?댁뒪媛 ?깅줉?섏뿀?듬땲??      </div>
+        
+    <!-- ??硫붾돱 -->
+        <div class="tabs">
+      <a href="?tab=news" class="tab active">
+        ?댁뒪 愿由?<span class="badge">33</span>
+      </a>
+      <a href="?tab=inquiries" class="tab ">
+        臾몄쓽 愿由?<span class="badge">6</span>
+      </a>
+    </div>
+        
+            <!-- ?댁뒪 紐⑸줉 -->
+    <div class="card">
+      <div class="card-header">
+        <h2>?댁뒪 愿由?(33嫄?</h2>
+        <a href="?action=create" class="btn btn-primary">+ ?댁뒪 ?깅줉</a>
+      </div>
+      
+            <table>
+        <thead>
+          <tr>
+            <th width="60">ID</th>
+            <th>?쒕ぉ</th>
+            <th width="100">移댄뀒怨좊━</th>
+            <th width="110">?좎쭨</th>
+            <th width="100">?묒꽦??/th>
+            <th width="120">愿由?/th>
+          </tr>
+        </thead>
+        <tbody>
+                    <tr>
+            <td>43</td>
+            <td>TestLogin</td>
+            <td>
+              <span class="category-badge cat-club">
+                club              </span>
+            </td>
+            <td>2026-07-02</td>
+            <td>Test</td>
+            <td class="actions">
+              <a href="?action=edit&id=43" class="btn btn-sm btn-edit">?섏젙</a>
+              <a href="?action=delete&id=43" class="btn btn-sm btn-delete" 
+                 onclick="return confirm('?뺣쭚 ??젣?섏떆寃좎뒿?덇퉴?')">??젣</a>
+            </td>
+          </tr>
+                    <tr>
+            <td>39</td>
+            <td>TestA1</td>
+            <td>
+              <span class="category-badge cat-malaysia">
+                malaysia              </span>
+            </td>
+            <td>2026-07-02</td>
+            <td>SP Media</td>
+            <td class="actions">
+              <a href="?action=edit&id=39" class="btn btn-sm btn-edit">?섏젙</a>
+              <a href="?action=delete&id=39" class="btn btn-sm btn-delete" 
+                 onclick="return confirm('?뺣쭚 ??젣?섏떆寃좎뒿?덇퉴?')">??젣</a>
+            </td>
+          </tr>
+                    <tr>
+            <td>38</td>
+            <td>TestA1</td>
+            <td>
+              <span class="category-badge cat-malaysia">
+                malaysia              </span>
+            </td>
+            <td>2026-07-02</td>
+            <td>SP Media</td>
+            <td class="actions">
+              <a href="?action=edit&id=38" class="btn btn-sm btn-edit">?섏젙</a>
+              <a href="?action=delete&id=38" class="btn btn-sm btn-delete" 
+                 onclick="return confirm('?뺣쭚 ??젣?섏떆寃좎뒿?덇퉴?')">??젣</a>
+            </td>
+          </tr>
+                    <tr>
+            <td>37</td>
+            <td>Test2039</td>
+            <td>
+              <span class="category-badge cat-club">
+                club              </span>
+            </td>
+            <td>2026-07-02</td>
+            <td>Test</td>
+            <td class="actions">
+              <a href="?action=edit&id=37" class="btn btn-sm btn-edit">?섏젙</a>
+              <a href="?action=delete&id=37" class="btn btn-sm btn-delete" 
+                 onclick="return confirm('?뺣쭚 ??젣?섏떆寃좎뒿?덇퉴?')">??젣</a>
+            </td>
+          </tr>
+                    <tr>
+            <td>36</td>
+            <td>Test2039</td>
+            <td>
+              <span class="category-badge cat-club">
+                club              </span>
+            </td>
+            <td>2026-07-02</td>
+            <td>Test</td>
+            <td class="actions">
+              <a href="?action=edit&id=36" class="btn btn-sm btn-edit">?섏젙</a>
+              <a href="?action=delete&id=36" class="btn btn-sm btn-delete" 
+                 onclick="return confirm('?뺣쭚 ??젣?섏떆寃좎뒿?덇퉴?')">??젣</a>
+            </td>
+          </tr>
+                    <tr>
+            <td>35</td>
+            <td>Test Title</td>
+            <td>
+              <span class="category-badge cat-club">
+                club              </span>
+            </td>
+            <td>2026-07-02</td>
+            <td>Seoul Phoenix</td>
+            <td class="actions">
+              <a href="?action=edit&id=35" class="btn btn-sm btn-edit">?섏젙</a>
+              <a href="?action=delete&id=35" class="btn btn-sm btn-delete" 
+                 onclick="return confirm('?뺣쭚 ??젣?섏떆寃좎뒿?덇퉴?')">??젣</a>
+            </td>
+          </tr>
+                    <tr>
+            <td>34</td>
+            <td>?뚯뒪??湲곗궗 ?쒕ぉ</td>
+            <td>
+              <span class="category-badge cat-club">
+                club              </span>
+            </td>
+            <td>2026-07-02</td>
+            <td>?쒖슱?쇰땳??誘몃뵒??/td>
+            <td class="actions">
+              <a href="?action=edit&id=34" class="btn btn-sm btn-edit">?섏젙</a>
+              <a href="?action=delete&id=34" class="btn btn-sm btn-delete" 
+                 onclick="return confirm('?뺣쭚 ??젣?섏떆寃좎뒿?덇퉴?')">??젣</a>
+            </td>
+          </tr>
+                    <tr>
+            <td>33</td>
+            <td>[?ㅽ뵾?? ?쒖슱?쇰땳??FC ?ㅻ떎鍮? ?섎씪?ㅼ뒪 ?뷀렂??...</td>
+            <td>
+              <span class="category-badge cat-club">
+                club              </span>
+            </td>
+            <td>2026-07-02</td>
+            <td>?쒖슱?쇰땳??誘몃뵒??/td>
+            <td class="actions">
+              <a href="?action=edit&id=33" class="btn btn-sm btn-edit">?섏젙</a>
+              <a href="?action=delete&id=33" class="btn btn-sm btn-delete" 
+                 onclick="return confirm('?뺣쭚 ??젣?섏떆寃좎뒿?덇퉴?')">??젣</a>
+            </td>
+          </tr>
+                    <tr>
+            <td>32</td>
+            <td>?쒖슱?쇰땳??FC, 2026-2027?쒖쫵 留먮젅?댁떆??A1由ш렇 ...</td>
+            <td>
+              <span class="category-badge cat-club">
+                club              </span>
+            </td>
+            <td>2026-07-02</td>
+            <td>?쒖슱?쇰땳??誘몃뵒??/td>
+            <td class="actions">
+              <a href="?action=edit&id=32" class="btn btn-sm btn-edit">?섏젙</a>
+              <a href="?action=delete&id=32" class="btn btn-sm btn-delete" 
+                 onclick="return confirm('?뺣쭚 ??젣?섏떆寃좎뒿?덇퉴?')">??젣</a>
+            </td>
+          </tr>
+                    <tr>
+            <td>25</td>
+            <td>?⑤룆 ?명꽣酉? ?꾧린???곕꼸 ?? ?먯쭊??援щ떒二쇨? 諛?..</td>
+            <td>
+              <span class="category-badge cat-interview">
+                interview              </span>
+            </td>
+            <td>2026-06-28</td>
+            <td>?쒖슱?쇰땳??誘몃뵒??/td>
+            <td class="actions">
+              <a href="?action=edit&id=25" class="btn btn-sm btn-edit">?섏젙</a>
+              <a href="?action=delete&id=25" class="btn btn-sm btn-delete" 
+                 onclick="return confirm('?뺣쭚 ??젣?섏떆寃좎뒿?덇퉴?')">??젣</a>
+            </td>
+          </tr>
+                    <tr>
+            <td>42</td>
+            <td>Kedah FA, Akmal Rizal ?좎엫 媛먮룆 ?좎엫... AFC Pro...</td>
+            <td>
+              <span class="category-badge cat-malaysia">
+                malaysia              </span>
+            </td>
+            <td>2026-06-08</td>
+            <td>?쒖슱?쇰땳??誘몃뵒??/td>
+            <td class="actions">
+              <a href="?action=edit&id=42" class="btn btn-sm btn-edit">?섏젙</a>
+              <a href="?action=delete&id=42" class="btn btn-sm btn-delete" 
+                 onclick="return confirm('?뺣쭚 ??젣?섏떆寃좎뒿?덇퉴?')">??젣</a>
+            </td>
+          </tr>
+                    <tr>
+            <td>24</td>
+            <td>JDT, 留먮젅?댁떆???덊띁由ш렇 5?고뙣 ?ъ꽦???뺣룄????..</td>
+            <td>
+              <span class="category-badge cat-malaysia">
+                malaysia              </span>
+            </td>
+            <td>2026-05-30</td>
+            <td>?쒖슱?쇰땳??誘몃뵒??/td>
+            <td class="actions">
+              <a href="?action=edit&id=24" class="btn btn-sm btn-edit">?섏젙</a>
+              <a href="?action=delete&id=24" class="btn btn-sm btn-delete" 
+                 onclick="return confirm('?뺣쭚 ??젣?섏떆寃좎뒿?덇퉴?')">??젣</a>
+            </td>
+          </tr>
+                    <tr>
+            <td>41</td>
+            <td>2026-2027 A1由ш렇, 8??媛쒕쭑 ?뺤젙... ?꾨━?쒖쫵 7??..</td>
+            <td>
+              <span class="category-badge cat-malaysia">
+                malaysia              </span>
+            </td>
+            <td>2026-05-28</td>
+            <td>?쒖슱?쇰땳??誘몃뵒??/td>
+            <td class="actions">
+              <a href="?action=edit&id=41" class="btn btn-sm btn-edit">?섏젙</a>
+              <a href="?action=delete&id=41" class="btn btn-sm btn-delete" 
+                 onclick="return confirm('?뺣쭚 ??젣?섏떆寃좎뒿?덇퉴?')">??젣</a>
+            </td>
+          </tr>
+                    <tr>
+            <td>1</td>
+            <td>?쒖슱?쇰땳?? Kedah FA??0-3 ?앺뙣??泥?A1 由ш렇 ??..</td>
+            <td>
+              <span class="category-badge cat-club">
+                club              </span>
+            </td>
+            <td>2026-05-23</td>
+            <td>?쒖슱?쇰땳??誘몃뵒??/td>
+            <td class="actions">
+              <a href="?action=edit&id=1" class="btn btn-sm btn-edit">?섏젙</a>
+              <a href="?action=delete&id=1" class="btn btn-sm btn-delete" 
+                 onclick="return confirm('?뺣쭚 ??젣?섏떆寃좎뒿?덇퉴?')">??젣</a>
+            </td>
+          </tr>
+                    <tr>
+            <td>14</td>
+            <td>?쒖슱?쇰땳?? Perlis GSA??3-1 苡뚯듅??2026??泥???..</td>
+            <td>
+              <span class="category-badge cat-club">
+                club              </span>
+            </td>
+            <td>2026-05-16</td>
+            <td>?쒖슱?쇰땳??誘몃뵒??/td>
+            <td class="actions">
+              <a href="?action=edit&id=14" class="btn btn-sm btn-edit">?섏젙</a>
+              <a href="?action=delete&id=14" class="btn btn-sm btn-delete" 
+                 onclick="return confirm('?뺣쭚 ??젣?섏떆寃좎뒿?덇퉴?')">??젣</a>
+            </td>
+          </tr>
+                    <tr>
+            <td>40</td>
+            <td>MFL쨌AFL 2026-2027?쒖쫵 ?쇱씠?좎뒪 ?ъ궗, 7媛?援щ떒 ?듦낵</td>
+            <td>
+              <span class="category-badge cat-malaysia">
+                malaysia              </span>
+            </td>
+            <td>2026-05-01</td>
+            <td>?쒖슱?쇰땳??誘몃뵒??/td>
+            <td class="actions">
+              <a href="?action=edit&id=40" class="btn btn-sm btn-edit">?섏젙</a>
+              <a href="?action=delete&id=40" class="btn btn-sm btn-delete" 
+                 onclick="return confirm('?뺣쭚 ??젣?섏떆寃좎뒿?덇퉴?')">??젣</a>
+            </td>
+          </tr>
+                    <tr>
+            <td>15</td>
+            <td>?쒖슱?쇰땳?? KDA FC ?곷?濡??쒖쫵 理쒕떎 6怨???컻! 6...</td>
+            <td>
+              <span class="category-badge cat-club">
+                club              </span>
+            </td>
+            <td>2026-02-15</td>
+            <td>?쒖슱?쇰땳??誘몃뵒??/td>
+            <td class="actions">
+              <a href="?action=edit&id=15" class="btn btn-sm btn-edit">?섏젙</a>
+              <a href="?action=delete&id=15" class="btn btn-sm btn-delete" 
+                 onclick="return confirm('?뺣쭚 ??젣?섏떆寃좎뒿?덇퉴?')">??젣</a>
+            </td>
+          </tr>
+                    <tr>
+            <td>2</td>
+            <td>?먯쭊??援щ떒二? &quot;??留먮젅?댁떆??異뺢뎄 援먮쪟 ?뺣???寃?quot;</td>
+            <td>
+              <span class="category-badge cat-interview">
+                interview              </span>
+            </td>
+            <td>2026-02-15</td>
+            <td>?쒖슱?쇰땳??誘몃뵒??/td>
+            <td class="actions">
+              <a href="?action=edit&id=2" class="btn btn-sm btn-edit">?섏젙</a>
+              <a href="?action=delete&id=2" class="btn btn-sm btn-delete" 
+                 onclick="return confirm('?뺣쭚 ??젣?섏떆寃좎뒿?덇퉴?')">??젣</a>
+            </td>
+          </tr>
+                    <tr>
+            <td>19</td>
+            <td>留먮젅?댁떆???덊띁由ш렇 2025-2026 ?쒖쫵 媛쒕쭑??12媛?...</td>
+            <td>
+              <span class="category-badge cat-malaysia">
+                malaysia              </span>
+            </td>
+            <td>2026-01-15</td>
+            <td>?쒖슱?쇰땳??誘몃뵒??/td>
+            <td class="actions">
+              <a href="?action=edit&id=19" class="btn btn-sm btn-edit">?섏젙</a>
+              <a href="?action=delete&id=19" class="btn btn-sm btn-delete" 
+                 onclick="return confirm('?뺣쭚 ??젣?섏떆寃좎뒿?덇퉴?')">??젣</a>
+            </td>
+          </tr>
+                    <tr>
+            <td>16</td>
+            <td>?쒖슱?쇰땳?? ?댁긽吏?媛먮룆 ?꾧꺽 寃쎌쭏??Ariff Hashim...</td>
+            <td>
+              <span class="category-badge cat-club">
+                club              </span>
+            </td>
+            <td>2026-01-15</td>
+            <td>?쒖슱?쇰땳??誘몃뵒??/td>
+            <td class="actions">
+              <a href="?action=edit&id=16" class="btn btn-sm btn-edit">?섏젙</a>
+              <a href="?action=delete&id=16" class="btn btn-sm btn-delete" 
+                 onclick="return confirm('?뺣쭚 ??젣?섏떆寃좎뒿?덇퉴?')">??젣</a>
+            </td>
+          </tr>
+                    <tr>
+            <td>23</td>
+            <td>A1 ?몃??꾨줈 由ш렇 2025-2026 ?쒖쫵, ?쒖슱?쇰땳??泥?...</td>
+            <td>
+              <span class="category-badge cat-malaysia">
+                malaysia              </span>
+            </td>
+            <td>2026-01-10</td>
+            <td>?쒖슱?쇰땳??誘몃뵒??/td>
+            <td class="actions">
+              <a href="?action=edit&id=23" class="btn btn-sm btn-edit">?섏젙</a>
+              <a href="?action=delete&id=23" class="btn btn-sm btn-delete" 
+                 onclick="return confirm('?뺣쭚 ??젣?섏떆寃좎뒿?덇퉴?')">??젣</a>
+            </td>
+          </tr>
+                    <tr>
+            <td>20</td>
+            <td>??묎퀬瑜?FC, 源?먭낀 媛먮룆 ?좎엫??&quot;10??留뚯쓽 由ш렇 ...</td>
+            <td>
+              <span class="category-badge cat-malaysia">
+                malaysia              </span>
+            </td>
+            <td>2026-01-06</td>
+            <td>?쒖슱?쇰땳??誘몃뵒??/td>
+            <td class="actions">
+              <a href="?action=edit&id=20" class="btn btn-sm btn-edit">?섏젙</a>
+              <a href="?action=delete&id=20" class="btn btn-sm btn-delete" 
+                 onclick="return confirm('?뺣쭚 ??젣?섏떆寃좎뒿?덇퉴?')">??젣</a>
+            </td>
+          </tr>
+                    <tr>
+            <td>3</td>
+            <td>?쒖슱?쇰땳?? Kota Kemuning City FC???移쒖꽑?꾩꽌 ...</td>
+            <td>
+              <span class="category-badge cat-club">
+                club              </span>
+            </td>
+            <td>2026-01-06</td>
+            <td>?쒖슱?쇰땳??誘몃뵒??/td>
+            <td class="actions">
+              <a href="?action=edit&id=3" class="btn btn-sm btn-edit">?섏젙</a>
+              <a href="?action=delete&id=3" class="btn btn-sm btn-delete" 
+                 onclick="return confirm('?뺣쭚 ??젣?섏떆寃좎뒿?덇퉴?')">??젣</a>
+            </td>
+          </tr>
+                    <tr>
+            <td>4</td>
+            <td>??묎퀬瑜?II, ?쒖슱?쇰땳?ㅼ뿉 5-0 ??밟?由ш렇 ?좊몢 吏덉＜</td>
+            <td>
+              <span class="category-badge cat-malaysia">
+                malaysia              </span>
+            </td>
+            <td>2025-12-14</td>
+            <td>Sporty</td>
+            <td class="actions">
+              <a href="?action=edit&id=4" class="btn btn-sm btn-edit">?섏젙</a>
+              <a href="?action=delete&id=4" class="btn btn-sm btn-delete" 
+                 onclick="return confirm('?뺣쭚 ??젣?섏떆寃좎뒿?덇퉴?')">??젣</a>
+            </td>
+          </tr>
+                    <tr>
+            <td>5</td>
+            <td>Bunga Raya FC, ?쒖슱?쇰땳?ㅼ뿉 2-0 ?밸━????媛뺤꽭 ?낆쬆</td>
+            <td>
+              <span class="category-badge cat-malaysia">
+                malaysia              </span>
+            </td>
+            <td>2025-10-06</td>
+            <td>AFL 誘몃뵒??/td>
+            <td class="actions">
+              <a href="?action=edit&id=5" class="btn btn-sm btn-edit">?섏젙</a>
+              <a href="?action=delete&id=5" class="btn btn-sm btn-delete" 
+                 onclick="return confirm('?뺣쭚 ??젣?섏떆寃좎뒿?덇퉴?')">??젣</a>
+            </td>
+          </tr>
+                    <tr>
+            <td>6</td>
+            <td>?쒖슱?쇰땳?? Kedah Darul FC??2-0 ?꾩듅????踰덉㎏ ...</td>
+            <td>
+              <span class="category-badge cat-club">
+                club              </span>
+            </td>
+            <td>2025-09-28</td>
+            <td>?쒖슱?쇰땳??誘몃뵒??/td>
+            <td class="actions">
+              <a href="?action=edit&id=6" class="btn btn-sm btn-edit">?섏젙</a>
+              <a href="?action=delete&id=6" class="btn btn-sm btn-delete" 
+                 onclick="return confirm('?뺣쭚 ??젣?섏떆寃좎뒿?덇퉴?')">??젣</a>
+            </td>
+          </tr>
+                    <tr>
+            <td>7</td>
+            <td>ATM, ?쒖슱?쇰땳?ㅼ뿉 3-1 ??쟾?밟??꾨컲 吏묒쨷???욎꽭??/td>
+            <td>
+              <span class="category-badge cat-malaysia">
+                malaysia              </span>
+            </td>
+            <td>2025-09-21</td>
+            <td>AFL 誘몃뵒??/td>
+            <td class="actions">
+              <a href="?action=edit&id=7" class="btn btn-sm btn-edit">?섏젙</a>
+              <a href="?action=delete&id=7" class="btn btn-sm btn-delete" 
+                 onclick="return confirm('?뺣쭚 ??젣?섏떆寃좎뒿?덇퉴?')">??젣</a>
+            </td>
+          </tr>
+                    <tr>
+            <td>8</td>
+            <td>?쒖슱?쇰땳?? Manjung City??1-0 ?밟?A1 由ш렇 泥?...</td>
+            <td>
+              <span class="category-badge cat-club">
+                club              </span>
+            </td>
+            <td>2025-09-13</td>
+            <td>Stadium Astro</td>
+            <td class="actions">
+              <a href="?action=edit&id=8" class="btn btn-sm btn-edit">?섏젙</a>
+              <a href="?action=delete&id=8" class="btn btn-sm btn-delete" 
+                 onclick="return confirm('?뺣쭚 ??젣?섏떆寃좎뒿?덇퉴?')">??젣</a>
+            </td>
+          </tr>
+                    <tr>
+            <td>9</td>
+            <td>?쒖슱?쇰땳?? 媛쒕쭑?꾩꽌 Malaysian University??0-3...</td>
+            <td>
+              <span class="category-badge cat-club">
+                club              </span>
+            </td>
+            <td>2025-08-24</td>
+            <td>?쒖슱?쇰땳??誘몃뵒??/td>
+            <td class="actions">
+              <a href="?action=edit&id=9" class="btn btn-sm btn-edit">?섏젙</a>
+              <a href="?action=delete&id=9" class="btn btn-sm btn-delete" 
+                 onclick="return confirm('?뺣쭚 ??젣?섏떆寃좎뒿?덇퉴?')">??젣</a>
+            </td>
+          </tr>
+                    <tr>
+            <td>10</td>
+            <td>?쒖슱?쇰땳?? 2025-26?쒖쫵 理쒖쥌 ?좎닔??諛쒗몴??18紐?...</td>
+            <td>
+              <span class="category-badge cat-club">
+                club              </span>
+            </td>
+            <td>2025-08-16</td>
+            <td>?쒖슱?쇰땳??誘몃뵒??/td>
+            <td class="actions">
+              <a href="?action=edit&id=10" class="btn btn-sm btn-edit">?섏젙</a>
+              <a href="?action=delete&id=10" class="btn btn-sm btn-delete" 
+                 onclick="return confirm('?뺣쭚 ??젣?섏떆寃좎뒿?덇퉴?')">??젣</a>
+            </td>
+          </tr>
+                    <tr>
+            <td>11</td>
+            <td>FC ?쒖슱?쇰땳?? A1 ?몃??꾨줈 由ш렇 李멸? 理쒖쥌 ?뱀씤</td>
+            <td>
+              <span class="category-badge cat-club">
+                club              </span>
+            </td>
+            <td>2025-06-16</td>
+            <td>New Straits Times</td>
+            <td class="actions">
+              <a href="?action=edit&id=11" class="btn btn-sm btn-edit">?섏젙</a>
+              <a href="?action=delete&id=11" class="btn btn-sm btn-delete" 
+                 onclick="return confirm('?뺣쭚 ??젣?섏떆寃좎뒿?덇퉴?')">??젣</a>
+            </td>
+          </tr>
+                    <tr>
+            <td>12</td>
+            <td>&quot;異뺢뎄??吏덈” 肄붾━??quot; ?щ떎! K4 異쒖떊 ?쒖슱?쇰땳?? ...</td>
+            <td>
+              <span class="category-badge cat-club">
+                club              </span>
+            </td>
+            <td>2025-05-15</td>
+            <td>?ㅽ룷痢좎“??/td>
+            <td class="actions">
+              <a href="?action=edit&id=12" class="btn btn-sm btn-edit">?섏젙</a>
+              <a href="?action=delete&id=12" class="btn btn-sm btn-delete" 
+                 onclick="return confirm('?뺣쭚 ??젣?섏떆寃좎뒿?덇퉴?')">??젣</a>
+            </td>
+          </tr>
+                    <tr>
+            <td>13</td>
+            <td>?쒓뎅 理쒖큹 留먮젅?댁떆??由ш렇 吏꾩텧??異뺢뎄?? &quot;FC ??..</td>
+            <td>
+              <span class="category-badge cat-club">
+                club              </span>
+            </td>
+            <td>2025-04-12</td>
+            <td>SG-HATT</td>
+            <td class="actions">
+              <a href="?action=edit&id=13" class="btn btn-sm btn-edit">?섏젙</a>
+              <a href="?action=delete&id=13" class="btn btn-sm btn-delete" 
+                 onclick="return confirm('?뺣쭚 ??젣?섏떆寃좎뒿?덇퉴?')">??젣</a>
+            </td>
+          </tr>
+                  </tbody>
+      </table>
+          </div>
+    
+          </div>
+</body>
+</html>

@@ -23,7 +23,7 @@ const albums = [
       {
         id: 3,
         title: 'Back Numbers',
-        desc: '서울피닉스 FC 등번호',
+        desc: '서울피닉스FC 등번호',
         src: '/gallery/gallery-2.jpg',
       },
       {
@@ -53,7 +53,7 @@ const albums = [
       {
         id: 5,
         title: 'Team Photo',
-        desc: '서울피닉스 FC 선수단',
+        desc: '서울피닉스FC 선수단',
         gradient: 'from-brand-red/30 via-brand-black/20 to-brand-gold/20',
       },
       {
@@ -104,7 +104,7 @@ const albums = [
         channel: 'ZD Sports Studio',
         views: '1.9천',
         videoId: 'ePzwjp6oako',
-        desc: '서울피닉스 FC의 말레이시아 도전 스토리 1부',
+        desc: '서울피닉스FC의 말레이시아 도전 스토리 1부',
       },
       {
         id: 2,
@@ -112,7 +112,7 @@ const albums = [
         channel: 'ZD Sports Studio',
         views: '1.5천',
         videoId: 'lrrcBdScUFY',
-        desc: '서울피닉스 FC의 말레이시아 도전 스토리 2부',
+        desc: '서울피닉스FC의 말레이시아 도전 스토리 2부',
       },
       {
         id: 3,

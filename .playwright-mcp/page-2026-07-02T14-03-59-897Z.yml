@@ -1,0 +1,196 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - link "서울피닉스FC 로고 서울피닉스FC" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img "서울피닉스FC 로고" [ref=e8]
+          - generic [ref=e10]: 서울피닉스FC
+        - link "K·국제클럽축구연맹 K·국제클럽 축구연맹" [ref=e11] [cursor=pointer]:
+          - /url: /federation/
+          - img "K·국제클럽축구연맹" [ref=e13]
+          - generic [ref=e14]:
+            - text: K·국제클럽
+            - text: 축구연맹
+      - navigation [ref=e15]:
+        - link "홈" [ref=e16] [cursor=pointer]:
+          - /url: /
+          - text: 홈
+        - link "클럽 소개" [ref=e18] [cursor=pointer]:
+          - /url: /about/
+        - link "뉴스" [ref=e19] [cursor=pointer]:
+          - /url: /news/
+        - link "선수단" [ref=e20] [cursor=pointer]:
+          - /url: /squad/
+        - link "경기 일정" [ref=e21] [cursor=pointer]:
+          - /url: /schedule/
+        - link "갤러리" [ref=e22] [cursor=pointer]:
+          - /url: /gallery/
+        - link "연맹 소개" [ref=e23] [cursor=pointer]:
+          - /url: /federation/
+        - link "연락처" [ref=e24] [cursor=pointer]:
+          - /url: /contact/
+  - main [ref=e25]:
+    - generic [ref=e26]:
+      - generic [ref=e27]:
+        - generic [ref=e34]:
+          - img "서울피닉스FC 공식 로고" [ref=e37]
+          - heading "서울피닉스FC" [level=1] [ref=e38]
+          - paragraph [ref=e39]:
+            - text: 대한민국과 말레이시아(
+            - link "Malaysia A1 Semi-Pro League" [ref=e40] [cursor=pointer]:
+              - /url: /about/#league
+            - text: )를 잇는 축구 클럽.
+            - text: 새로운 도전, 새로운 역사를 만들어갑니다.
+          - generic [ref=e41]:
+            - link "클럽 소개" [ref=e42] [cursor=pointer]:
+              - /url: /about/
+              - text: 클럽 소개
+              - img [ref=e43]
+            - link "경기 일정" [ref=e45] [cursor=pointer]:
+              - /url: /schedule/
+        - generic [ref=e47]: SCROLL
+      - generic [ref=e51]:
+        - generic [ref=e52]:
+          - generic [ref=e53]: "30"
+          - generic [ref=e54]: 리그 경기
+        - generic [ref=e55]:
+          - generic [ref=e56]: "5"
+          - generic [ref=e57]: 승리
+        - generic [ref=e58]:
+          - generic [ref=e59]: "24"
+          - generic [ref=e60]: 총 득점
+        - generic [ref=e61]:
+          - generic [ref=e62]: 잔류
+          - generic [ref=e63]: 시즌 결과
+      - generic [ref=e65]:
+        - generic [ref=e66]:
+          - generic [ref=e67]:
+            - heading "최근 경기 결과" [level=2] [ref=e68]
+            - paragraph [ref=e69]: 2025-26 A1 Semi-Pro League 서울피닉스의 경기 결과
+          - link "전체 일정" [ref=e70] [cursor=pointer]:
+            - /url: /schedule/
+            - text: 전체 일정
+            - img [ref=e71]
+        - generic [ref=e73]:
+          - generic [ref=e75]:
+            - generic [ref=e76]:
+              - text: Malaysia A1 Semi-Pro League
+              - generic [ref=e77]:
+                - generic [ref=e78]: Kedah FA
+                - generic [ref=e80]: "3 : 0"
+                - generic [ref=e81]: 서울피닉스FC
+            - generic [ref=e82]:
+              - generic [ref=e83]: 2026.05.23
+              - generic [ref=e84]: 20:45 (KST)
+              - generic [ref=e85]: Kedah Stadium
+          - generic [ref=e87]:
+            - generic [ref=e88]:
+              - text: Malaysia A1 Semi-Pro League
+              - generic [ref=e89]:
+                - generic [ref=e90]: 서울피닉스FC
+                - generic [ref=e92]: "3 : 1"
+                - generic [ref=e93]: Perlis GSA FC
+            - generic [ref=e94]:
+              - generic [ref=e95]: 2026.05.16
+              - generic [ref=e96]: 16:45 (KST)
+              - generic [ref=e97]: MMU Stadium
+          - generic [ref=e99]:
+            - generic [ref=e100]:
+              - text: Malaysia A1 Semi-Pro League
+              - generic [ref=e101]:
+                - generic [ref=e102]: Perak FA
+                - generic [ref=e104]: "2 : 0"
+                - generic [ref=e105]: 서울피닉스FC
+            - generic [ref=e106]:
+              - generic [ref=e107]: 2026.05.09
+              - generic [ref=e108]: 16:45 (KST)
+              - generic [ref=e109]: Perak Stadium
+          - generic [ref=e111]:
+            - generic [ref=e112]:
+              - text: Malaysia A1 Semi-Pro League
+              - generic [ref=e113]:
+                - generic [ref=e114]: 서울피닉스FC
+                - generic [ref=e116]: "1 : 8"
+                - generic [ref=e117]: UM-Damansara United
+            - generic [ref=e118]:
+              - generic [ref=e119]: 2026.05.02
+              - generic [ref=e120]: 20:45 (KST)
+              - generic [ref=e121]: MMU Stadium
+      - generic [ref=e124]:
+        - heading "서울피닉스와 함께하세요" [level=2] [ref=e125]
+        - paragraph [ref=e126]:
+          - text: 새로운 역사를 만들어가는 서울피닉스의 여정에 함께해 주세요.
+          - text: 경기 관람, 뉴스 구독, 소셜 미디어 팔로우 등 다양한 방법으로 참여하실 수 있습니다.
+        - generic [ref=e127]:
+          - link "연락하기" [ref=e128] [cursor=pointer]:
+            - /url: /contact/
+          - link "더 알아보기" [ref=e129] [cursor=pointer]:
+            - /url: /about/
+  - contentinfo [ref=e130]:
+    - generic [ref=e132]:
+      - generic [ref=e133]:
+        - link "서울피닉스FC 로고 서울피닉스FC" [ref=e134] [cursor=pointer]:
+          - /url: /
+          - img "서울피닉스FC 로고" [ref=e136]
+          - generic [ref=e138]: 서울피닉스FC
+        - paragraph [ref=e139]:
+          - text: 대한민국과 말레이시아(Malaysia A1 Semi-Pro League)를 잇는 축구 클럽.
+          - text: 새로운 도전, 새로운 역사를 만들어갑니다.
+        - generic [ref=e140]:
+          - link "youtube" [ref=e141] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=e142]: "Y"
+          - link "instagram" [ref=e143] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=e144]: I
+          - link "facebook" [ref=e145] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=e146]: F
+      - generic [ref=e147]:
+        - heading "클럽" [level=3] [ref=e148]
+        - list [ref=e149]:
+          - listitem [ref=e150]:
+            - link "클럽 소개" [ref=e151] [cursor=pointer]:
+              - /url: /about/
+          - listitem [ref=e152]:
+            - link "선수단" [ref=e153] [cursor=pointer]:
+              - /url: /squad/
+          - listitem [ref=e154]:
+            - link "경기 일정" [ref=e155] [cursor=pointer]:
+              - /url: /schedule/
+          - listitem [ref=e156]:
+            - link "갤러리" [ref=e157] [cursor=pointer]:
+              - /url: /gallery/
+      - generic [ref=e158]:
+        - heading "미디어" [level=3] [ref=e159]
+        - list [ref=e160]:
+          - listitem [ref=e161]:
+            - link "뉴스" [ref=e162] [cursor=pointer]:
+              - /url: /news/
+          - listitem [ref=e163]:
+            - link "한국 축구" [ref=e164] [cursor=pointer]:
+              - /url: /news/?category=korean
+          - listitem [ref=e165]:
+            - link "말레이시아 축구" [ref=e166] [cursor=pointer]:
+              - /url: /news/?category=malaysia
+      - generic [ref=e167]:
+        - heading "고객 지원" [level=3] [ref=e168]
+        - list [ref=e169]:
+          - listitem [ref=e170]:
+            - link "연락처" [ref=e171] [cursor=pointer]:
+              - /url: /contact/
+          - listitem [ref=e172]:
+            - link "자주 묻는 질문" [ref=e173] [cursor=pointer]:
+              - /url: /contact/
+          - listitem [ref=e174]:
+            - link "티켓 예매" [ref=e175] [cursor=pointer]:
+              - /url: /schedule/
+    - generic [ref=e178]:
+      - paragraph [ref=e179]: © 2026 서울피닉스FC. All rights reserved.
+      - generic [ref=e180]:
+        - link "개인정보처리방침" [ref=e181] [cursor=pointer]:
+          - /url: "#"
+        - link "이용약관" [ref=e182] [cursor=pointer]:
+          - /url: "#"
+  - alert [ref=e183]

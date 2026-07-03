@@ -4,11 +4,11 @@ import Footer from "@/components/Footer";
 
 export const metadata = {
   title: {
-    default: "서울피닉스 FC | Seoul Phoenix FC",
-    template: "%s | 서울피닉스 FC",
+    default: "서울피닉스FC",
+    template: "%s | 서울피닉스FC",
   },
   description:
-    "서울피닉스 FC - 대한민국-말레이시아를 잇는 축구 클럽. Malaysia A1 Semi-Pro League에서 활약하는 서울피닉스의 공식 홈페이지입니다.",
+    "서울피닉스FC - 대한민국-말레이시아를 잇는 축구 클럽.",
   keywords: [
     "서울피닉스",
     "Seoul Phoenix",
@@ -16,13 +16,12 @@ export const metadata = {
     "축구",
     "K리그",
     "말레이시아 축구",
-    "Malaysia A1 Semi-Pro League",
   ],
   openGraph: {
-    title: "서울피닉스 FC | Seoul Phoenix FC",
+    title: "서울피닉스FC",
     description:
-      "대한민국-말레이시아를 잇는 축구 클럽, 서울피닉스 FC",
-    siteName: "서울피닉스 FC",
+      "대한민국-말레이시아를 잇는 축구 클럽, 서울피닉스FC",
+    siteName: "서울피닉스FC",
     locale: "ko_KR",
     type: "website",
   },

@@ -1,0 +1,7544 @@
+[
+  {
+    "url": "https://cms.fam.org.my/resultdetail/czo0OiI3OTg1Ijs%3D/W2025MA1",
+    "matchNumber": 7,
+    "kickoff": "8:45 PM",
+    "venue": "STADIUM MAJLIS BANDARAYA PASIR GUDANG",
+    "referee": "MUHAMMAD USAID BIN JAMAL",
+    "homeTeam": "JOHOR DARUL TA'ZIM II",
+    "awayTeam": "SEOUL PHOENIX FC",
+    "homeScore": 0,
+    "awayScore": 1,
+    "htHome": 0,
+    "htAway": 0,
+    "goals": [
+      {
+        "team": "SEOUL PHOENIX FC",
+        "minute": 51,
+        "name": "MUHAMMAD FARIS DANISH  MOHD ASRUL",
+        "number": 31,
+        "type": "normal"
+      }
+    ],
+    "lineups": {
+      "home": [
+        {
+          "number": 5,
+          "name": "MUHAMMAD SHAFIZAN  MOHAMAD ARSHAD",
+          "u22": true
+        },
+        {
+          "number": 6,
+          "name": "MOHAMAD RAFIEFIKRI BIN MOHD ROSMAN",
+          "subOut": 78
+        },
+        {
+          "number": 12,
+          "name": "ZIAD EL BASHEER BIN NORHISHAM",
+          "u22": true
+        },
+        {
+          "number": 13,
+          "name": "AHMAD AYSAR HADI BIN MOHD SHAPRI",
+          "captain": true
+        },
+        {
+          "number": 16,
+          "name": "IRFAN SHAHKIMI BIN SHAHRIZAL",
+          "u22": true
+        },
+        {
+          "number": 17,
+          "name": "MUHAMMAD ALIF BIN ABDUL MUTALIB",
+          "subOut": 78
+        },
+        {
+          "number": 22,
+          "name": "ZULHILMI BIN SHARANI",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 23,
+          "name": "MUHAMMAD NAIM  ZAINUDIN",
+          "u22": true,
+          "subOut": 57
+        },
+        {
+          "number": 29,
+          "name": "MUHAMMAD SYUKUR FARIZ BIN JANURI",
+          "u22": true
+        },
+        {
+          "number": 31,
+          "name": "MUHAMMAD FARIS DANISH  MOHD ASRUL",
+          "u22": true
+        },
+        {
+          "number": 32,
+          "name": "MUHAMMAD ALIF BIN AHMAD",
+          "u22": true
+        }
+      ],
+      "away": [
+        {
+          "number": 3,
+          "name": "NORONHA NONATO SOARES GABRIEL"
+        },
+        {
+          "number": 6,
+          "name": "YOUNGJU SONG",
+          "u22": true,
+          "yellowCard": "90+2"
+        },
+        {
+          "number": 8,
+          "name": "JAEMO AHN",
+          "subOut": 32
+        },
+        {
+          "number": 10,
+          "name": "CHANYANG CHOI",
+          "captain": true
+        },
+        {
+          "number": 12,
+          "name": "PYEONGAN PARK",
+          "u22": true
+        },
+        {
+          "number": 13,
+          "name": "SANGMUK OH",
+          "u22": true,
+          "yellowCard": "67"
+        },
+        {
+          "number": 19,
+          "name": "JUNHYEOK OH"
+        },
+        {
+          "number": 20,
+          "name": "AL IMAN WAHIEY MUHAMMAD AMIR",
+          "yellowCard": "82"
+        },
+        {
+          "number": 21,
+          "name": "JIWOO PARK",
+          "subOut": 43
+        },
+        {
+          "number": 32,
+          "name": "SOMYEONG YUN"
+        },
+        {
+          "number": 66,
+          "name": "SEHEE PARK",
+          "u22": true,
+          "subOut": 66
+        }
+      ]
+    },
+    "substitutes": {
+      "home": [
+        {
+          "number": 4,
+          "name": "ADAM DANIEL BIN MOHAMAD",
+          "u22": true
+        },
+        {
+          "number": 9,
+          "name": "ABDUL RAZIQ BIN ABD RAHMAN",
+          "u22": true,
+          "subIn": 78
+        },
+        {
+          "number": 10,
+          "name": "MUHAMMAD DANISH SYAMER BIN TAJUDDIN",
+          "u22": true,
+          "subIn": 57
+        },
+        {
+          "number": 21,
+          "name": "MOHAMMAD MARWAN ABDUL RAHMAN",
+          "u22": true
+        },
+        {
+          "number": 24,
+          "name": "ARIFF SAFWAN  B. MOHD SAFRI",
+          "u22": true
+        },
+        {
+          "number": 25,
+          "name": "MUHAMMAD HAFIZ AZIZI BIN ZAMRI",
+          "position": "GK"
+        },
+        {
+          "number": 27,
+          "name": "FAKRUL HAIKAL BIN RAZALI",
+          "u22": true
+        },
+        {
+          "number": 28,
+          "name": "ADAM FARHAN BIN MOHD FAIZAL",
+          "u22": true,
+          "subIn": 78,
+          "subNumber": 1
+        },
+        {
+          "number": 1,
+          "name": "VIKNESWARAN KRISNAN",
+          "position": "GK"
+        },
+        {
+          "number": 2,
+          "name": "OHKYU LIM"
+        },
+        {
+          "number": 5,
+          "name": "WAN SYAMIL SULAIMAN WAN SALMAN",
+          "u22": true,
+          "subIn": 32
+        },
+        {
+          "number": 7,
+          "name": "EUNHO JUNG",
+          "u22": true,
+          "subIn": 66
+        },
+        {
+          "number": 14,
+          "name": "MOHAMAD ASHRAF IQWAN ANUAR",
+          "u22": true
+        },
+        {
+          "number": 16,
+          "name": "JUNHYUK YU",
+          "subIn": 43
+        },
+        {
+          "number": 18,
+          "name": "MUHAMMAD ZUBAIR KAMARULZAMAN"
+        },
+        {
+          "number": 22,
+          "name": "SUNWOO BANG",
+          "u22": true
+        },
+        {
+          "number": 25,
+          "name": "WOOJIN LIM",
+          "u22": true
+        }
+      ],
+      "away": [
+        {
+          "number": 1,
+          "name": "VIKNESWARAN KRISNAN",
+          "position": "GK"
+        },
+        {
+          "number": 2,
+          "name": "OHKYU LIM"
+        },
+        {
+          "number": 5,
+          "name": "WAN SYAMIL SULAIMAN WAN SALMAN",
+          "u22": true,
+          "subIn": 32
+        },
+        {
+          "number": 7,
+          "name": "EUNHO JUNG",
+          "u22": true,
+          "subIn": 66
+        },
+        {
+          "number": 14,
+          "name": "MOHAMAD ASHRAF IQWAN ANUAR",
+          "u22": true
+        },
+        {
+          "number": 16,
+          "name": "JUNHYUK YU",
+          "subIn": 43
+        },
+        {
+          "number": 18,
+          "name": "MUHAMMAD ZUBAIR KAMARULZAMAN"
+        },
+        {
+          "number": 22,
+          "name": "SUNWOO BANG",
+          "u22": true
+        },
+        {
+          "number": 25,
+          "name": "WOOJIN LIM",
+          "u22": true
+        }
+      ]
+    },
+    "index": 1
+  },
+  {
+    "url": "https://cms.fam.org.my/resultdetail/czo0OiI4MDIzIjs%3D/W2025MA1",
+    "matchNumber": 22,
+    "kickoff": "4:45 PM",
+    "venue": "STADIUM INSPEN, KAJANG",
+    "playerOfTheMatch": "MUHAMMAD AKIMIE AMRAN (6) (MALAYSIAN UNIVERSITY)",
+    "referee": "MURSYID BIN BAHAROM",
+    "homeTeam": "MALAYSIAN UNIVERSITY",
+    "awayTeam": "SEOUL PHOENIX FC",
+    "homeScore": 3,
+    "awayScore": 0,
+    "htHome": 2,
+    "htAway": 0,
+    "goals": [
+      {
+        "team": "MALAYSIAN UNIVERSITY",
+        "minute": 1,
+        "name": "MUHAMMAD ISSMA DANIEL ISSMA HAMKA",
+        "number": 7,
+        "type": "normal"
+      }
+    ],
+    "lineups": {
+      "home": [
+        {
+          "number": 3,
+          "name": "AHMAD TAUFIK LUKMAN",
+          "u22": true
+        },
+        {
+          "number": 4,
+          "name": "AMIRUL FAZLY MOHD ZAMRI"
+        },
+        {
+          "number": 6,
+          "name": "MUHAMMAD AKIMIE AMRAN",
+          "u22": true
+        },
+        {
+          "number": 8,
+          "name": "AHMAD HAIKAL HAZIQ UBAIDILLAH",
+          "captain": true,
+          "yellowCard": "74",
+          "subOut": 76
+        },
+        {
+          "number": 11,
+          "name": "MUHAMMAD ISSMA DANIEL ISSMA HAMKA",
+          "u22": true
+        },
+        {
+          "number": 17,
+          "name": "MUHAMMAD NAZMI AZZAHARI FARIQ",
+          "subOut": 81
+        },
+        {
+          "number": 21,
+          "name": "MUHAMMAD ADIM MUZAHHIR SAIPU AZUAN",
+          "u22": true,
+          "subOut": 65
+        },
+        {
+          "number": 23,
+          "name": "MUHAMMAD HARIZ HUSAINI MOHD HARIMANTO",
+          "u22": true
+        },
+        {
+          "number": 24,
+          "name": "MUHAMMAD AIRIL MIFZAL MOHD PUAD",
+          "u22": true,
+          "subOut": 81
+        },
+        {
+          "number": 25,
+          "name": "MUHAMMAD ASHRAF MOHAMAD FADHIL",
+          "position": "GK"
+        },
+        {
+          "number": 29,
+          "name": "ZIKRY MOHD HAFIS",
+          "subOut": 65
+        }
+      ],
+      "away": [
+        {
+          "number": 3,
+          "name": "NORONHA NONATO SOARES GABRIEL"
+        },
+        {
+          "number": 5,
+          "name": "WAN SYAMIL SULAIMAN WAN SALMAN",
+          "u22": true
+        },
+        {
+          "number": 6,
+          "name": "YOUNGJU SONG",
+          "u22": true
+        },
+        {
+          "number": 10,
+          "name": "CHANYANG CHOI",
+          "captain": true
+        },
+        {
+          "number": 12,
+          "name": "PYEONGAN PARK",
+          "u22": true,
+          "subOut": 66
+        },
+        {
+          "number": 13,
+          "name": "SANGMUK OH",
+          "u22": true
+        },
+        {
+          "number": 19,
+          "name": "JUNHYEOK OH"
+        },
+        {
+          "number": 20,
+          "name": "AL IMAN WAHIEY MUHAMMAD AMIR",
+          "subOut": 3
+        },
+        {
+          "number": 21,
+          "name": "JIWOO PARK",
+          "subOut": 73
+        },
+        {
+          "number": 32,
+          "name": "SOMYEONG YUN"
+        },
+        {
+          "number": 66,
+          "name": "SEHEE PARK",
+          "u22": true
+        }
+      ]
+    },
+    "substitutes": {
+      "home": [
+        {
+          "number": 7,
+          "name": "MUHAMMAD ZHARIF NAZHAN REFLI",
+          "subIn": 65,
+          "subNumber": 1
+        },
+        {
+          "number": 9,
+          "name": "MOHAMMAD ARIF IMRAN ABDUL RAHIM",
+          "subIn": 76
+        },
+        {
+          "number": 10,
+          "name": "MUHAMMAD AMIRUL HAZIQ KAMAL ARIFFIN"
+        },
+        {
+          "number": 15,
+          "name": "MUHAMMAD NUH AZLAN SYAH MOHD YUSOF",
+          "subIn": 81,
+          "subNumber": 1
+        },
+        {
+          "number": 16,
+          "name": "PENGIRAN MOHAMAD ILHAM AG JUMAHAT"
+        },
+        {
+          "number": 22,
+          "name": "AHMAD UDAY ZIDANE ARIFFIN"
+        },
+        {
+          "number": 26,
+          "name": "MUHAMMAD AIMAN DANIAL CHE RAMLAN",
+          "u22": true,
+          "subIn": 65
+        },
+        {
+          "number": 30,
+          "name": "HARITH HIZAMIN MOHD DUSUKI@MOHD DASUKI",
+          "subIn": 81
+        },
+        {
+          "number": 1,
+          "name": "VIKNESWARAN KRISNAN",
+          "position": "GK",
+          "subIn": 3
+        },
+        {
+          "number": 7,
+          "name": "EUNHO JUNG",
+          "u22": true
+        },
+        {
+          "number": 8,
+          "name": "JAEMO AHN",
+          "subIn": 66
+        },
+        {
+          "number": 14,
+          "name": "MOHAMAD ASHRAF IQWAN ANUAR",
+          "u22": true
+        },
+        {
+          "number": 15,
+          "name": "MUHAMMAD ADAM ILMAM BIN MOHD IDWAN SHAH",
+          "u22": true,
+          "subNumber": 1
+        },
+        {
+          "number": 16,
+          "name": "JUNHYUK YU"
+        },
+        {
+          "number": 18,
+          "name": "MUHAMMAD ZUBAIR KAMARULZAMAN"
+        },
+        {
+          "number": 22,
+          "name": "SUNWOO BANG",
+          "u22": true,
+          "subIn": 73
+        },
+        {
+          "number": 23,
+          "name": "JIYUN CHOI",
+          "u22": true
+        }
+      ],
+      "away": [
+        {
+          "number": 1,
+          "name": "VIKNESWARAN KRISNAN",
+          "position": "GK",
+          "subIn": 3
+        },
+        {
+          "number": 7,
+          "name": "EUNHO JUNG",
+          "u22": true
+        },
+        {
+          "number": 8,
+          "name": "JAEMO AHN",
+          "subIn": 66
+        },
+        {
+          "number": 14,
+          "name": "MOHAMAD ASHRAF IQWAN ANUAR",
+          "u22": true
+        },
+        {
+          "number": 15,
+          "name": "MUHAMMAD ADAM ILMAM BIN MOHD IDWAN SHAH",
+          "u22": true,
+          "subNumber": 1
+        },
+        {
+          "number": 16,
+          "name": "JUNHYUK YU"
+        },
+        {
+          "number": 18,
+          "name": "MUHAMMAD ZUBAIR KAMARULZAMAN"
+        },
+        {
+          "number": 22,
+          "name": "SUNWOO BANG",
+          "u22": true,
+          "subIn": 73
+        },
+        {
+          "number": 23,
+          "name": "JIYUN CHOI",
+          "u22": true
+        }
+      ]
+    },
+    "index": 2
+  },
+  {
+    "url": "https://cms.fam.org.my/resultdetail/czo0OiI4MDg1Ijs%3D/W2025MA1",
+    "matchNumber": 15,
+    "kickoff": "8:45 PM",
+    "venue": "STADIUM SULTAN MUHAMMAD IV, KOTA BHARU",
+    "playerOfTheMatch": "EMMANUEL MBARGA NKENE JUNIOR (24) (KELANTAN RED WARRIOR FC)",
+    "referee": "AZIZUL BIN ISMAIL",
+    "homeTeam": "SEOUL PHOENIX FC",
+    "awayTeam": "KELANTAN RED WARRIOR FC",
+    "homeScore": 0,
+    "awayScore": 0,
+    "htHome": 0,
+    "htAway": 0,
+    "goals": [],
+    "lineups": {
+      "home": [
+        {
+          "number": 3,
+          "name": "NORONHA NONATO SOARES GABRIEL"
+        },
+        {
+          "number": 5,
+          "name": "WAN SYAMIL SULAIMAN WAN SALMAN",
+          "u22": true,
+          "yellowCard": "85"
+        },
+        {
+          "number": 12,
+          "name": "PYEONGAN PARK",
+          "u22": true,
+          "subOut": 66
+        },
+        {
+          "number": 13,
+          "name": "SANGMUK OH",
+          "u22": true
+        },
+        {
+          "number": 16,
+          "name": "JUNHYUK YU",
+          "yellowCard": "14"
+        },
+        {
+          "number": 19,
+          "name": "JUNHYEOK OH",
+          "captain": true,
+          "subOut": 63
+        },
+        {
+          "number": 21,
+          "name": "JIWOO PARK"
+        },
+        {
+          "number": 27,
+          "name": "JEONGMIN YOON",
+          "yellowCard": "25"
+        },
+        {
+          "number": 32,
+          "name": "SOMYEONG YUN"
+        },
+        {
+          "number": 66,
+          "name": "SEHEE PARK",
+          "u22": true
+        },
+        {
+          "number": 99,
+          "name": "JIHUN OH",
+          "position": "GK"
+        }
+      ],
+      "away": [
+        {
+          "number": 3,
+          "name": "MUHAMMAD MOHD FAUDZI"
+        },
+        {
+          "number": 4,
+          "name": "ARHAM KHUSSYAIRI  AB WAHAB"
+        },
+        {
+          "number": 7,
+          "name": "OTIS KHAN MOHAMMED JAN",
+          "captain": true,
+          "subOut": 73
+        },
+        {
+          "number": 18,
+          "name": "MOHD FAIZ MOHD NASIR",
+          "yellowCard": "89"
+        },
+        {
+          "number": 22,
+          "name": "SHAFIQ AFIFI SUHAIMI",
+          "position": "GK",
+          "subOut": 73
+        },
+        {
+          "number": 24,
+          "name": "EMMANUEL MBARGA NKENE JUNIOR"
+        },
+        {
+          "number": 31,
+          "name": "MUHAMMAD ZUASYRAF ZULKIEFLE",
+          "subOut": 73
+        },
+        {
+          "number": 44,
+          "name": "ISKANDAR SHAH MOHD JAMIL KILIN"
+        },
+        {
+          "number": 77,
+          "name": "AIMAN JOANNY"
+        },
+        {
+          "number": 88,
+          "name": "MUHAIMIN IZUDDIN MUHAMAD ASRI",
+          "yellowCard": "13"
+        },
+        {
+          "number": 91,
+          "name": "ISMAEL SALIM DUNGA",
+          "subOut": 73
+        }
+      ]
+    },
+    "substitutes": {
+      "home": [
+        {
+          "number": 1,
+          "name": "VIKNESWARAN KRISNAN",
+          "position": "GK"
+        },
+        {
+          "number": 6,
+          "name": "YOUNGJU SONG",
+          "u22": true
+        },
+        {
+          "number": 7,
+          "name": "EUNHO JUNG",
+          "u22": true,
+          "subIn": 66
+        },
+        {
+          "number": 8,
+          "name": "JAEMO AHN",
+          "subIn": 63
+        },
+        {
+          "number": 14,
+          "name": "MOHAMAD ASHRAF IQWAN ANUAR",
+          "u22": true
+        },
+        {
+          "number": 17,
+          "name": "MHLENGI SIBONANI NDHLOVU"
+        },
+        {
+          "number": 18,
+          "name": "MUHAMMAD ZUBAIR KAMARULZAMAN"
+        },
+        {
+          "number": 22,
+          "name": "SUNWOO BANG",
+          "u22": true
+        },
+        {
+          "number": 1,
+          "name": "AMIN FAISAL MOHD SAIDI",
+          "position": "GK",
+          "subIn": 73,
+          "subNumber": 2
+        },
+        {
+          "number": 6,
+          "name": "FARIZ MOHD SAIDI",
+          "u22": true
+        },
+        {
+          "number": 8,
+          "name": "AHMAD AZRAF AHMAD AZAM",
+          "subIn": 73,
+          "subNumber": 1
+        },
+        {
+          "number": 11,
+          "name": "WAN MOHAMAD FAZLI WAN GHAZALI",
+          "subIn": 73
+        },
+        {
+          "number": 13,
+          "name": "ABDUL LATIFF SUHAIMI"
+        },
+        {
+          "number": 27,
+          "name": "WAN MOHD AIKAL DANIEL WAN MOHD RIZAL"
+        },
+        {
+          "number": 41,
+          "name": "NIAM' MULHASSAN ALIAS",
+          "u22": true
+        },
+        {
+          "number": 47,
+          "name": "NIK MUHAMAD ADIB AIMAN MOHD ZULKIFLI",
+          "u22": true
+        },
+        {
+          "number": 49,
+          "name": "MUHAMMAD RIZUAN MUDA",
+          "u22": true,
+          "subIn": 73,
+          "subNumber": 3
+        }
+      ],
+      "away": [
+        {
+          "number": 1,
+          "name": "AMIN FAISAL MOHD SAIDI",
+          "position": "GK",
+          "subIn": 73,
+          "subNumber": 2
+        },
+        {
+          "number": 6,
+          "name": "FARIZ MOHD SAIDI",
+          "u22": true
+        },
+        {
+          "number": 8,
+          "name": "AHMAD AZRAF AHMAD AZAM",
+          "subIn": 73,
+          "subNumber": 1
+        },
+        {
+          "number": 11,
+          "name": "WAN MOHAMAD FAZLI WAN GHAZALI",
+          "subIn": 73
+        },
+        {
+          "number": 13,
+          "name": "ABDUL LATIFF SUHAIMI"
+        },
+        {
+          "number": 27,
+          "name": "WAN MOHD AIKAL DANIEL WAN MOHD RIZAL"
+        },
+        {
+          "number": 41,
+          "name": "NIAM' MULHASSAN ALIAS",
+          "u22": true
+        },
+        {
+          "number": 47,
+          "name": "NIK MUHAMAD ADIB AIMAN MOHD ZULKIFLI",
+          "u22": true
+        },
+        {
+          "number": 49,
+          "name": "MUHAMMAD RIZUAN MUDA",
+          "u22": true,
+          "subIn": 73,
+          "subNumber": 3
+        }
+      ]
+    },
+    "index": 3
+  },
+  {
+    "url": "https://cms.fam.org.my/resultdetail/czo0OiI4MTEzIjs%3D/W2025MA1",
+    "matchNumber": 28,
+    "kickoff": "4:45 PM",
+    "venue": "STADIUM MAJLIS PERBANDARAN SEPANG",
+    "playerOfTheMatch": "YOUNGJU SONG (6) (SEOUL PHOENIX FC)",
+    "referee": "MUHAMMAD LATIFFI MOHD ZAHROM",
+    "homeTeam": "SEOUL PHOENIX FC",
+    "awayTeam": "MANJUNG CITY FC",
+    "homeScore": 1,
+    "awayScore": 0,
+    "htHome": 1,
+    "htAway": 0,
+    "goals": [],
+    "lineups": {
+      "home": [
+        {
+          "number": 3,
+          "name": "NORONHA NONATO SOARES GABRIEL"
+        },
+        {
+          "number": 5,
+          "name": "WAN SYAMIL SULAIMAN WAN SALMAN",
+          "u22": true,
+          "subOut": 89
+        },
+        {
+          "number": 6,
+          "name": "YOUNGJU SONG",
+          "u22": true
+        },
+        {
+          "number": 10,
+          "name": "CHANYANG CHOI",
+          "captain": true
+        },
+        {
+          "number": 12,
+          "name": "PYEONGAN PARK",
+          "u22": true
+        },
+        {
+          "number": 13,
+          "name": "SANGMUK OH",
+          "u22": true
+        },
+        {
+          "number": 16,
+          "name": "JUNHYUK YU",
+          "yellowCard": "69",
+          "subOut": 72
+        },
+        {
+          "number": 19,
+          "name": "JUNHYEOK OH",
+          "yellowCard": "37"
+        },
+        {
+          "number": 27,
+          "name": "JEONGMIN YOON"
+        },
+        {
+          "number": 32,
+          "name": "SOMYEONG YUN",
+          "subOut": 80
+        },
+        {
+          "number": 99,
+          "name": "JIHUN OH",
+          "position": "GK"
+        }
+      ],
+      "away": [
+        {
+          "number": 1,
+          "name": "MOHAMMAD NASRULLAH BIN ABDUL AZIZ",
+          "position": "GK"
+        },
+        {
+          "number": 8,
+          "name": "MUHAMMAD AL - AZIM BIN MOHD ASRI"
+        },
+        {
+          "number": 9,
+          "name": "SAIFUDDIN BIN KHAIRIL ANUAR",
+          "subOut": 61
+        },
+        {
+          "number": 10,
+          "name": "MUHAMMAD MUSLIHUDDIN ‘ATIQ BIN MAT ZAID",
+          "subOut": 72
+        },
+        {
+          "number": 14,
+          "name": "AQIL ARAZI BIN AZIZ",
+          "u22": true,
+          "yellowCard": "33",
+          "subOut": 61
+        },
+        {
+          "number": 17,
+          "name": "BRIGHT ADOM"
+        },
+        {
+          "number": 18,
+          "name": "EMMANUEL ATISO GELI"
+        },
+        {
+          "number": 21,
+          "name": "MUHAMAD AIMAN BIN MOHD ZAIDI",
+          "subOut": 72
+        },
+        {
+          "number": 28,
+          "name": "DHIA RAMADHAN BIN BADRULHISHAM",
+          "subOut": 83
+        },
+        {
+          "number": 33,
+          "name": "MOHAMAD SYAMIN BIN BAHARUDDIN",
+          "captain": true
+        },
+        {
+          "number": 35,
+          "name": "KAYDEN CRAIG SOPER"
+        }
+      ]
+    },
+    "substitutes": {
+      "home": [
+        {
+          "number": 1,
+          "name": "VIKNESWARAN KRISNAN",
+          "position": "GK"
+        },
+        {
+          "number": 7,
+          "name": "EUNHO JUNG",
+          "u22": true
+        },
+        {
+          "number": 8,
+          "name": "JAEMO AHN",
+          "subIn": 80
+        },
+        {
+          "number": 15,
+          "name": "MUHAMMAD ADAM ILMAM BIN MOHD IDWAN SHAH",
+          "u22": true
+        },
+        {
+          "number": 17,
+          "name": "MHLENGI SIBONANI NDHLOVU"
+        },
+        {
+          "number": 21,
+          "name": "JIWOO PARK"
+        },
+        {
+          "number": 22,
+          "name": "SUNWOO BANG",
+          "u22": true,
+          "subIn": 89
+        },
+        {
+          "number": 23,
+          "name": "JIYUN CHOI",
+          "subIn": 72
+        },
+        {
+          "number": 6,
+          "name": "MOHAMAD AL-FATEH BIN MOHD AFANDI"
+        },
+        {
+          "number": 7,
+          "name": "MUHAMAD ASYRAAF BIN MAT PUSHNI",
+          "subIn": 61,
+          "subNumber": 1
+        },
+        {
+          "number": 11,
+          "name": "SHAHRUL NAIM BIN SHAMSUL HISHAM",
+          "subIn": 72,
+          "subNumber": 1
+        },
+        {
+          "number": 12,
+          "name": "WAN MUHAMMAD IZZAT BIN WAN ZAIDI",
+          "subIn": 72
+        },
+        {
+          "number": 24,
+          "name": "NOOR AIMAN ADHA BIN AMIR"
+        },
+        {
+          "number": 25,
+          "name": "MUHAMMAD NAZRIN ADAM BIN KHALID",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 30,
+          "name": "MUHAMMAD SYAMIL BIN MAZLAN"
+        },
+        {
+          "number": 42,
+          "name": "AMREEL IQBAL BIN HAFIZ",
+          "subIn": 61
+        },
+        {
+          "number": 57,
+          "name": "MUHAMMAD AZRI FITRI BIN ADNAN",
+          "u22": true,
+          "subIn": 83
+        }
+      ],
+      "away": [
+        {
+          "number": 6,
+          "name": "MOHAMAD AL-FATEH BIN MOHD AFANDI"
+        },
+        {
+          "number": 7,
+          "name": "MUHAMAD ASYRAAF BIN MAT PUSHNI",
+          "subIn": 61,
+          "subNumber": 1
+        },
+        {
+          "number": 11,
+          "name": "SHAHRUL NAIM BIN SHAMSUL HISHAM",
+          "subIn": 72,
+          "subNumber": 1
+        },
+        {
+          "number": 12,
+          "name": "WAN MUHAMMAD IZZAT BIN WAN ZAIDI",
+          "subIn": 72
+        },
+        {
+          "number": 24,
+          "name": "NOOR AIMAN ADHA BIN AMIR"
+        },
+        {
+          "number": 25,
+          "name": "MUHAMMAD NAZRIN ADAM BIN KHALID",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 30,
+          "name": "MUHAMMAD SYAMIL BIN MAZLAN"
+        },
+        {
+          "number": 42,
+          "name": "AMREEL IQBAL BIN HAFIZ",
+          "subIn": 61
+        },
+        {
+          "number": 57,
+          "name": "MUHAMMAD AZRI FITRI BIN ADNAN",
+          "u22": true,
+          "subIn": 83
+        }
+      ]
+    },
+    "index": 4
+  },
+  {
+    "url": "https://cms.fam.org.my/resultdetail/czo0OiI4MTYzIjs%3D/W2025MA1",
+    "matchNumber": 38,
+    "kickoff": "4:45 PM",
+    "venue": "STADIUM MINDEF, KUALA LUMPUR",
+    "playerOfTheMatch": "MUHAMMAD HADI MOHAMAD (10) (ARMED FORCES FC)",
+    "referee": "MUHAMAD ARIF BIN ISMAIL",
+    "homeTeam": "ARMED FORCES FC",
+    "awayTeam": "SEOUL PHOENIX FC",
+    "homeScore": 3,
+    "awayScore": 1,
+    "htHome": 2,
+    "htAway": 0,
+    "goals": [
+      {
+        "team": "ARMED FORCES FC",
+        "minute": 31,
+        "name": "MUHAMMAD HADI BIN MOHAMAD",
+        "number": 18,
+        "type": "normal"
+      },
+      {
+        "team": "ARMED FORCES FC",
+        "minute": 51,
+        "name": "SEOUL PHOENIX FC",
+        "number": 13,
+        "type": "normal"
+      }
+    ],
+    "lineups": {
+      "home": [
+        {
+          "number": 4,
+          "name": "SHAHRUL AZNEI BIN SHOPRI",
+          "subOut": 90
+        },
+        {
+          "number": 6,
+          "name": "RAFAEL SHAHZARI FOO BIN BENJAMIN FOO ABDULLAH",
+          "u22": true
+        },
+        {
+          "number": 8,
+          "name": "MARCUS MAH YUNG JIAN",
+          "subOut": 89
+        },
+        {
+          "number": 10,
+          "name": "MUHAMMAD HADI BIN MOHAMAD",
+          "subOut": 75
+        },
+        {
+          "number": 11,
+          "name": "MOHD RAFIZOL BIN ROSLAN"
+        },
+        {
+          "number": 18,
+          "name": "MUHAMMAD FAIZ BIN IBRAHIM",
+          "captain": true,
+          "yellowCard": "37"
+        },
+        {
+          "number": 30,
+          "name": "MOHAMAD FAKRUL IZWAN BIN MOHD ROSDEH",
+          "yellowCard": "49"
+        },
+        {
+          "number": 35,
+          "name": "MUHAMMAD FAIQ BIN MAT ALWI",
+          "subOut": 90
+        },
+        {
+          "number": 36,
+          "name": "MOHAMAD HAFIZUDDIN BIN AZUHAR",
+          "position": "GK"
+        },
+        {
+          "number": 47,
+          "name": "MUHAMMAD AZIM NADIM BIN MOHD AZMI",
+          "u22": true,
+          "yellowCard": "45+2"
+        },
+        {
+          "number": 74,
+          "name": "AHMAD ZAFRI BIN ZAKARIA"
+        }
+      ],
+      "away": [
+        {
+          "number": 3,
+          "name": "NORONHA NONATO SOARES GABRIEL",
+          "yellowCard": "59"
+        },
+        {
+          "number": 6,
+          "name": "YOUNGJU SONG",
+          "u22": true,
+          "yellowCard": "37",
+          "subOut": 59
+        },
+        {
+          "number": 8,
+          "name": "JAEMO AHN"
+        },
+        {
+          "number": 10,
+          "name": "CHANYANG CHOI",
+          "captain": true
+        },
+        {
+          "number": 12,
+          "name": "PYEONGAN PARK",
+          "u22": true,
+          "subOut": 45
+        },
+        {
+          "number": 13,
+          "name": "SANGMUK OH",
+          "u22": true
+        },
+        {
+          "number": 19,
+          "name": "JUNHYEOK OH"
+        },
+        {
+          "number": 27,
+          "name": "JEONGMIN YOON",
+          "yellowCard": "43"
+        },
+        {
+          "number": 32,
+          "name": "SOMYEONG YUN",
+          "subOut": 59
+        },
+        {
+          "number": 66,
+          "name": "SEHEE PARK",
+          "u22": true,
+          "subOut": 89
+        },
+        {
+          "number": 99,
+          "name": "JIHUN OH",
+          "position": "GK"
+        }
+      ]
+    },
+    "substitutes": {
+      "home": [
+        {
+          "number": 7,
+          "name": "MUHAMMAD SHARUL AMIN NASHARUDDIN"
+        },
+        {
+          "number": 9,
+          "name": "MAX FAREEZAN ANAK LIDIN",
+          "subIn": 89
+        },
+        {
+          "number": 14,
+          "name": "HANSEONG LEE",
+          "subIn": 90
+        },
+        {
+          "number": 17,
+          "name": "MUHAMMAD AKMAL BIN MD ISA"
+        },
+        {
+          "number": 21,
+          "name": "MUHAMMAD HAIRUL IQMAL BIN MOHD RAFFI",
+          "subIn": 75
+        },
+        {
+          "number": 25,
+          "name": "MOHD AZRUL BIN AZNAN"
+        },
+        {
+          "number": 26,
+          "name": "MOHAMMAD HAFIZY BIN NADZLI",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 70,
+          "name": "MUHAMAD AQIL ASYRAAF BIN NOOR AZHAR"
+        },
+        {
+          "number": 1,
+          "name": "VIKNESWARAN KRISNAN",
+          "position": "GK"
+        },
+        {
+          "number": 5,
+          "name": "WAN SYAMIL SULAIMAN WAN SALMAN",
+          "u22": true,
+          "subIn": 45
+        },
+        {
+          "number": 7,
+          "name": "EUNHO JUNG",
+          "u22": true
+        },
+        {
+          "number": 15,
+          "name": "MUHAMMAD ADAM ILMAM BIN MOHD IDWAN SHAH",
+          "u22": true,
+          "subIn": 59,
+          "subNumber": 1
+        },
+        {
+          "number": 17,
+          "name": "MHLENGI SIBONANI NDHLOVU"
+        },
+        {
+          "number": 18,
+          "name": "MUHAMMAD ZUBAIR KAMARULZAMAN"
+        },
+        {
+          "number": 21,
+          "name": "JIWOO PARK",
+          "subIn": 59
+        },
+        {
+          "number": 22,
+          "name": "SUNWOO BANG",
+          "u22": true,
+          "subIn": 89
+        },
+        {
+          "number": 23,
+          "name": "JIYUN CHOI",
+          "u22": true
+        }
+      ],
+      "away": [
+        {
+          "number": 1,
+          "name": "VIKNESWARAN KRISNAN",
+          "position": "GK"
+        },
+        {
+          "number": 5,
+          "name": "WAN SYAMIL SULAIMAN WAN SALMAN",
+          "u22": true,
+          "subIn": 45
+        },
+        {
+          "number": 7,
+          "name": "EUNHO JUNG",
+          "u22": true
+        },
+        {
+          "number": 15,
+          "name": "MUHAMMAD ADAM ILMAM BIN MOHD IDWAN SHAH",
+          "u22": true,
+          "subIn": 59,
+          "subNumber": 1
+        },
+        {
+          "number": 17,
+          "name": "MHLENGI SIBONANI NDHLOVU"
+        },
+        {
+          "number": 18,
+          "name": "MUHAMMAD ZUBAIR KAMARULZAMAN"
+        },
+        {
+          "number": 21,
+          "name": "JIWOO PARK",
+          "subIn": 59
+        },
+        {
+          "number": 22,
+          "name": "SUNWOO BANG",
+          "u22": true,
+          "subIn": 89
+        },
+        {
+          "number": 23,
+          "name": "JIYUN CHOI",
+          "u22": true
+        }
+      ]
+    },
+    "index": 5
+  },
+  {
+    "url": "https://cms.fam.org.my/resultdetail/czo0OiI4MjI2Ijs%3D/W2025MA1",
+    "matchNumber": 43,
+    "kickoff": "4:45 PM",
+    "venue": "STADIUM UM ARENA, KUALA LUMPUR",
+    "playerOfTheMatch": "CHANYANG CHOI (10) (SEOUL PHOENIX FC)",
+    "referee": "MURSYID BIN BAHAROM",
+    "homeTeam": "SEOUL PHOENIX FC",
+    "awayTeam": "KEDAH DARUL AMAN FC",
+    "homeScore": 2,
+    "awayScore": 0,
+    "htHome": 1,
+    "htAway": 0,
+    "goals": [],
+    "lineups": {
+      "home": [
+        {
+          "number": 6,
+          "name": "YOUNGJU SONG",
+          "u22": true
+        },
+        {
+          "number": 7,
+          "name": "EUNHO JUNG",
+          "u22": true
+        },
+        {
+          "number": 10,
+          "name": "CHANYANG CHOI",
+          "captain": true
+        },
+        {
+          "number": 13,
+          "name": "SANGMUK OH",
+          "u22": true,
+          "yellowCard": "52"
+        },
+        {
+          "number": 16,
+          "name": "JUNHYUK YU",
+          "yellowCard": "90+3"
+        },
+        {
+          "number": 19,
+          "name": "JUNHYEOK OH",
+          "subOut": 86
+        },
+        {
+          "number": 21,
+          "name": "JIWOO PARK"
+        },
+        {
+          "number": 23,
+          "name": "JIYUN CHOI",
+          "subOut": 64
+        },
+        {
+          "number": 27,
+          "name": "JEONGMIN YOON",
+          "subOut": 90
+        },
+        {
+          "number": 66,
+          "name": "SEHEE PARK",
+          "u22": true,
+          "subOut": 90
+        },
+        {
+          "number": 99,
+          "name": "JIHUN OH",
+          "position": "GK"
+        }
+      ],
+      "away": [
+        {
+          "number": 1,
+          "name": "MUHAMMAD AQIL SYAHMI BIN AZIZAN",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 3,
+          "name": "MUHAMMAD DANISH HAIKAL BIN ABDULLAH",
+          "u22": true,
+          "subOut": 68
+        },
+        {
+          "number": 4,
+          "name": "HAZRIE BALQIEF BIN MOHAMMAD ZULHADI",
+          "u22": true,
+          "subOut": 88
+        },
+        {
+          "number": 5,
+          "name": "NUR HILAL AMIN BIN MOHD KHAIRUL EZDI",
+          "u22": true
+        },
+        {
+          "number": 10,
+          "name": "MOHAMAD SHARUL AIMAN BIN ZURAIDI",
+          "u22": true
+        },
+        {
+          "number": 16,
+          "name": "MUHAMAD IQMAL HAZIM BIN MUHAMED SUPIAN",
+          "yellowCard": "90+3"
+        },
+        {
+          "number": 17,
+          "name": "MUHAMMAD HAIRIL SYAZWAN BIN KAMIS",
+          "u22": true,
+          "subOut": 88
+        },
+        {
+          "number": 27,
+          "name": "CHE AIZIL AZRIEN BIN CHE AZRI",
+          "u22": true,
+          "subOut": 77
+        },
+        {
+          "number": 28,
+          "name": "MUHAMMAD SHAHRUL HAKIMI ZULKIFLI",
+          "u22": true,
+          "subOut": 77
+        },
+        {
+          "number": 30,
+          "name": "MOHAMAD ZAMRI BIN PIN RAMLI",
+          "captain": true
+        },
+        {
+          "number": 55,
+          "name": "MUHAMMAD IMAN SAFWAN BIN MOHD HARRIS",
+          "u22": true
+        }
+      ]
+    },
+    "substitutes": {
+      "home": [
+        {
+          "number": 1,
+          "name": "VIKNESWARAN KRISNAN",
+          "position": "GK"
+        },
+        {
+          "number": 3,
+          "name": "NORONHA NONATO SOARES GABRIEL"
+        },
+        {
+          "number": 5,
+          "name": "WAN SYAMIL SULAIMAN WAN SALMAN",
+          "u22": true,
+          "subIn": 64
+        },
+        {
+          "number": 12,
+          "name": "PYEONGAN PARK",
+          "u22": true
+        },
+        {
+          "number": 15,
+          "name": "MUHAMMAD ADAM ILMAM BIN MOHD IDWAN SHAH",
+          "u22": true,
+          "subIn": 86
+        },
+        {
+          "number": 17,
+          "name": "MHLENGI SIBONANI NDHLOVU",
+          "subIn": 90
+        },
+        {
+          "number": 18,
+          "name": "MUHAMMAD ZUBAIR KAMARULZAMAN",
+          "subIn": 90,
+          "subNumber": 1
+        },
+        {
+          "number": 7,
+          "name": "MUHAMMAD AMIL HAIKAL BIN ROZMI",
+          "u22": true,
+          "subIn": 77,
+          "subNumber": 1
+        },
+        {
+          "number": 18,
+          "name": "MUHAMMAD NABIL HADIF BIN NORHELMI",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 19,
+          "name": "MOHD FARIS HAFIY BIN MAD NAZIR",
+          "u22": true,
+          "subIn": 88,
+          "subNumber": 1
+        },
+        {
+          "number": 20,
+          "name": "MUHAMMAD ZAIM BIN MOHAMAD HILMI",
+          "u22": true
+        },
+        {
+          "number": 35,
+          "name": "ADAM SYAKIRIN BIN MUHAMAD YUSRI",
+          "u22": true,
+          "subIn": 68
+        },
+        {
+          "number": 41,
+          "name": "MUHAMMAD FAKRULLAH BIN AHMAD SHUKRI",
+          "u22": true
+        },
+        {
+          "number": 66,
+          "name": "MUHAMMAD HAZIQ HAKIMI BIN NOR HISHAM",
+          "u22": true
+        },
+        {
+          "number": 71,
+          "name": "MUHAMMAD SYOBIRIN BIN MOHAMAD ZUHRI",
+          "u22": true,
+          "subIn": 77
+        },
+        {
+          "number": 81,
+          "name": "MUHAMMAD EIRWAN ZARIEF BIN RADJEBI",
+          "u22": true,
+          "subIn": 88
+        }
+      ],
+      "away": [
+        {
+          "number": 7,
+          "name": "MUHAMMAD AMIL HAIKAL BIN ROZMI",
+          "u22": true,
+          "subIn": 77,
+          "subNumber": 1
+        },
+        {
+          "number": 18,
+          "name": "MUHAMMAD NABIL HADIF BIN NORHELMI",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 19,
+          "name": "MOHD FARIS HAFIY BIN MAD NAZIR",
+          "u22": true,
+          "subIn": 88,
+          "subNumber": 1
+        },
+        {
+          "number": 20,
+          "name": "MUHAMMAD ZAIM BIN MOHAMAD HILMI",
+          "u22": true
+        },
+        {
+          "number": 35,
+          "name": "ADAM SYAKIRIN BIN MUHAMAD YUSRI",
+          "u22": true,
+          "subIn": 68
+        },
+        {
+          "number": 41,
+          "name": "MUHAMMAD FAKRULLAH BIN AHMAD SHUKRI",
+          "u22": true
+        },
+        {
+          "number": 66,
+          "name": "MUHAMMAD HAZIQ HAKIMI BIN NOR HISHAM",
+          "u22": true
+        },
+        {
+          "number": 71,
+          "name": "MUHAMMAD SYOBIRIN BIN MOHAMAD ZUHRI",
+          "u22": true,
+          "subIn": 77
+        },
+        {
+          "number": 81,
+          "name": "MUHAMMAD EIRWAN ZARIEF BIN RADJEBI",
+          "u22": true,
+          "subIn": 88
+        }
+      ]
+    },
+    "index": 6
+  },
+  {
+    "url": "https://cms.fam.org.my/resultdetail/czo0OiI4MjkxIjs%3D/W2025MA1",
+    "matchNumber": 63,
+    "kickoff": "4:45 PM",
+    "venue": "STADIUM MAJLIS PERBANDARAN SEPANG",
+    "playerOfTheMatch": "FELIPE DE LIMA RIBEIRO (4) (IMIGRESEN FC II)",
+    "referee": "MUHAMAD ARIF BIN ISMAIL",
+    "homeTeam": "SEOUL PHOENIX FC",
+    "awayTeam": "IMIGRESEN FC II",
+    "homeScore": 0,
+    "awayScore": 2,
+    "htHome": 0,
+    "htAway": 1,
+    "goals": [
+      {
+        "team": "IMIGRESEN FC II",
+        "minute": 14,
+        "name": "SAID KHAMIS",
+        "number": 77,
+        "type": "normal"
+      },
+      {
+        "team": "IMIGRESEN FC II",
+        "minute": 47,
+        "name": "FURQAN BIN AZRI",
+        "number": 16,
+        "type": "normal"
+      }
+    ],
+    "lineups": {
+      "home": [
+        {
+          "number": 6,
+          "name": "YOUNGJU SONG",
+          "u22": true,
+          "yellowCard": "73"
+        },
+        {
+          "number": 10,
+          "name": "CHANYANG CHOI",
+          "captain": true
+        },
+        {
+          "number": 12,
+          "name": "PYEONGAN PARK",
+          "u22": true
+        },
+        {
+          "number": 13,
+          "name": "SANGMUK OH",
+          "u22": true,
+          "yellowCard": "82"
+        },
+        {
+          "number": 16,
+          "name": "JUNHYUK YU",
+          "subOut": 63
+        },
+        {
+          "number": 17,
+          "name": "MHLENGI SIBONANI NDHLOVU",
+          "subOut": 53
+        },
+        {
+          "number": 19,
+          "name": "JUNHYEOK OH"
+        },
+        {
+          "number": 21,
+          "name": "JIWOO PARK"
+        },
+        {
+          "number": 23,
+          "name": "JIYUN CHOI"
+        },
+        {
+          "number": 32,
+          "name": "SOMYEONG YUN",
+          "yellowCard": "90+3"
+        },
+        {
+          "number": 99,
+          "name": "JIHUN OH",
+          "position": "GK",
+          "subOut": 79
+        }
+      ],
+      "away": [
+        {
+          "number": 1,
+          "name": "MOHD IZARUL ADLI BIN MOHD NASIR",
+          "position": "GK"
+        },
+        {
+          "number": 2,
+          "name": "MOHAMAD AKIF AFIZI BIN RAMZI",
+          "u22": true,
+          "yellowCard": "69"
+        },
+        {
+          "number": 4,
+          "name": "FELIPE DE LIMA RIBEIRO"
+        },
+        {
+          "number": 16,
+          "name": "FURQAN BIN AZRI",
+          "subOut": 88
+        },
+        {
+          "number": 17,
+          "name": "MUHAMMAD HAZIM BIN ABU ZAID",
+          "subOut": 68
+        },
+        {
+          "number": 21,
+          "name": "MOHD HAFIZ BIN KAMAL",
+          "captain": true,
+          "subOut": 79
+        },
+        {
+          "number": 33,
+          "name": "MUHAMMAD JUZAERUL BIN JASMI"
+        },
+        {
+          "number": 73,
+          "name": "MUHAMMAD NAZWIN BIN MOHD SALLEH",
+          "subOut": 68
+        },
+        {
+          "number": 77,
+          "name": "SAID KHAMIS"
+        },
+        {
+          "number": 81,
+          "name": "MUHAMMAD ARIF BIN ILHAM",
+          "u22": true
+        },
+        {
+          "number": 94,
+          "name": "T.MOHAMMAD NORZAIFUL T.ZAIZURIN",
+          "subOut": 88
+        }
+      ]
+    },
+    "substitutes": {
+      "home": [
+        {
+          "number": 1,
+          "name": "VIKNESWARAN KRISNAN",
+          "position": "GK",
+          "subIn": 79
+        },
+        {
+          "number": 2,
+          "name": "OHKYU LIM",
+          "subNumber": 1
+        },
+        {
+          "number": 5,
+          "name": "WAN SYAMIL SULAIMAN WAN SALMAN",
+          "u22": true
+        },
+        {
+          "number": 7,
+          "name": "EUNHO JUNG",
+          "u22": true,
+          "subIn": 63
+        },
+        {
+          "number": 15,
+          "name": "MUHAMMAD ADAM ILMAM BIN MOHD IDWAN SHAH",
+          "u22": true,
+          "subIn": 53
+        },
+        {
+          "number": 6,
+          "name": "MOHD NASRIQ BIN BAHROM",
+          "subIn": 88
+        },
+        {
+          "number": 10,
+          "name": "ABDUL AFIQ HILMAN BIN ABD HALIM",
+          "u22": true
+        },
+        {
+          "number": 11,
+          "name": "MUHAMMAD ADAM MUKRIZ BIN SYAMSUL ARIFFIN",
+          "subIn": 68
+        },
+        {
+          "number": 13,
+          "name": "MOHD FARHAN BIN ABU BAKAR",
+          "position": "GK"
+        },
+        {
+          "number": 23,
+          "name": "MUHAMMAD HAZIQ RIDHWAN BIN MOHD ROSLI",
+          "u22": true
+        },
+        {
+          "number": 24,
+          "name": "MOHD HILMI BIN ABDUL GHAFAR",
+          "subIn": 88,
+          "subNumber": 1
+        },
+        {
+          "number": 29,
+          "name": "MUHD HAZRIN BIN JAMIL",
+          "subIn": 68,
+          "subNumber": 1
+        },
+        {
+          "number": 43,
+          "name": "MOHD NAAIM FIRDAUS BIN STIBIN"
+        },
+        {
+          "number": 70,
+          "name": "MUHAMMAD SHAFI AZSWAD BIN SAPARI",
+          "u22": true,
+          "subIn": 79
+        }
+      ],
+      "away": [
+        {
+          "number": 6,
+          "name": "MOHD NASRIQ BIN BAHROM",
+          "subIn": 88
+        },
+        {
+          "number": 10,
+          "name": "ABDUL AFIQ HILMAN BIN ABD HALIM",
+          "u22": true
+        },
+        {
+          "number": 11,
+          "name": "MUHAMMAD ADAM MUKRIZ BIN SYAMSUL ARIFFIN",
+          "subIn": 68
+        },
+        {
+          "number": 13,
+          "name": "MOHD FARHAN BIN ABU BAKAR",
+          "position": "GK"
+        },
+        {
+          "number": 23,
+          "name": "MUHAMMAD HAZIQ RIDHWAN BIN MOHD ROSLI",
+          "u22": true
+        },
+        {
+          "number": 24,
+          "name": "MOHD HILMI BIN ABDUL GHAFAR",
+          "subIn": 88,
+          "subNumber": 1
+        },
+        {
+          "number": 29,
+          "name": "MUHD HAZRIN BIN JAMIL",
+          "subIn": 68,
+          "subNumber": 1
+        },
+        {
+          "number": 43,
+          "name": "MOHD NAAIM FIRDAUS BIN STIBIN"
+        },
+        {
+          "number": 70,
+          "name": "MUHAMMAD SHAFI AZSWAD BIN SAPARI",
+          "u22": true,
+          "subIn": 79
+        }
+      ]
+    },
+    "index": 7
+  },
+  {
+    "url": "https://cms.fam.org.my/resultdetail/czo0OiI4MzUzIjs%3D/W2025MA1",
+    "matchNumber": 51,
+    "kickoff": "4:45 PM",
+    "venue": "STADIUM TAMPIN, NEGERI SEMBILAN",
+    "playerOfTheMatch": "MUHAMMAD RIDZUAN BIN AZALI AZALI (16) (BUNGA RAYA FC)",
+    "referee": "FIRDAUS DAHLAN",
+    "homeTeam": "BUNGA RAYA FC",
+    "awayTeam": "SEOUL PHOENIX FC",
+    "homeScore": 2,
+    "awayScore": 0,
+    "htHome": 1,
+    "htAway": 0,
+    "goals": [],
+    "lineups": {
+      "home": [
+        {
+          "number": 4,
+          "name": "MUHAMMAD ILHAM SYUKRI JAMALLUDDIN",
+          "yellowCard": "81"
+        },
+        {
+          "number": 5,
+          "name": "MUHAMMAD FAUZAN MOHD FAUZI",
+          "captain": true
+        },
+        {
+          "number": 13,
+          "name": "LEE KEONIL",
+          "subOut": 51
+        },
+        {
+          "number": 14,
+          "name": "MUHAMMAD AFIF JAZIMIN BIN MOHD YUSOFF",
+          "yellowCard": "90+1"
+        },
+        {
+          "number": 16,
+          "name": "MUHAMMAD RIDZUAN BIN AZALI AZALI",
+          "position": "GK"
+        },
+        {
+          "number": 19,
+          "name": "DALAN RAJENDRAN",
+          "subOut": 61
+        },
+        {
+          "number": 20,
+          "name": "MUHAMMAD AQIL HAZWAN NORHASIDI",
+          "u22": true,
+          "subOut": 61
+        },
+        {
+          "number": 22,
+          "name": "MOHD ARIP BIN AMIRUDDIN"
+        },
+        {
+          "number": 23,
+          "name": "VEENOD SUBRAMANIAM"
+        },
+        {
+          "number": 72,
+          "name": "MUHAMMAD AZARUL NAZARITH AZHAR",
+          "yellowCard": "58"
+        },
+        {
+          "number": 77,
+          "name": "MUHAMMAD FAHMI DANIEL BIN MOHD ZAAIM",
+          "subOut": 86
+        }
+      ],
+      "away": [
+        {
+          "number": 7,
+          "name": "EUNHO JUNG",
+          "u22": true,
+          "subOut": 33
+        },
+        {
+          "number": 10,
+          "name": "CHANYANG CHOI",
+          "captain": true
+        },
+        {
+          "number": 12,
+          "name": "PYEONGAN PARK",
+          "u22": true
+        },
+        {
+          "number": 16,
+          "name": "JUNHYUK YU"
+        },
+        {
+          "number": 17,
+          "name": "MHLENGI SIBONANI NDHLOVU"
+        },
+        {
+          "number": 19,
+          "name": "JUNHYEOK OH"
+        },
+        {
+          "number": 21,
+          "name": "JIWOO PARK"
+        },
+        {
+          "number": 23,
+          "name": "JIYUN CHOI"
+        },
+        {
+          "number": 99,
+          "name": "JIHUN OH",
+          "position": "GK"
+        }
+      ]
+    },
+    "substitutes": {
+      "home": [
+        {
+          "number": 2,
+          "name": "MATANRAAJ MURUGAN",
+          "subIn": 86
+        },
+        {
+          "number": 7,
+          "name": "SARANRAJ KALA ARASU"
+        },
+        {
+          "number": 10,
+          "name": "THRISHEN RAMESH",
+          "u22": true,
+          "subIn": 61
+        },
+        {
+          "number": 12,
+          "name": "HARIHARAN KARTHEYGES"
+        },
+        {
+          "number": 17,
+          "name": "VISHNU JEGAN",
+          "u22": true
+        },
+        {
+          "number": 21,
+          "name": "HARISH THIGARAJAH",
+          "u22": true,
+          "subIn": 61,
+          "subNumber": 1
+        },
+        {
+          "number": 27,
+          "name": "MUHAMMAD AZFAR SALLEHUDIN",
+          "u22": true,
+          "subIn": 51
+        },
+        {
+          "number": 1,
+          "name": "VIKNESWARAN KRISNAN",
+          "position": "GK"
+        },
+        {
+          "number": 2,
+          "name": "OHKYU LIM"
+        },
+        {
+          "number": 5,
+          "name": "WAN SYAMIL SULAIMAN WAN SALMAN",
+          "u22": true,
+          "subNumber": 1
+        },
+        {
+          "number": 15,
+          "name": "MUHAMMAD ADAM ILMAM BIN MOHD IDWAN SHAH",
+          "u22": true
+        },
+        {
+          "number": 18,
+          "name": "MUHAMMAD ZUBAIR KAMARULZAMAN"
+        },
+        {
+          "number": 32,
+          "name": "SOMYEONG YUN",
+          "u22": true,
+          "subIn": 33
+        }
+      ],
+      "away": [
+        {
+          "number": 1,
+          "name": "VIKNESWARAN KRISNAN",
+          "position": "GK"
+        },
+        {
+          "number": 2,
+          "name": "OHKYU LIM"
+        },
+        {
+          "number": 5,
+          "name": "WAN SYAMIL SULAIMAN WAN SALMAN",
+          "u22": true,
+          "subNumber": 1
+        },
+        {
+          "number": 15,
+          "name": "MUHAMMAD ADAM ILMAM BIN MOHD IDWAN SHAH",
+          "u22": true
+        },
+        {
+          "number": 18,
+          "name": "MUHAMMAD ZUBAIR KAMARULZAMAN"
+        },
+        {
+          "number": 32,
+          "name": "SOMYEONG YUN",
+          "u22": true,
+          "subIn": 33
+        }
+      ]
+    },
+    "index": 8
+  },
+  {
+    "url": "https://cms.fam.org.my/resultdetail/czo0OiI4MzgwIjs%3D/W2025MA1",
+    "matchNumber": 66,
+    "kickoff": "8:45 PM",
+    "venue": "STADIUM SULTAN MUHAMMAD IV, KOTA BHARU",
+    "playerOfTheMatch": "MUHAMMAD AQIL HILMAN DANIAL ROSLAN (46) (KELANTAN WTS FC)",
+    "referee": "AZIZUL BIN ISMAIL",
+    "homeTeam": "KELANTAN WTS FC",
+    "awayTeam": "SEOUL PHOENIX FC",
+    "homeScore": 2,
+    "awayScore": 2,
+    "htHome": 1,
+    "htAway": 0,
+    "goals": [
+      {
+        "team": "KELANTAN WTS FC",
+        "minute": 45,
+        "name": "WAN ZAHARULNIZAM WAN ZAKARIA",
+        "number": 32,
+        "type": "normal"
+      },
+      {
+        "team": "SEOUL PHOENIX FC",
+        "minute": 90,
+        "name": "JIYUN CHOI",
+        "number": 23,
+        "type": "normal"
+      }
+    ],
+    "lineups": {
+      "home": [
+        {
+          "number": 3,
+          "name": "AHMAD NAZRI MUHAMAD"
+        },
+        {
+          "number": 5,
+          "name": "MOHAMMAD AB AZIZ ISMAIL",
+          "yellowCard": "59",
+          "subOut": 63
+        },
+        {
+          "number": 8,
+          "name": "WAN ZAHARULNIZAM WAN ZAKARIA",
+          "captain": true,
+          "yellowCard": "42"
+        },
+        {
+          "number": 12,
+          "name": "MUHAMMAD AIMAN YUSOFF"
+        },
+        {
+          "number": 16,
+          "name": "MOHAMAD SHAFIQ AL-HAFIZ DAWAWI",
+          "subOut": 63
+        },
+        {
+          "number": 18,
+          "name": "MOHAMMAD AMIRUL SHAFIK CHE SOH",
+          "subOut": 88
+        },
+        {
+          "number": 21,
+          "name": "MUHD ADAM BASYIR YUSLI",
+          "u22": true
+        },
+        {
+          "number": 25,
+          "name": "MOHAMAD KHAIRUL RIZAM CHE SOH"
+        },
+        {
+          "number": 29,
+          "name": "MUHAMAD SYAZWAN YUSOFF",
+          "position": "GK"
+        },
+        {
+          "number": 33,
+          "name": "MUHAMMAD HAKIMI SAIFULLIZAN",
+          "subOut": 36
+        },
+        {
+          "number": 45,
+          "name": "WILLY SAMSON WABANGA"
+        }
+      ],
+      "away": [
+        {
+          "number": 1,
+          "name": "VIKNESWARAN KRISNAN",
+          "position": "GK"
+        },
+        {
+          "number": 5,
+          "name": "WAN SYAMIL SULAIMAN WAN SALMAN",
+          "u22": true
+        },
+        {
+          "number": 7,
+          "name": "EUNHO JUNG",
+          "u22": true
+        },
+        {
+          "number": 12,
+          "name": "PYEONGAN PARK",
+          "u22": true,
+          "yellowCard": "45+1"
+        },
+        {
+          "number": 15,
+          "name": "MUHAMMAD ADAM ILMAM BIN MOHD IDWAN SHAH",
+          "u22": true,
+          "yellowCard": "65"
+        },
+        {
+          "number": 17,
+          "name": "MHLENGI SIBONANI NDHLOVU"
+        },
+        {
+          "number": 18,
+          "name": "MUHAMMAD ZUBAIR KAMARULZAMAN",
+          "subOut": 38
+        },
+        {
+          "number": 19,
+          "name": "JUNHYEOK OH",
+          "captain": true
+        },
+        {
+          "number": 21,
+          "name": "JIWOO PARK"
+        },
+        {
+          "number": 23,
+          "name": "JIYUN CHOI"
+        },
+        {
+          "number": 32,
+          "name": "SOMYEONG YUN"
+        }
+      ]
+    },
+    "substitutes": {
+      "home": [
+        {
+          "number": 1,
+          "name": "YUAIMAN MAT JUSOH",
+          "position": "GK"
+        },
+        {
+          "number": 20,
+          "name": "MOHD NAZRIN BIN MOHD NAWI MOHD NAWI@MOHD DAUD"
+        },
+        {
+          "number": 24,
+          "name": "MUHAMMAD AFIQ AIZAT MUHD KHALED"
+        },
+        {
+          "number": 27,
+          "name": "WAN MUHAMMAD IRFAN WAN ZAINUDIN",
+          "u22": true,
+          "subIn": 88
+        },
+        {
+          "number": 46,
+          "name": "MUHAMMAD AQIL HILMAN DANIAL ROSLAN",
+          "subIn": 36
+        },
+        {
+          "number": 55,
+          "name": "MUHAMMAD HAIQAL HAFIQ SABRI",
+          "u22": true,
+          "subIn": 63,
+          "subNumber": 1
+        },
+        {
+          "number": 66,
+          "name": "SAIF ADAM ISKANDAR MOHD HAFSYAM"
+        },
+        {
+          "number": 77,
+          "name": "MUHAMMAD NAZMI HAIKAL MOHD NADZIR"
+        },
+        {
+          "number": 20,
+          "name": "AL IMAN WAHIEY MUHAMMAD AMIR"
+        },
+        {
+          "number": 25,
+          "name": "WOOJIN LIM",
+          "u22": true,
+          "subIn": 38
+        }
+      ],
+      "away": [
+        {
+          "number": 20,
+          "name": "AL IMAN WAHIEY MUHAMMAD AMIR"
+        },
+        {
+          "number": 25,
+          "name": "WOOJIN LIM",
+          "u22": true,
+          "subIn": 38
+        }
+      ]
+    },
+    "index": 9
+  },
+  {
+    "url": "https://cms.fam.org.my/resultdetail/czo0OiI4NDI1Ijs%3D/W2025MA1",
+    "matchNumber": 77,
+    "kickoff": "4:45 PM",
+    "venue": "STADIUM MAJLIS PERBANDARAN SEPANG",
+    "playerOfTheMatch": "MUHAMMAD ABU KHALIL (33) (SELANGOR FC II)",
+    "referee": "ZAM AZWAN KHAN BIN RASHID KHAN",
+    "homeTeam": "SEOUL PHOENIX FC",
+    "awayTeam": "SELANGOR FC II",
+    "homeScore": 0,
+    "awayScore": 3,
+    "htHome": 0,
+    "htAway": 1,
+    "goals": [
+      {
+        "team": "SELANGOR FC II",
+        "minute": 25,
+        "name": "ADAM HAIKAL  AZIZOL",
+        "number": 8,
+        "type": "normal"
+      },
+      {
+        "team": "SELANGOR FC II",
+        "minute": 49,
+        "name": "MOHAMMAD HAYKAL DANISH MOHD HAIZON",
+        "number": 10,
+        "type": "normal"
+      },
+      {
+        "team": "SELANGOR FC II",
+        "minute": 67,
+        "name": "MUHAMMAD ABU KHALIL",
+        "number": 33,
+        "type": "normal"
+      }
+    ],
+    "lineups": {
+      "home": [
+        {
+          "number": 1,
+          "name": "VIKNESWARAN KRISNAN",
+          "position": "GK"
+        },
+        {
+          "number": 5,
+          "name": "WAN SYAMIL SULAIMAN WAN SALMAN",
+          "u22": true,
+          "subOut": 79
+        },
+        {
+          "number": 6,
+          "name": "YOUNGJU SONG",
+          "u22": true,
+          "yellowCard": "45+1"
+        },
+        {
+          "number": 10,
+          "name": "CHANYANG CHOI",
+          "captain": true
+        },
+        {
+          "number": 12,
+          "name": "PYEONGAN PARK",
+          "u22": true
+        },
+        {
+          "number": 13,
+          "name": "SANGMUK OH",
+          "u22": true
+        },
+        {
+          "number": 17,
+          "name": "MHLENGI SIBONANI NDHLOVU"
+        },
+        {
+          "number": 19,
+          "name": "JUNHYEOK OH"
+        },
+        {
+          "number": 21,
+          "name": "JIWOO PARK",
+          "subOut": 74
+        },
+        {
+          "number": 23,
+          "name": "JIYUN CHOI"
+        },
+        {
+          "number": 32,
+          "name": "SOMYEONG YUN"
+        }
+      ],
+      "away": [
+        {
+          "number": 4,
+          "name": "MUHAMMAD AIMAN HAKIMI OTHMAN",
+          "u22": true
+        },
+        {
+          "number": 7,
+          "name": "MUHAMMAD NABIL QAYYUM ZAINUDDIN",
+          "u22": true,
+          "subOut": 72
+        },
+        {
+          "number": 8,
+          "name": "ADAM HAIKAL  AZIZOL",
+          "captain": true,
+          "u22": true,
+          "yellowCard": "27"
+        },
+        {
+          "number": 9,
+          "name": "ABDUL RAHMAN DAUD",
+          "u22": true
+        },
+        {
+          "number": 10,
+          "name": "MOHAMMAD HAYKAL DANISH MOHD HAIZON",
+          "u22": true,
+          "subOut": 72
+        },
+        {
+          "number": 15,
+          "name": "SEIF-DINE HRAOUBIA"
+        },
+        {
+          "number": 20,
+          "name": "MUHAMMAD AIMAN YUSUF  MUHAMMAD NABIL",
+          "u22": true,
+          "subOut": 61
+        },
+        {
+          "number": 24,
+          "name": "MUHAMMAD AIMAN AMSYAR  SHA'ARI",
+          "u22": true,
+          "subOut": 61
+        },
+        {
+          "number": 29,
+          "name": "MUHAMMAD NUR ZHARIF  ZAINI",
+          "u22": true
+        },
+        {
+          "number": 33,
+          "name": "MUHAMMAD ABU KHALIL",
+          "u22": true,
+          "subOut": 70
+        },
+        {
+          "number": 77,
+          "name": "MUHAMMAD AZIM AL AMIN  KAMARUDDIN",
+          "position": "GK"
+        }
+      ]
+    },
+    "substitutes": {
+      "home": [
+        {
+          "number": 7,
+          "name": "EUNHO JUNG",
+          "u22": true
+        },
+        {
+          "number": 15,
+          "name": "MUHAMMAD ADAM ILMAM BIN MOHD IDWAN SHAH",
+          "u22": true,
+          "subIn": 74
+        },
+        {
+          "number": 18,
+          "name": "MUHAMMAD ZUBAIR KAMARULZAMAN",
+          "subIn": 79
+        },
+        {
+          "number": 20,
+          "name": "AL IMAN WAHIEY MUHAMMAD AMIR"
+        },
+        {
+          "number": 6,
+          "name": "MUHAMMAD NAZWAN ABDULLAH",
+          "u22": true,
+          "subIn": 70
+        },
+        {
+          "number": 14,
+          "name": "ROHISHAM HAIQAL  HASHIM",
+          "u22": true,
+          "subIn": 61
+        },
+        {
+          "number": 19,
+          "name": "RYAN HAMMAD  ZULRAFHAN",
+          "u22": true
+        },
+        {
+          "number": 25,
+          "name": "AHMAD AZEEM IZHAR  AHMAD RIZAL",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 26,
+          "name": "DANISH IRFAN EZAL",
+          "u22": true
+        },
+        {
+          "number": 27,
+          "name": "MOHAMAD AMIR FARHAN  MOHD FUZI",
+          "u22": true,
+          "subIn": 61,
+          "subNumber": 1
+        },
+        {
+          "number": 28,
+          "name": "MUHAMAD DAINEI BIN  MAT DISA",
+          "u22": true,
+          "subIn": 72,
+          "subNumber": 1
+        },
+        {
+          "number": 30,
+          "name": "THANUSH  A/L SITHIRAVELU"
+        },
+        {
+          "number": 38,
+          "name": "IZZAT MUHD SYAHIR BIN MOHD ZULIHSAN",
+          "u22": true,
+          "subIn": 72
+        }
+      ],
+      "away": [
+        {
+          "number": 6,
+          "name": "MUHAMMAD NAZWAN ABDULLAH",
+          "u22": true,
+          "subIn": 70
+        },
+        {
+          "number": 14,
+          "name": "ROHISHAM HAIQAL  HASHIM",
+          "u22": true,
+          "subIn": 61
+        },
+        {
+          "number": 19,
+          "name": "RYAN HAMMAD  ZULRAFHAN",
+          "u22": true
+        },
+        {
+          "number": 25,
+          "name": "AHMAD AZEEM IZHAR  AHMAD RIZAL",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 26,
+          "name": "DANISH IRFAN EZAL",
+          "u22": true
+        },
+        {
+          "number": 27,
+          "name": "MOHAMAD AMIR FARHAN  MOHD FUZI",
+          "u22": true,
+          "subIn": 61,
+          "subNumber": 1
+        },
+        {
+          "number": 28,
+          "name": "MUHAMAD DAINEI BIN  MAT DISA",
+          "u22": true,
+          "subIn": 72,
+          "subNumber": 1
+        },
+        {
+          "number": 30,
+          "name": "THANUSH  A/L SITHIRAVELU"
+        },
+        {
+          "number": 38,
+          "name": "IZZAT MUHD SYAHIR BIN MOHD ZULIHSAN",
+          "u22": true,
+          "subIn": 72
+        }
+      ]
+    },
+    "index": 10
+  },
+  {
+    "url": "https://cms.fam.org.my/resultdetail/czo0OiI4NDM0Ijs%3D/W2025MA1",
+    "matchNumber": 81,
+    "kickoff": "4:45 PM",
+    "venue": "STADIUM HANG TUAH, MELAKA",
+    "playerOfTheMatch": "MUHAMMAD FAIZAL MUHAMMAD TALIB (47) (MACHAN FC)",
+    "referee": "MOHAMAD HAZIQ IQMAL BIN AYAZI",
+    "homeTeam": "MACHAN FC",
+    "awayTeam": "SEOUL PHOENIX FC",
+    "homeScore": 1,
+    "awayScore": 2,
+    "htHome": 0,
+    "htAway": 1,
+    "goals": [
+      {
+        "team": "MACHAN FC",
+        "minute": 47,
+        "name": "SEOUL PHOENIX FC",
+        "number": 12,
+        "type": "normal"
+      },
+      {
+        "team": "SEOUL PHOENIX FC",
+        "minute": 90,
+        "name": "MUHAMMAD ADAM ILMAM BIN MOHD IDWAN SHAH",
+        "number": 15,
+        "type": "normal"
+      }
+    ],
+    "lineups": {
+      "home": [
+        {
+          "number": 3,
+          "name": "SEUNGWON JUNG"
+        },
+        {
+          "number": 7,
+          "name": "JONGHYUN KIM"
+        },
+        {
+          "number": 10,
+          "name": "MOHAMMAD ALIF \t BIN ROMLI"
+        },
+        {
+          "number": 12,
+          "name": "MUHAMMAD AKHIR BIN BAHARI",
+          "captain": true
+        },
+        {
+          "number": 14,
+          "name": "MUHAMMAD AMIRUL HUSAINI ZAMRI",
+          "subOut": 79
+        },
+        {
+          "number": 18,
+          "name": "AHMAD SOLEHIN BIN MAMAT",
+          "position": "GK"
+        },
+        {
+          "number": 20,
+          "name": "MUHAMMAD MIDHYAF MIFDHAL BIN \t MOHD HISHAMUDDIN",
+          "u22": true
+        },
+        {
+          "number": 30,
+          "name": "MUHAMMAD ZA'IM HAKIM BIN  ZAKARIA",
+          "subOut": 62
+        },
+        {
+          "number": 33,
+          "name": "MUHAMMAD FIKRI BIN  MOHAMED SHAH"
+        },
+        {
+          "number": 47,
+          "name": "MUHAMMAD FAIZAL MUHAMMAD TALIB"
+        },
+        {
+          "number": 70,
+          "name": "MOHAMMAD ZARIF SYAMIL BIN MOHAMMAD ZAMANI",
+          "yellowCard": "77",
+          "subOut": 90
+        }
+      ],
+      "away": [
+        {
+          "number": 1,
+          "name": "VIKNESWARAN KRISNAN",
+          "position": "GK"
+        },
+        {
+          "number": 5,
+          "name": "WAN SYAMIL SULAIMAN WAN SALMAN",
+          "u22": true
+        },
+        {
+          "number": 6,
+          "name": "YOUNGJU SONG",
+          "u22": true,
+          "yellowCard": "34"
+        },
+        {
+          "number": 7,
+          "name": "EUNHO JUNG",
+          "u22": true
+        },
+        {
+          "number": 12,
+          "name": "PYEONGAN PARK",
+          "u22": true
+        },
+        {
+          "number": 13,
+          "name": "SANGMUK OH",
+          "u22": true
+        },
+        {
+          "number": 17,
+          "name": "MHLENGI SIBONANI NDHLOVU"
+        },
+        {
+          "number": 19,
+          "name": "JUNHYEOK OH",
+          "captain": true,
+          "subOut": 57
+        },
+        {
+          "number": 21,
+          "name": "JIWOO PARK"
+        },
+        {
+          "number": 22,
+          "name": "SUNWOO BANG",
+          "u22": true
+        },
+        {
+          "number": 32,
+          "name": "SOMYEONG YUN",
+          "subOut": 70
+        }
+      ]
+    },
+    "substitutes": {
+      "home": [
+        {
+          "number": 1,
+          "name": "MUHAMMAD FIRDAUS BIN  MOHD RASHIDI",
+          "position": "GK"
+        },
+        {
+          "number": 4,
+          "name": "MUHAMMAD NA'QIB BIN  SHARIPUDDIN",
+          "subIn": 90,
+          "subNumber": 1
+        },
+        {
+          "number": 11,
+          "name": "MUHAMMAD AFFENDI BIN  MOHD SOFI",
+          "subIn": 90
+        },
+        {
+          "number": 16,
+          "name": "MUHAMMAD SABRI BIN ABDUL RAHMAN",
+          "subIn": 62
+        },
+        {
+          "number": 21,
+          "name": "MUHAMMAD AIMAN SYAZWI BIN\t LIZAM",
+          "u22": true
+        },
+        {
+          "number": 29,
+          "name": "MUHAMMAD DANISH IRFAN BIN NOR AZMI",
+          "u22": true
+        },
+        {
+          "number": 31,
+          "name": "MUHAMMAD KAMA EDYKA BIN\t AZHAR",
+          "subNumber": 1
+        },
+        {
+          "number": 73,
+          "name": "MOHAMMAD ZAHIR SYAKIL BIN MOHAMMAD ZAMANI",
+          "u22": true,
+          "subIn": 79
+        },
+        {
+          "number": 10,
+          "name": "CHANYANG CHOI",
+          "subIn": 57
+        },
+        {
+          "number": 15,
+          "name": "MUHAMMAD ADAM ILMAM BIN MOHD IDWAN SHAH",
+          "u22": true,
+          "subIn": 70
+        },
+        {
+          "number": 20,
+          "name": "AL IMAN WAHIEY MUHAMMAD AMIR",
+          "u22": true
+        }
+      ],
+      "away": [
+        {
+          "number": 10,
+          "name": "CHANYANG CHOI",
+          "subIn": 57
+        },
+        {
+          "number": 15,
+          "name": "MUHAMMAD ADAM ILMAM BIN MOHD IDWAN SHAH",
+          "u22": true,
+          "subIn": 70
+        },
+        {
+          "number": 20,
+          "name": "AL IMAN WAHIEY MUHAMMAD AMIR",
+          "u22": true
+        }
+      ]
+    },
+    "index": 11
+  },
+  {
+    "url": "https://cms.fam.org.my/resultdetail/czo0OiI4NDY0Ijs%3D/W2025MA1",
+    "matchNumber": 94,
+    "kickoff": "4:45 PM",
+    "venue": "STADIUM UM ARENA, KUALA LUMPUR",
+    "referee": "MOHD HAFIZ ZHARIF BIN AHMAD JAFRI",
+    "homeTeam": "UM-DAMANSARA UNITED",
+    "awayTeam": "SEOUL PHOENIX FC",
+    "homeScore": 3,
+    "awayScore": 0,
+    "htHome": 1,
+    "htAway": 0,
+    "goals": [],
+    "lineups": {
+      "home": [
+        {
+          "number": 2,
+          "name": "SHIVAN PILLAY ASOKAN",
+          "captain": true
+        },
+        {
+          "number": 4,
+          "name": "MUHAMMAD GHAFFAR ABDUL RAHMAN"
+        },
+        {
+          "number": 6,
+          "name": "MUHAMMAD HARIZ MANSOR"
+        },
+        {
+          "number": 16,
+          "name": "SAIFUL ISKANDAR ADHA SAIFUL AZLAN"
+        },
+        {
+          "number": 17,
+          "name": "WAN MUHAMMAD AQIL HAKIMI WAN AHMAD HAZMI@MEGAT PUTEH"
+        },
+        {
+          "number": 21,
+          "name": "MUHAMMAD IMAN HAKIMI AZNAN",
+          "u22": true
+        },
+        {
+          "number": 27,
+          "name": "ZAHRUL NIZAM"
+        },
+        {
+          "number": 30,
+          "name": "MUHAMAD HAZIQ MUKRIZ MOHAMED HASEMUDDIN",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 53,
+          "name": "MUHAMMAD ARIS MOHD ASRI"
+        },
+        {
+          "number": 57,
+          "name": "THANKGOD OGWUCHE  MICHAEL"
+        },
+        {
+          "number": 79,
+          "name": "VARGAS VALINOTTI NICOLAS"
+        }
+      ],
+      "away": [
+        {
+          "number": 1,
+          "name": "VIKNESWARAN KRISNAN",
+          "position": "GK"
+        },
+        {
+          "number": 5,
+          "name": "WAN SYAMIL SULAIMAN WAN SALMAN",
+          "u22": true
+        },
+        {
+          "number": 6,
+          "name": "YOUNGJU SONG",
+          "u22": true
+        },
+        {
+          "number": 7,
+          "name": "EUNHO JUNG",
+          "u22": true
+        },
+        {
+          "number": 10,
+          "name": "CHANYANG CHOI",
+          "captain": true
+        },
+        {
+          "number": 17,
+          "name": "MHLENGI SIBONANI NDHLOVU"
+        },
+        {
+          "number": 18,
+          "name": "MUHAMMAD ZUBAIR KAMARULZAMAN"
+        },
+        {
+          "number": 21,
+          "name": "JIWOO PARK"
+        },
+        {
+          "number": 22,
+          "name": "SUNWOO BANG",
+          "u22": true
+        },
+        {
+          "number": 25,
+          "name": "WOOJIN LIM"
+        },
+        {
+          "number": 32,
+          "name": "SOMYEONG YUN"
+        }
+      ]
+    },
+    "substitutes": {
+      "home": [
+        {
+          "number": 3,
+          "name": "VICKIE OWEN MARINUS"
+        },
+        {
+          "number": 8,
+          "name": "BRANDON LIEW JUN YUEN"
+        },
+        {
+          "number": 10,
+          "name": "ANUAR CEESAY"
+        },
+        {
+          "number": 11,
+          "name": "GIANNELLI SEAN GAN"
+        },
+        {
+          "number": 14,
+          "name": "MOHAMAD SYAHIR ABDUL RAHMAN"
+        },
+        {
+          "number": 22,
+          "name": "MUHAMMAD HAZIQ FITRI NEK LAH",
+          "position": "GK"
+        },
+        {
+          "number": 26,
+          "name": "KHAIR MUHAMMAD JEFRI JONES"
+        },
+        {
+          "number": 55,
+          "name": "SHAFIZI IQMAL MD KHIRUDIN"
+        },
+        {
+          "number": 20,
+          "name": "AL IMAN WAHIEY MUHAMMAD AMIR",
+          "u22": true
+        }
+      ],
+      "away": [
+        {
+          "number": 20,
+          "name": "AL IMAN WAHIEY MUHAMMAD AMIR",
+          "u22": true
+        }
+      ]
+    },
+    "index": 12
+  },
+  {
+    "url": "https://cms.fam.org.my/resultdetail/czo0OiI4NTA4Ijs%3D/W2025MA1",
+    "matchNumber": 101,
+    "kickoff": "4:45 PM",
+    "venue": "KOMPLEKS BOLA SEPAK PERAK, CHEPOR",
+    "playerOfTheMatch": "EKENE VICTOR EMEWULU (30) (PERAK FA)",
+    "referee": "MOHAMMAD FAIZAL TALIB",
+    "homeTeam": "SEOUL PHOENIX FC",
+    "awayTeam": "PERAK FA",
+    "homeScore": 0,
+    "awayScore": 8,
+    "htHome": 0,
+    "htAway": 4,
+    "goals": [
+      {
+        "team": "PERAK FA",
+        "minute": 23,
+        "name": "AKMAL HAZIM ISMAIL",
+        "number": 6,
+        "type": "normal"
+      },
+      {
+        "team": "PERAK FA",
+        "minute": 26,
+        "name": "MUHAMMAD FADHIL IDRIS",
+        "number": 4,
+        "type": "normal"
+      },
+      {
+        "team": "PERAK FA",
+        "minute": 34,
+        "name": "MUHAMAD ALIF ZIKRI ZAINI ANUAR",
+        "number": 10,
+        "type": "normal"
+      },
+      {
+        "team": "PERAK FA",
+        "minute": 38,
+        "name": "MUHAMMAD FADHIL MOHAMMAD AZMI",
+        "number": 2,
+        "type": "normal"
+      },
+      {
+        "team": "PERAK FA",
+        "minute": 68,
+        "name": "EKENE VICTOR EMEWULU",
+        "number": 30,
+        "type": "normal"
+      },
+      {
+        "team": "PERAK FA",
+        "minute": 72,
+        "name": "EKENE VICTOR EMEWULU",
+        "number": 30,
+        "type": "normal"
+      },
+      {
+        "team": "PERAK FA",
+        "minute": 86,
+        "name": "MUHAMMAD IFFAT FAHMI AZMI",
+        "number": 20,
+        "type": "normal"
+      },
+      {
+        "team": "PERAK FA",
+        "minute": 89,
+        "name": "TAMOTEHRAN JAYASHANKER",
+        "number": 3,
+        "type": "normal"
+      }
+    ],
+    "lineups": {
+      "home": [
+        {
+          "number": 1,
+          "name": "VIKNESWARAN KRISNAN",
+          "position": "GK"
+        },
+        {
+          "number": 6,
+          "name": "YOUNGJU SONG",
+          "u22": true
+        },
+        {
+          "number": 15,
+          "name": "MUHAMMAD ADAM ILMAM BIN MOHD IDWAN SHAH",
+          "u22": true
+        },
+        {
+          "number": 17,
+          "name": "MHLENGI SIBONANI NDHLOVU",
+          "yellowCard": "45+2"
+        },
+        {
+          "number": 18,
+          "name": "MUHAMMAD ZUBAIR KAMARULZAMAN",
+          "yellowCard": "73"
+        },
+        {
+          "number": 25,
+          "name": "WOOJIN LIM"
+        },
+        {
+          "number": 29,
+          "name": "MUHAMMAD DANIAL ASHRAF BIN ABDULLAH"
+        },
+        {
+          "number": 32,
+          "name": "SOMYEONG YUN",
+          "captain": true,
+          "yellowCard": "90+3"
+        },
+        {
+          "number": 33,
+          "name": "MUHAMMAD AFIF JAZIMIN BIN MOHD YUSOFF"
+        },
+        {
+          "number": 37,
+          "name": "MUHAMMAD YUSOF UMAR BIN NORAZMAN",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 39,
+          "name": "MUHAMMAD AFIQ HAIKAL BIN SAMSUL BAHRIN"
+        }
+      ],
+      "away": [
+        {
+          "number": 2,
+          "name": "MUHAMMAD FADHIL MOHAMMAD AZMI"
+        },
+        {
+          "number": 4,
+          "name": "MUHAMMAD FADHIL IDRIS"
+        },
+        {
+          "number": 5,
+          "name": "MUHAMMAD FIRDAUS AHMAD FUAD"
+        },
+        {
+          "number": 6,
+          "name": "AKMAL HAZIM ISMAIL"
+        },
+        {
+          "number": 8,
+          "name": "AHMAD DANISH HAIKAL ABDULLAH",
+          "u22": true
+        },
+        {
+          "number": 10,
+          "name": "MUHAMAD ALIF ZIKRI ZAINI ANUAR"
+        },
+        {
+          "number": 16,
+          "name": "HAFIZY DANIEL MOHAMAD TERMIZI",
+          "yellowCard": "28"
+        },
+        {
+          "number": 21,
+          "name": "KAMAL ARIF AZRAI SHAKIMAR",
+          "captain": true,
+          "subOut": 75
+        },
+        {
+          "number": 22,
+          "name": "AHMAD SYAZWAN SYAZANY AHMAD SHAFEI",
+          "position": "GK"
+        },
+        {
+          "number": 25,
+          "name": "MUHAMMAD RAFIEQ AL-AMZAR ZULKIFELI",
+          "u22": true,
+          "subOut": 66
+        },
+        {
+          "number": 30,
+          "name": "EKENE VICTOR EMEWULU"
+        }
+      ]
+    },
+    "substitutes": {
+      "home": [
+        {
+          "number": 13,
+          "name": "SANGMUK OH",
+          "u22": true
+        },
+        {
+          "number": 14,
+          "name": "MOHAMAD ASHRAF IQWAN ANUAR",
+          "u22": true
+        },
+        {
+          "number": 27,
+          "name": "JEONGMIN YOON"
+        },
+        {
+          "number": 1,
+          "name": "AHMAD FARIHIN HAZIMI SAIFULNIZAM",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 3,
+          "name": "TAMOTEHRAN JAYASHANKER",
+          "u22": true,
+          "subIn": 66
+        },
+        {
+          "number": 7,
+          "name": "MUHAMAD IZHAR DANIEL ZAINI"
+        },
+        {
+          "number": 13,
+          "name": "MUHAMMAD AMIRUL FIKRI ABDULLAH",
+          "subIn": 75
+        },
+        {
+          "number": 18,
+          "name": "CHRISTIAN OKWUDIRI CHUKWU",
+          "subNumber": 1
+        },
+        {
+          "number": 20,
+          "name": "MUHAMMAD IFFAT FAHMI AZMI",
+          "u22": true
+        },
+        {
+          "number": 24,
+          "name": "MUHAMMAD NASROL AMRI KAMARUL AZHAR",
+          "subNumber": 2
+        },
+        {
+          "number": 28,
+          "name": "AMMAR HAIKAL MOHD FAIZAL"
+        },
+        {
+          "number": 46,
+          "name": "MUHAMMAD AQIL AMSYAR YUSRI",
+          "u22": true
+        }
+      ],
+      "away": [
+        {
+          "number": 1,
+          "name": "AHMAD FARIHIN HAZIMI SAIFULNIZAM",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 3,
+          "name": "TAMOTEHRAN JAYASHANKER",
+          "u22": true,
+          "subIn": 66
+        },
+        {
+          "number": 7,
+          "name": "MUHAMAD IZHAR DANIEL ZAINI"
+        },
+        {
+          "number": 13,
+          "name": "MUHAMMAD AMIRUL FIKRI ABDULLAH",
+          "subIn": 75
+        },
+        {
+          "number": 18,
+          "name": "CHRISTIAN OKWUDIRI CHUKWU",
+          "subNumber": 1
+        },
+        {
+          "number": 20,
+          "name": "MUHAMMAD IFFAT FAHMI AZMI",
+          "u22": true
+        },
+        {
+          "number": 24,
+          "name": "MUHAMMAD NASROL AMRI KAMARUL AZHAR",
+          "subNumber": 2
+        },
+        {
+          "number": 28,
+          "name": "AMMAR HAIKAL MOHD FAIZAL"
+        },
+        {
+          "number": 46,
+          "name": "MUHAMMAD AQIL AMSYAR YUSRI",
+          "u22": true
+        }
+      ]
+    },
+    "index": 13
+  },
+  {
+    "url": "https://cms.fam.org.my/resultdetail/czo0OiI4NTIzIjs%3D/W2025MA1",
+    "matchNumber": 108,
+    "kickoff": "4:45 PM",
+    "venue": "KOMPLEKS SUKAN UITM PERLIS, ARAU",
+    "playerOfTheMatch": "MOHAMMAD FAIZAL BIN KADIR (30) (PERLIS GSA FC)",
+    "referee": "MOHAMAD IZZAT IZAINI ALI",
+    "homeTeam": "PERLIS GSA FC",
+    "awayTeam": "SEOUL PHOENIX FC",
+    "homeScore": 8,
+    "awayScore": 0,
+    "htHome": 1,
+    "htAway": 0,
+    "goals": [
+      {
+        "team": "PERLIS GSA FC",
+        "minute": 14,
+        "name": "MOHAMMAD FAIZAL BIN KADIR",
+        "number": 7,
+        "type": "normal"
+      },
+      {
+        "team": "PERLIS GSA FC",
+        "minute": 56,
+        "name": "MOHAMMAD FAIZAL BIN KADIR",
+        "number": 17,
+        "type": "normal"
+      },
+      {
+        "team": "PERLIS GSA FC",
+        "minute": 69,
+        "name": "AZRIZAN BIN AHMAD",
+        "number": 30,
+        "type": "normal"
+      }
+    ],
+    "lineups": {
+      "home": [
+        {
+          "number": 4,
+          "name": "AZRIL HAFIDZ ABDUL RASHID",
+          "u22": true,
+          "subOut": 65
+        },
+        {
+          "number": 5,
+          "name": "MOHAMAD HAFIZ BIN ABDUL KARIM"
+        },
+        {
+          "number": 6,
+          "name": "AKMAL AFIZAN BIN AHMAD TAJUDIN"
+        },
+        {
+          "number": 7,
+          "name": "AZANNIS ADZRI ABDUL HALIM",
+          "u22": true
+        },
+        {
+          "number": 8,
+          "name": "MUHAMMAD NASRI BIN AHMAD THAUHID",
+          "subOut": 67
+        },
+        {
+          "number": 14,
+          "name": "MUHAMMAD HAZWAN BIN HASSAN",
+          "subOut": 57
+        },
+        {
+          "number": 19,
+          "name": "NASHRUL SHAZRIN BIN ROSLAN",
+          "subOut": 57
+        },
+        {
+          "number": 20,
+          "name": "MUHAMMAD ARIF NAZDMAN BIN ROSLAN",
+          "subOut": 65
+        },
+        {
+          "number": 22,
+          "name": "KAMARUL HILMI BIN ADENAN",
+          "position": "GK"
+        },
+        {
+          "number": 25,
+          "name": "MOHAMMAD HAZIQ MU'IZ BIN ABDUL",
+          "captain": true
+        },
+        {
+          "number": 30,
+          "name": "MOHAMMAD FAIZAL BIN KADIR"
+        }
+      ],
+      "away": [
+        {
+          "number": 1,
+          "name": "VIKNESWARAN KRISNAN",
+          "position": "GK"
+        },
+        {
+          "number": 5,
+          "name": "WAN SYAMIL SULAIMAN WAN SALMAN",
+          "u22": true
+        },
+        {
+          "number": 8,
+          "name": "JAEMO AHN"
+        },
+        {
+          "number": 12,
+          "name": "PYEONGAN PARK",
+          "u22": true
+        },
+        {
+          "number": 14,
+          "name": "MOHAMAD ASHRAF IQWAN ANUAR",
+          "u22": true
+        },
+        {
+          "number": 15,
+          "name": "MUHAMMAD ADAM ILMAM BIN MOHD IDWAN SHAH",
+          "u22": true
+        },
+        {
+          "number": 18,
+          "name": "MUHAMMAD ZUBAIR KAMARULZAMAN",
+          "captain": true
+        },
+        {
+          "number": 29,
+          "name": "MUHAMMAD DANIAL ASHRAF BIN ABDULLAH"
+        },
+        {
+          "number": 33,
+          "name": "MUHAMMAD AFIF JAZIMIN BIN MOHD YUSOFF"
+        },
+        {
+          "number": 37,
+          "name": "MUHAMMAD YUSOF UMAR BIN NORAZMAN",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 39,
+          "name": "MUHAMMAD AFIQ HAIKAL BIN SAMSUL BAHRIN"
+        }
+      ]
+    },
+    "substitutes": {
+      "home": [
+        {
+          "number": 1,
+          "name": "MUHAMMAD FITRI BIN ISMAIL",
+          "position": "GK"
+        },
+        {
+          "number": 17,
+          "name": "MOHD IKMAL FAIZ BIN AZMI",
+          "subIn": 57
+        },
+        {
+          "number": 21,
+          "name": "PUTRA LUQMAN NURHAKEEM BADLEE ROSE",
+          "u22": true,
+          "subIn": 65
+        },
+        {
+          "number": 23,
+          "name": "MUHAMMAD HAIKAL FITRI ZOLKIFLEE",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 24,
+          "name": "MUHAMMAD HAFIZI BIN MAT PODZI",
+          "subIn": 67
+        },
+        {
+          "number": 28,
+          "name": "AFNAN MUBBIN AZMAN",
+          "u22": true,
+          "subIn": 65,
+          "subNumber": 1
+        },
+        {
+          "number": 20,
+          "name": "AL IMAN WAHIEY MUHAMMAD AMIR",
+          "u22": true
+        }
+      ],
+      "away": [
+        {
+          "number": 20,
+          "name": "AL IMAN WAHIEY MUHAMMAD AMIR",
+          "u22": true
+        }
+      ]
+    },
+    "index": 14
+  },
+  {
+    "url": "https://cms.fam.org.my/resultdetail/czo0OiI4NTQ3Ijs%3D/W2025MA1",
+    "matchNumber": 117,
+    "kickoff": "4:45 PM",
+    "venue": "STADIUM MAJLIS PERBANDARAN SEPANG",
+    "playerOfTheMatch": "MOHAMAD NABIL BIN AHMAD LATPI (30) (KEDAH FA)",
+    "referee": "ANSELM ANAK ENTERANG",
+    "homeTeam": "SEOUL PHOENIX FC",
+    "awayTeam": "KEDAH FA",
+    "homeScore": 0,
+    "awayScore": 2,
+    "htHome": 0,
+    "htAway": 0,
+    "goals": [
+      {
+        "team": "KEDAH FA",
+        "minute": 53,
+        "name": "MOHAMMAD RAHMAT MAKASUF",
+        "number": 22,
+        "type": "normal"
+      },
+      {
+        "team": "KEDAH FA",
+        "minute": 79,
+        "name": "MOHAMAD NABIL BIN AHMAD LATPI",
+        "number": 30,
+        "type": "normal"
+      }
+    ],
+    "lineups": {
+      "home": [
+        {
+          "number": 1,
+          "name": "VIKNESWARAN KRISNAN",
+          "position": "GK",
+          "subOut": 51
+        },
+        {
+          "number": 6,
+          "name": "YOUNGJU SONG",
+          "u22": true
+        },
+        {
+          "number": 9,
+          "name": "JISEOK YI",
+          "u22": true
+        },
+        {
+          "number": 17,
+          "name": "MHLENGI SIBONANI NDHLOVU"
+        },
+        {
+          "number": 24,
+          "name": "PRECIOUS CHIMEREUCHEYA ALLWELL"
+        },
+        {
+          "number": 26,
+          "name": "SEUNGMIN HAN",
+          "u22": true,
+          "subOut": 56
+        },
+        {
+          "number": 28,
+          "name": "CHANWON HWANG"
+        },
+        {
+          "number": 32,
+          "name": "SOMYEONG YUN",
+          "captain": true
+        },
+        {
+          "number": 33,
+          "name": "MUHAMMAD AFIF JAZIMIN BIN MOHD YUSOFF"
+        },
+        {
+          "number": 39,
+          "name": "MUHAMMAD AFIQ HAIKAL BIN SAMSUL BAHRIN",
+          "subOut": 63
+        },
+        {
+          "number": 77,
+          "name": "MUHAMMAD HAKIMI BIN MAT ISA"
+        }
+      ],
+      "away": [
+        {
+          "number": 7,
+          "name": "MUHAMMAD ZHAFIR BIN MOHD YUSOFF",
+          "subOut": 88
+        },
+        {
+          "number": 12,
+          "name": "BARATHKUMAR A/L RAMALOO"
+        },
+        {
+          "number": 13,
+          "name": "MUHAMAD AIMAN FARHAN BIN MUHAMAD FAUZI",
+          "subOut": 88
+        },
+        {
+          "number": 16,
+          "name": "RAJENDRAN VELOO",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 19,
+          "name": "MOHD AIMAN AFIF BIN MD AFIZUL",
+          "subOut": 77
+        },
+        {
+          "number": 21,
+          "name": "MUHAMMAD DANIAL TARMIZI",
+          "u22": true,
+          "subOut": 54
+        },
+        {
+          "number": 22,
+          "name": "MOHAMMAD RAHMAT MAKASUF"
+        },
+        {
+          "number": 30,
+          "name": "MOHAMAD NABIL BIN AHMAD LATPI"
+        },
+        {
+          "number": 32,
+          "name": "MUHAMMAD AQIL IRFANUDDIN BIN MOHD SABRI"
+        },
+        {
+          "number": 44,
+          "name": "PAPE ABDOULAYE DIAKITE",
+          "captain": true
+        },
+        {
+          "number": 80,
+          "name": "NAMATHEVAN ARUNASALAM"
+        }
+      ]
+    },
+    "substitutes": {
+      "home": [
+        {
+          "number": 25,
+          "name": "WOOJIN LIM",
+          "subIn": 63
+        },
+        {
+          "number": 29,
+          "name": "MUHAMMAD DANIAL ASHRAF BIN ABDULLAH",
+          "subIn": 56
+        },
+        {
+          "number": 1,
+          "name": "MUHAMAD NORFAHMI BIN MUHAMAD ZAKI",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 4,
+          "name": "ASNAN AHMAD",
+          "subIn": 88,
+          "subNumber": 1
+        },
+        {
+          "number": 8,
+          "name": "MUHAMMAD AZIM BIN ANUAR"
+        },
+        {
+          "number": 11,
+          "name": "MUHAMMAD AFZAL BIN AKBAR",
+          "subIn": 88
+        },
+        {
+          "number": 18,
+          "name": "MUHAMMAD AKMAL HAKIM ROSLI",
+          "u22": true
+        },
+        {
+          "number": 20,
+          "name": "MUHAMMAD AMMAR MUHAMAD SHUKRI",
+          "u22": true
+        },
+        {
+          "number": 25,
+          "name": "SHAHMEER BIN RUSLI",
+          "u22": true,
+          "subIn": 77,
+          "subNumber": 1
+        },
+        {
+          "number": 31,
+          "name": "SASVINTHARAN A/L THAMILVANAM",
+          "subIn": 77
+        },
+        {
+          "number": 66,
+          "name": "MUHAMAD KAMIL AKMAL BIN ABD HALIM",
+          "u22": true,
+          "subIn": 54
+        }
+      ],
+      "away": [
+        {
+          "number": 1,
+          "name": "MUHAMAD NORFAHMI BIN MUHAMAD ZAKI",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 4,
+          "name": "ASNAN AHMAD",
+          "subIn": 88,
+          "subNumber": 1
+        },
+        {
+          "number": 8,
+          "name": "MUHAMMAD AZIM BIN ANUAR"
+        },
+        {
+          "number": 11,
+          "name": "MUHAMMAD AFZAL BIN AKBAR",
+          "subIn": 88
+        },
+        {
+          "number": 18,
+          "name": "MUHAMMAD AKMAL HAKIM ROSLI",
+          "u22": true
+        },
+        {
+          "number": 20,
+          "name": "MUHAMMAD AMMAR MUHAMAD SHUKRI",
+          "u22": true
+        },
+        {
+          "number": 25,
+          "name": "SHAHMEER BIN RUSLI",
+          "u22": true,
+          "subIn": 77,
+          "subNumber": 1
+        },
+        {
+          "number": 31,
+          "name": "SASVINTHARAN A/L THAMILVANAM",
+          "subIn": 77
+        },
+        {
+          "number": 66,
+          "name": "MUHAMAD KAMIL AKMAL BIN ABD HALIM",
+          "u22": true,
+          "subIn": 54
+        }
+      ]
+    },
+    "index": 15
+  },
+  {
+    "url": "https://cms.fam.org.my/resultdetail/czo0OiI4NTcyIjs%3D/W2025MA1",
+    "matchNumber": 127,
+    "kickoff": "4:45 PM",
+    "venue": "STADIUM MAJLIS PERBANDARAN SEPANG",
+    "playerOfTheMatch": "BERMEJO MACIAS CELSO JOSE (99) (JOHOR DARUL TA'ZIM II)",
+    "referee": "MUHAMMAD NASRUDDIN B MUHAMMAD TAMRIN",
+    "homeTeam": "SEOUL PHOENIX FC",
+    "awayTeam": "JOHOR DARUL TA'ZIM II",
+    "homeScore": 0,
+    "awayScore": 9,
+    "htHome": 0,
+    "htAway": 6,
+    "goals": [
+      {
+        "team": "JOHOR DARUL TA'ZIM II",
+        "minute": 5,
+        "name": "BERMEJO MACIAS CELSO JOSE",
+        "number": 99,
+        "type": "normal"
+      },
+      {
+        "team": "JOHOR DARUL TA'ZIM II",
+        "minute": 11,
+        "name": "MUHAMMAD DANISH SYAMER TAJUDDIN",
+        "number": 10,
+        "type": "normal"
+      },
+      {
+        "team": "JOHOR DARUL TA'ZIM II",
+        "minute": 15,
+        "name": "MIQUEL ANGEL CUESTA MONROIG",
+        "number": 40,
+        "type": "normal"
+      },
+      {
+        "team": "JOHOR DARUL TA'ZIM II",
+        "minute": 28,
+        "name": "MUHAMMAD DANISH SYAMER TAJUDDIN",
+        "number": 10,
+        "type": "normal"
+      },
+      {
+        "team": "JOHOR DARUL TA'ZIM II",
+        "minute": 32,
+        "name": "MOHAMAD RAFIEFIKRI BIN MOHD ROSMAN",
+        "number": 6,
+        "type": "normal"
+      },
+      {
+        "team": "JOHOR DARUL TA'ZIM II",
+        "minute": 39,
+        "name": "BERMEJO MACIAS CELSO JOSE",
+        "number": 99,
+        "type": "normal"
+      },
+      {
+        "team": "JOHOR DARUL TA'ZIM II",
+        "minute": 77,
+        "name": "ADAM FARHAN MOHD FAIZAL",
+        "number": 28,
+        "type": "normal"
+      },
+      {
+        "team": "JOHOR DARUL TA'ZIM II",
+        "minute": 79,
+        "name": "BERMEJO MACIAS CELSO JOSE",
+        "number": 99,
+        "type": "normal"
+      },
+      {
+        "team": "JOHOR DARUL TA'ZIM II",
+        "minute": 89,
+        "name": "MUHAMMAD DANISH MOHAMAD ZAHIR",
+        "number": 20,
+        "type": "normal"
+      }
+    ],
+    "lineups": {
+      "home": [
+        {
+          "number": 9,
+          "name": "JISEOK YI",
+          "u22": true,
+          "subOut": 80
+        },
+        {
+          "number": 11,
+          "name": "IAN LOOI HENG HAN",
+          "u22": true,
+          "subOut": 38
+        },
+        {
+          "number": 14,
+          "name": "MOHAMAD ASHRAF IQWAN ANUAR",
+          "u22": true
+        },
+        {
+          "number": 17,
+          "name": "MHLENGI SIBONANI NDHLOVU"
+        },
+        {
+          "number": 24,
+          "name": "PRECIOUS CHIMEREUCHEYA ALLWELL"
+        },
+        {
+          "number": 26,
+          "name": "SEUNGMIN HAN",
+          "subOut": 70
+        },
+        {
+          "number": 28,
+          "name": "CHANWON HWANG",
+          "captain": true
+        },
+        {
+          "number": 31,
+          "name": "SUWAN KO",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 33,
+          "name": "MUHAMMAD AFIF JAZIMIN BIN MOHD YUSOFF"
+        },
+        {
+          "number": 39,
+          "name": "MUHAMMAD AFIQ HAIKAL BIN SAMSUL BAHRIN"
+        },
+        {
+          "number": 77,
+          "name": "MUHAMMAD HAKIMI BIN MAT ISA",
+          "yellowCard": "23"
+        }
+      ],
+      "away": [
+        {
+          "number": 6,
+          "name": "MOHAMAD RAFIEFIKRI BIN MOHD ROSMAN",
+          "subOut": 64
+        },
+        {
+          "number": 8,
+          "name": "MUHAMMAD DANISH IRHAM MOHD NAZRI",
+          "u22": true
+        },
+        {
+          "number": 10,
+          "name": "MUHAMMAD DANISH SYAMER TAJUDDIN",
+          "u22": true,
+          "subOut": 64
+        },
+        {
+          "number": 12,
+          "name": "ZIAD EL BASHEER NORHISHAM",
+          "u22": true
+        },
+        {
+          "number": 13,
+          "name": "AHMAD AYSAR HADI BIN MOHD SHAPRI",
+          "captain": true,
+          "yellowCard": "43"
+        },
+        {
+          "number": 17,
+          "name": "MUHAMMAD ALIF BIN ABDUL MUTALIB",
+          "subOut": 55
+        },
+        {
+          "number": 22,
+          "name": "ZULHILMI SHARANI",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 28,
+          "name": "ADAM FARHAN MOHD FAIZAL",
+          "u22": true
+        },
+        {
+          "number": 32,
+          "name": "MUHAMMAD ALIF AHMAD",
+          "u22": true
+        },
+        {
+          "number": 40,
+          "name": "MIQUEL ANGEL CUESTA MONROIG",
+          "subOut": 40
+        },
+        {
+          "number": 99,
+          "name": "BERMEJO MACIAS CELSO JOSE"
+        }
+      ]
+    },
+    "substitutes": {
+      "home": [
+        {
+          "number": 1,
+          "name": "VIKNESWARAN KRISNAN",
+          "position": "GK"
+        },
+        {
+          "number": 18,
+          "name": "MUHAMMAD ZUBAIR KAMARULZAMAN",
+          "subIn": 70
+        },
+        {
+          "number": 25,
+          "name": "WOOJIN LIM",
+          "subIn": 38
+        },
+        {
+          "number": 11,
+          "name": "DANIE ASYRAF BIN FADZLI",
+          "subIn": 64
+        },
+        {
+          "number": 15,
+          "name": "PAVITHRAN  A/L GUNALAN",
+          "u22": true
+        },
+        {
+          "number": 16,
+          "name": "IRFAN SHAHKIMI SHAHRIZAL",
+          "u22": true,
+          "subIn": 64,
+          "subNumber": 1
+        },
+        {
+          "number": 19,
+          "name": "MUHAMMAD AZNIL HAFIZ AZHAR",
+          "u22": true
+        },
+        {
+          "number": 20,
+          "name": "MUHAMMAD DANISH MOHAMAD ZAHIR",
+          "u22": true,
+          "subIn": 55
+        },
+        {
+          "number": 24,
+          "name": "ARIFF SAFWAN  B. MOHD SAFRI",
+          "u22": true
+        },
+        {
+          "number": 29,
+          "name": "MUHAMMAD SYUKUR FARIZ JANURI"
+        },
+        {
+          "number": 31,
+          "name": "MUHAMMAD FARIS DANISH  MOHD ASRUL",
+          "u22": true,
+          "subIn": 40
+        },
+        {
+          "number": 46,
+          "name": "MUHAMMAD DANIAL IDRAQI MOHD ASMIR",
+          "position": "GK",
+          "u22": true
+        }
+      ],
+      "away": [
+        {
+          "number": 11,
+          "name": "DANIE ASYRAF BIN FADZLI",
+          "subIn": 64
+        },
+        {
+          "number": 15,
+          "name": "PAVITHRAN  A/L GUNALAN",
+          "u22": true
+        },
+        {
+          "number": 16,
+          "name": "IRFAN SHAHKIMI SHAHRIZAL",
+          "u22": true,
+          "subIn": 64,
+          "subNumber": 1
+        },
+        {
+          "number": 19,
+          "name": "MUHAMMAD AZNIL HAFIZ AZHAR",
+          "u22": true
+        },
+        {
+          "number": 20,
+          "name": "MUHAMMAD DANISH MOHAMAD ZAHIR",
+          "u22": true,
+          "subIn": 55
+        },
+        {
+          "number": 24,
+          "name": "ARIFF SAFWAN  B. MOHD SAFRI",
+          "u22": true
+        },
+        {
+          "number": 29,
+          "name": "MUHAMMAD SYUKUR FARIZ JANURI"
+        },
+        {
+          "number": 31,
+          "name": "MUHAMMAD FARIS DANISH  MOHD ASRUL",
+          "u22": true,
+          "subIn": 40
+        },
+        {
+          "number": 46,
+          "name": "MUHAMMAD DANIAL IDRAQI MOHD ASMIR",
+          "position": "GK",
+          "u22": true
+        }
+      ]
+    },
+    "index": 16
+  },
+  {
+    "url": "https://cms.fam.org.my/resultdetail/czo0OiI4NjA4Ijs%3D/W2025MA1",
+    "matchNumber": 134,
+    "kickoff": "8:45 PM",
+    "venue": "STADIUM SULTAN MUHAMMAD IV, KOTA BHARU",
+    "playerOfTheMatch": "EMMANUEL MBARGA NKENE JUNIOR (24) (KELANTAN RED WARRIOR FC)",
+    "referee": "TUAN MOHD FAIZRULLAH",
+    "homeTeam": "KELANTAN RED WARRIOR FC",
+    "awayTeam": "SEOUL PHOENIX FC",
+    "homeScore": 6,
+    "awayScore": 0,
+    "htHome": 2,
+    "htAway": 0,
+    "goals": [
+      {
+        "team": "KELANTAN RED WARRIOR FC",
+        "minute": 38,
+        "name": "EMMANUEL MBARGA NKENE JUNIOR",
+        "number": 31,
+        "type": "normal"
+      },
+      {
+        "team": "KELANTAN RED WARRIOR FC",
+        "minute": 51,
+        "name": "EMMANUEL MBARGA NKENE JUNIOR",
+        "number": 32,
+        "type": "normal"
+      }
+    ],
+    "lineups": {
+      "home": [
+        {
+          "number": 4,
+          "name": "ARHAM KHUSSYAIRI AB WAHAB",
+          "captain": true
+        },
+        {
+          "number": 8,
+          "name": "AHMAD AZRAF AHMAD AZAM",
+          "subOut": 67
+        },
+        {
+          "number": 11,
+          "name": "WAN MOHAMAD FAZLI WAN GHAZALI",
+          "subOut": 67
+        },
+        {
+          "number": 13,
+          "name": "ABDUL LATIFF SUHAIMI"
+        },
+        {
+          "number": 18,
+          "name": "MOHD FAIZ MOHD NASIR"
+        },
+        {
+          "number": 22,
+          "name": "SHAFIQ AFIFI SUHAIMI",
+          "position": "GK"
+        },
+        {
+          "number": 24,
+          "name": "EMMANUEL MBARGA NKENE JUNIOR"
+        },
+        {
+          "number": 31,
+          "name": "MUHAMMAD ZUASYRAF ZULKIEFLE",
+          "subOut": 73
+        },
+        {
+          "number": 49,
+          "name": "MUHAMMAD RIZUAN MUDA",
+          "subOut": 73
+        },
+        {
+          "number": 77,
+          "name": "AIMAN JOANNY"
+        },
+        {
+          "number": 94,
+          "name": "MUHAMAD MAZWAN CHE MAT",
+          "subOut": 85
+        }
+      ],
+      "away": [
+        {
+          "number": 9,
+          "name": "JISEOK YI",
+          "u22": true,
+          "subOut": 80
+        },
+        {
+          "number": 14,
+          "name": "MOHAMAD ASHRAF IQWAN ANUAR",
+          "u22": true
+        },
+        {
+          "number": 28,
+          "name": "CHANWON HWANG",
+          "captain": true
+        },
+        {
+          "number": 29,
+          "name": "MUHAMMAD DANIAL ASHRAF BIN ABDULLAH"
+        },
+        {
+          "number": 31,
+          "name": "SUWAN KO",
+          "position": "GK",
+          "u22": true,
+          "subOut": 80
+        },
+        {
+          "number": 33,
+          "name": "MUHAMMAD AFIF JAZIMIN BIN MOHD YUSOFF"
+        },
+        {
+          "number": 38,
+          "name": "DABIN YOON",
+          "u22": true
+        },
+        {
+          "number": 39,
+          "name": "MUHAMMAD AFIQ HAIKAL BIN SAMSUL BAHRIN",
+          "subOut": 56
+        },
+        {
+          "number": 87,
+          "name": "IBRAHIM YAHAYA"
+        },
+        {
+          "number": 89,
+          "name": "A. MAHENDRAN",
+          "subOut": 80
+        },
+        {
+          "number": 90,
+          "name": "SEIDOU ISMAILA"
+        }
+      ]
+    },
+    "substitutes": {
+      "home": [
+        {
+          "number": 12,
+          "name": "MUHAMAD RAFIE MAT YAACOB",
+          "subIn": 73,
+          "subNumber": 1
+        },
+        {
+          "number": 19,
+          "name": "MUHAMMAD SYAFIQ IZZUDIN MUSTAFA"
+        },
+        {
+          "number": 27,
+          "name": "WAN MOHD AIKAL DANIEL WAN MOHD RIZAL"
+        },
+        {
+          "number": 29,
+          "name": "MUHAMMAD NAZMI CIK ANI",
+          "u22": true,
+          "subIn": 85
+        },
+        {
+          "number": 32,
+          "name": "NIK AZLI NIK ALIAS",
+          "subIn": 67,
+          "subNumber": 1
+        },
+        {
+          "number": 33,
+          "name": "WAN MUHAMMAD HARIF WAN MUHD HAZLI",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 41,
+          "name": "NIAM MULHASSAN ALIAS",
+          "u22": true,
+          "subIn": 73
+        },
+        {
+          "number": 47,
+          "name": "NIK MUHAMAD ADIB AIMAN MOHD ZULKIFLI",
+          "u22": true
+        },
+        {
+          "number": 1,
+          "name": "VIKNESWARAN KRISNAN",
+          "position": "GK",
+          "subIn": 80,
+          "subNumber": 1
+        },
+        {
+          "number": 11,
+          "name": "IAN LOOI HENG HAN",
+          "u22": true,
+          "subIn": 80
+        },
+        {
+          "number": 24,
+          "name": "PRECIOUS CHIMEREUCHEYA ALLWELL"
+        },
+        {
+          "number": 25,
+          "name": "WOOJIN LIM",
+          "subIn": 80,
+          "subNumber": 2
+        },
+        {
+          "number": 26,
+          "name": "SEUNGMIN HAN",
+          "subIn": 56
+        }
+      ],
+      "away": [
+        {
+          "number": 1,
+          "name": "VIKNESWARAN KRISNAN",
+          "position": "GK",
+          "subIn": 80,
+          "subNumber": 1
+        },
+        {
+          "number": 11,
+          "name": "IAN LOOI HENG HAN",
+          "u22": true,
+          "subIn": 80
+        },
+        {
+          "number": 24,
+          "name": "PRECIOUS CHIMEREUCHEYA ALLWELL"
+        },
+        {
+          "number": 25,
+          "name": "WOOJIN LIM",
+          "subIn": 80,
+          "subNumber": 2
+        },
+        {
+          "number": 26,
+          "name": "SEUNGMIN HAN",
+          "subIn": 56
+        }
+      ]
+    },
+    "index": 17
+  },
+  {
+    "url": "https://cms.fam.org.my/resultdetail/czo0OiI4NjE3Ijs%3D/W2025MA1",
+    "matchNumber": 141,
+    "kickoff": "4:45 PM",
+    "venue": "STADIUM MAJLIS PERBANDARAN SEPANG",
+    "playerOfTheMatch": "AZIM NAZRI ISSAN (1) (MALAYSIAN UNIVERSITY)",
+    "referee": "MOHD ATIK BIN KASSIM",
+    "homeTeam": "SEOUL PHOENIX FC",
+    "awayTeam": "MALAYSIAN UNIVERSITY",
+    "homeScore": 2,
+    "awayScore": 6,
+    "htHome": 0,
+    "htAway": 2,
+    "goals": [
+      {
+        "team": "SEOUL PHOENIX FC",
+        "minute": 53,
+        "name": "SEIDOU ISMAILA",
+        "number": 24,
+        "type": "normal"
+      },
+      {
+        "team": "MALAYSIAN UNIVERSITY",
+        "minute": 42,
+        "name": "MUHAMMAD AIMAN DANIAL CHE RAMLAN",
+        "number": 26,
+        "type": "normal"
+      },
+      {
+        "team": "MALAYSIAN UNIVERSITY",
+        "minute": 50,
+        "name": "MUHAMMAD AIMAN DANIAL CHE RAMLAN",
+        "number": 26,
+        "type": "normal"
+      },
+      {
+        "team": "MALAYSIAN UNIVERSITY",
+        "minute": 71,
+        "name": "ZIKRY MOHD HAFIS",
+        "number": 29,
+        "type": "normal"
+      },
+      {
+        "team": "MALAYSIAN UNIVERSITY",
+        "minute": 80,
+        "name": "MOHAMMAD ARIF IMRAN ABDUL RAHIM",
+        "number": 9,
+        "type": "normal"
+      },
+      {
+        "team": "MALAYSIAN UNIVERSITY",
+        "minute": 89,
+        "name": "MUHAMMAD ZHARIF NAZHAN REFLI",
+        "number": 7,
+        "type": "normal"
+      }
+    ],
+    "lineups": {
+      "home": [
+        {
+          "number": 6,
+          "name": "YOUNGJU SONG",
+          "u22": true
+        },
+        {
+          "number": 9,
+          "name": "JISEOK YI",
+          "u22": true,
+          "subOut": 79
+        },
+        {
+          "number": 14,
+          "name": "MOHAMAD ASHRAF IQWAN ANUAR",
+          "u22": true
+        },
+        {
+          "number": 28,
+          "name": "CHANWON HWANG",
+          "captain": true
+        },
+        {
+          "number": 31,
+          "name": "SUWAN KO",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 33,
+          "name": "MUHAMMAD AFIF JAZIMIN BIN MOHD YUSOFF"
+        },
+        {
+          "number": 38,
+          "name": "DABIN YOON",
+          "u22": true,
+          "yellowCard": "57"
+        },
+        {
+          "number": 39,
+          "name": "MUHAMMAD AFIQ HAIKAL BIN SAMSUL BAHRIN",
+          "subOut": 79
+        },
+        {
+          "number": 77,
+          "name": "MUHAMMAD HAKIMI BIN MAT ISA",
+          "subOut": 52
+        },
+        {
+          "number": 87,
+          "name": "IBRAHIM YAHAYA"
+        },
+        {
+          "number": 90,
+          "name": "SEIDOU ISMAILA"
+        }
+      ],
+      "away": [
+        {
+          "number": 1,
+          "name": "AZIM NAZRI ISSAN",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 3,
+          "name": "AHMAD TAUFIK LUKMAN",
+          "u22": true,
+          "yellowCard": "57",
+          "subOut": 79
+        },
+        {
+          "number": 7,
+          "name": "MUHAMMAD ZHARIF NAZHAN REFLI",
+          "captain": true
+        },
+        {
+          "number": 15,
+          "name": "MUHAMMAD NUH AZLAN SYAH MOHD YUSOF"
+        },
+        {
+          "number": 16,
+          "name": "PENGIRAN MOHAMAD ILHAM AG JUMAHAT"
+        },
+        {
+          "number": 17,
+          "name": "MUHAMMAD ADAM ILMAM BIN MOHD IDWAN SHAH",
+          "u22": true
+        },
+        {
+          "number": 21,
+          "name": "MUHAMMAD ADIM MUZAHHIR SAIPU AZUAN",
+          "u22": true
+        },
+        {
+          "number": 24,
+          "name": "MUHAMMAD AIRIL MIFZAL MOHD PUAD",
+          "u22": true
+        },
+        {
+          "number": 26,
+          "name": "MUHAMMAD AIMAN DANIAL CHE RAMLAN",
+          "u22": true,
+          "subOut": 68
+        },
+        {
+          "number": 29,
+          "name": "ZIKRY MOHD HAFIS",
+          "subOut": 75
+        },
+        {
+          "number": 32,
+          "name": "MUHAMMAD NASHRAN ELIAS"
+        }
+      ]
+    },
+    "substitutes": {
+      "home": [
+        {
+          "number": 1,
+          "name": "VIKNESWARAN KRISNAN",
+          "position": "GK"
+        },
+        {
+          "number": 11,
+          "name": "IAN LOOI HENG HAN",
+          "u22": true
+        },
+        {
+          "number": 24,
+          "name": "PRECIOUS CHIMEREUCHEYA ALLWELL"
+        },
+        {
+          "number": 25,
+          "name": "WOOJIN LIM"
+        },
+        {
+          "number": 26,
+          "name": "SEUNGMIN HAN",
+          "subIn": 79
+        },
+        {
+          "number": 29,
+          "name": "MUHAMMAD DANIAL ASHRAF BIN ABDULLAH",
+          "subIn": 79,
+          "subNumber": 1
+        },
+        {
+          "number": 2,
+          "name": "MUHAMMAD SYAFIQ NURUL HISHAM",
+          "u22": true,
+          "subIn": 79
+        },
+        {
+          "number": 5,
+          "name": "MUHAMMAD FARHAN RAHIM"
+        },
+        {
+          "number": 8,
+          "name": "AHMAD HAIKAL HAZIQ UBAIDILLAH"
+        },
+        {
+          "number": 9,
+          "name": "MOHAMMAD ARIF IMRAN ABDUL RAHIM",
+          "subIn": 68
+        },
+        {
+          "number": 10,
+          "name": "MUHAMMAD MIRZA MALIK MAZLAN",
+          "subNumber": 1
+        },
+        {
+          "number": 18,
+          "name": "MUHAMMAD HARITH BISYARI MOHD HANAFIA",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 19,
+          "name": "HARIS ZAFRI HASHIM"
+        },
+        {
+          "number": 20,
+          "name": "MUHAMMAD ASYRAAF RIFQI ROSLI"
+        },
+        {
+          "number": 28,
+          "name": "AQIL HAZIQ AZMI",
+          "u22": true,
+          "subIn": 75
+        }
+      ],
+      "away": [
+        {
+          "number": 2,
+          "name": "MUHAMMAD SYAFIQ NURUL HISHAM",
+          "u22": true,
+          "subIn": 79
+        },
+        {
+          "number": 5,
+          "name": "MUHAMMAD FARHAN RAHIM"
+        },
+        {
+          "number": 8,
+          "name": "AHMAD HAIKAL HAZIQ UBAIDILLAH"
+        },
+        {
+          "number": 9,
+          "name": "MOHAMMAD ARIF IMRAN ABDUL RAHIM",
+          "subIn": 68
+        },
+        {
+          "number": 10,
+          "name": "MUHAMMAD MIRZA MALIK MAZLAN",
+          "subNumber": 1
+        },
+        {
+          "number": 18,
+          "name": "MUHAMMAD HARITH BISYARI MOHD HANAFIA",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 19,
+          "name": "HARIS ZAFRI HASHIM"
+        },
+        {
+          "number": 20,
+          "name": "MUHAMMAD ASYRAAF RIFQI ROSLI"
+        },
+        {
+          "number": 28,
+          "name": "AQIL HAZIQ AZMI",
+          "u22": true,
+          "subIn": 75
+        }
+      ]
+    },
+    "index": 18
+  },
+  {
+    "url": "https://cms.fam.org.my/resultdetail/czo0OiI4NjM0Ijs%3D/W2025MA1",
+    "matchNumber": 146,
+    "kickoff": "8:45 PM",
+    "venue": "STADIUM MAJLIS PERBANDARAN MANJUNG",
+    "playerOfTheMatch": "MOHAMMAD FIRDAUS BIN SUHAIMI (31) (MANJUNG CITY FC)",
+    "referee": "HEMANATHAN AL SUBERMANIAM",
+    "homeTeam": "MANJUNG CITY FC",
+    "awayTeam": "SEOUL PHOENIX FC",
+    "homeScore": 5,
+    "awayScore": 1,
+    "htHome": 3,
+    "htAway": 1,
+    "goals": [
+      {
+        "team": "MANJUNG CITY FC",
+        "minute": 3,
+        "name": "ACE BATENER",
+        "number": 34,
+        "type": "normal"
+      },
+      {
+        "team": "MANJUNG CITY FC",
+        "minute": 13,
+        "name": "NOOR AIMAN ADHA BIN AMIR",
+        "number": 22,
+        "type": "normal"
+      },
+      {
+        "team": "MANJUNG CITY FC",
+        "minute": 86,
+        "name": "SEOUL PHOENIX FC",
+        "number": 6,
+        "type": "normal"
+      }
+    ],
+    "lineups": {
+      "home": [
+        {
+          "number": 3,
+          "name": "MUHAMMAD DANIEL EDZUAN MOHD ANUAR",
+          "u22": true,
+          "yellowCard": "38"
+        },
+        {
+          "number": 10,
+          "name": "MUHAMMAD MUSLIHUDDIN ‘ATIQ BIN MAT ZAID"
+        },
+        {
+          "number": 14,
+          "name": "AQIL ARAZI AZIZ",
+          "u22": true,
+          "subOut": 69
+        },
+        {
+          "number": 18,
+          "name": "EMMANUEL ATISO GELI"
+        },
+        {
+          "number": 21,
+          "name": "MUHAMAD AIMAN BIN MOHD ZAIDI",
+          "subOut": 59
+        },
+        {
+          "number": 24,
+          "name": "NOOR AIMAN ADHA BIN AMIR"
+        },
+        {
+          "number": 26,
+          "name": "MUHAMMAD IZZAT BIN MOHD RAMLEE"
+        },
+        {
+          "number": 31,
+          "name": "MOHAMMAD FIRDAUS BIN SUHAIMI",
+          "position": "GK"
+        },
+        {
+          "number": 33,
+          "name": "MOHAMAD SYAMIN BIN BAHARUDDIN",
+          "captain": true,
+          "subOut": 65
+        },
+        {
+          "number": 34,
+          "name": "JACQUE FAYE"
+        },
+        {
+          "number": 99,
+          "name": "ACE BATENER",
+          "subOut": 65
+        }
+      ],
+      "away": [
+        {
+          "number": 1,
+          "name": "VIKNESWARAN KRISNAN",
+          "position": "GK"
+        },
+        {
+          "number": 6,
+          "name": "YOUNGJU SONG",
+          "u22": true
+        },
+        {
+          "number": 9,
+          "name": "JISEOK YI",
+          "u22": true,
+          "yellowCard": "34"
+        },
+        {
+          "number": 24,
+          "name": "PRECIOUS CHIMEREUCHEYA ALLWELL",
+          "subOut": 50
+        },
+        {
+          "number": 26,
+          "name": "SEUNGMIN HAN",
+          "subOut": 67
+        },
+        {
+          "number": 28,
+          "name": "CHANWON HWANG",
+          "captain": true
+        },
+        {
+          "number": 33,
+          "name": "MUHAMMAD AFIF JAZIMIN BIN MOHD YUSOFF"
+        },
+        {
+          "number": 77,
+          "name": "MUHAMMAD HAKIMI BIN MAT ISA"
+        },
+        {
+          "number": 87,
+          "name": "IBRAHIM YAHAYA"
+        },
+        {
+          "number": 89,
+          "name": "A. MAHENDRAN",
+          "subOut": 74
+        },
+        {
+          "number": 90,
+          "name": "SEIDOU ISMAILA"
+        }
+      ]
+    },
+    "substitutes": {
+      "home": [
+        {
+          "number": 1,
+          "name": "MOHAMMAD NASRULLAH BIN ABDUL AZIZ",
+          "position": "GK"
+        },
+        {
+          "number": 6,
+          "name": "MOHAMAD AL-FATEH BIN MOHD AFANDI",
+          "subIn": 65,
+          "subNumber": 1
+        },
+        {
+          "number": 7,
+          "name": "MUHAMAD ASYRAAF BIN MAT PUSHNI"
+        },
+        {
+          "number": 11,
+          "name": "SHAHRUL NAIM BIN SHAMSUL HISHAM"
+        },
+        {
+          "number": 12,
+          "name": "WAN MUHAMMAD IZZAT BIN WAN ZAIDI"
+        },
+        {
+          "number": 22,
+          "name": "HASNUL NUR HAKIM SAYUTI",
+          "u22": true,
+          "subIn": 59
+        },
+        {
+          "number": 28,
+          "name": "DHIA RAMADHAN BIN BADRULHISHAM",
+          "subIn": 69
+        },
+        {
+          "number": 29,
+          "name": "MUHAMAD SOBRI MOHAMAD HASRI",
+          "subIn": 65
+        },
+        {
+          "number": 11,
+          "name": "IAN LOOI HENG HAN",
+          "u22": true
+        },
+        {
+          "number": 14,
+          "name": "MOHAMAD ASHRAF IQWAN ANUAR",
+          "u22": true
+        },
+        {
+          "number": 25,
+          "name": "WOOJIN LIM",
+          "subIn": 74
+        },
+        {
+          "number": 29,
+          "name": "MUHAMMAD DANIAL ASHRAF BIN ABDULLAH",
+          "subIn": 67
+        },
+        {
+          "number": 31,
+          "name": "SUWAN KO",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 39,
+          "name": "MUHAMMAD AFIQ HAIKAL BIN SAMSUL BAHRIN",
+          "u22": true,
+          "subIn": 50
+        }
+      ],
+      "away": [
+        {
+          "number": 11,
+          "name": "IAN LOOI HENG HAN",
+          "u22": true
+        },
+        {
+          "number": 14,
+          "name": "MOHAMAD ASHRAF IQWAN ANUAR",
+          "u22": true
+        },
+        {
+          "number": 25,
+          "name": "WOOJIN LIM",
+          "subIn": 74
+        },
+        {
+          "number": 29,
+          "name": "MUHAMMAD DANIAL ASHRAF BIN ABDULLAH",
+          "subIn": 67
+        },
+        {
+          "number": 31,
+          "name": "SUWAN KO",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 39,
+          "name": "MUHAMMAD AFIQ HAIKAL BIN SAMSUL BAHRIN",
+          "u22": true,
+          "subIn": 50
+        }
+      ]
+    },
+    "index": 19
+  },
+  {
+    "url": "https://cms.fam.org.my/resultdetail/czo0OiI4NjQ4Ijs%3D/W2025MA1",
+    "matchNumber": 157,
+    "kickoff": "4:45 PM",
+    "venue": "STADIUM MAJLIS PERBANDARAN SEPANG",
+    "playerOfTheMatch": "MUHAMMAD HAIRUL IQMAL BIN MOHD RAFFI (21) (ARMED FORCES FC)",
+    "referee": "ZAM AZWAN KHAN BIN RASHID KHAN",
+    "homeTeam": "SEOUL PHOENIX FC",
+    "awayTeam": "ARMED FORCES FC",
+    "homeScore": 0,
+    "awayScore": 6,
+    "htHome": 0,
+    "htAway": 1,
+    "goals": [
+      {
+        "team": "ARMED FORCES FC",
+        "minute": 45,
+        "name": "MARCUS MAH YUNG JIAN",
+        "number": 8,
+        "type": "normal"
+      },
+      {
+        "team": "ARMED FORCES FC",
+        "minute": 48,
+        "name": "MUHAMMAD HAIRUL IQMAL BIN MOHD RAFFI",
+        "number": 21,
+        "type": "normal"
+      },
+      {
+        "team": "ARMED FORCES FC",
+        "minute": 52,
+        "name": "MUHAMMAD HAIRUL IQMAL BIN MOHD RAFFI",
+        "number": 21,
+        "type": "normal"
+      },
+      {
+        "team": "ARMED FORCES FC",
+        "minute": 54,
+        "name": "MUHAMMAD HAIRUL IQMAL BIN MOHD RAFFI",
+        "number": 21,
+        "type": "normal"
+      },
+      {
+        "team": "ARMED FORCES FC",
+        "minute": 65,
+        "name": "SIWON YOO",
+        "number": 76,
+        "type": "normal"
+      },
+      {
+        "team": "ARMED FORCES FC",
+        "minute": 89,
+        "name": "SHAHRUL AZNEI SHOPRI",
+        "number": 4,
+        "type": "normal"
+      }
+    ],
+    "lineups": {
+      "home": [
+        {
+          "number": 6,
+          "name": "YOUNGJU SONG",
+          "captain": true,
+          "u22": true,
+          "yellowCard": "65"
+        },
+        {
+          "number": 14,
+          "name": "MOHAMAD ASHRAF IQWAN ANUAR",
+          "u22": true
+        },
+        {
+          "number": 28,
+          "name": "CHANWON HWANG"
+        },
+        {
+          "number": 31,
+          "name": "SUWAN KO",
+          "position": "GK",
+          "u22": true,
+          "subOut": 57
+        },
+        {
+          "number": 33,
+          "name": "MUHAMMAD AFIF JAZIMIN BIN MOHD YUSOFF"
+        },
+        {
+          "number": 38,
+          "name": "DABIN YOON",
+          "u22": true,
+          "yellowCard": "4"
+        },
+        {
+          "number": 39,
+          "name": "MUHAMMAD AFIQ HAIKAL BIN SAMSUL BAHRIN",
+          "subOut": 63
+        },
+        {
+          "number": 77,
+          "name": "MUHAMMAD HAKIMI BIN MAT ISA"
+        },
+        {
+          "number": 87,
+          "name": "IBRAHIM YAHAYA"
+        },
+        {
+          "number": 89,
+          "name": "A. MAHENDRAN"
+        },
+        {
+          "number": 90,
+          "name": "SEIDOU ISMAILA",
+          "subOut": 57
+        }
+      ],
+      "away": [
+        {
+          "number": 6,
+          "name": "RAFAEL SHAHZARI FOO BENJAMIN FOO ABDULLAH",
+          "u22": true
+        },
+        {
+          "number": 8,
+          "name": "MARCUS MAH YUNG JIAN"
+        },
+        {
+          "number": 11,
+          "name": "MOHD RAFIZOL BIN ROSLAN",
+          "subOut": 73
+        },
+        {
+          "number": 18,
+          "name": "MUHAMMAD FAIZ BIN IBRAHIM",
+          "captain": true,
+          "subOut": 63
+        },
+        {
+          "number": 21,
+          "name": "MUHAMMAD HAIRUL IQMAL BIN MOHD RAFFI"
+        },
+        {
+          "number": 25,
+          "name": "MOHD AZRUL BIN AZNAN"
+        },
+        {
+          "number": 30,
+          "name": "MOHAMAD FAKRUL IZWAN BIN MOHD ROSDEH"
+        },
+        {
+          "number": 33,
+          "name": "MUHAMMAD FIKRI BIN MOHAMED SHAH",
+          "subOut": 73
+        },
+        {
+          "number": 36,
+          "name": "MOHAMAD HAFIZUDDIN BIN AZUHAR",
+          "position": "GK"
+        },
+        {
+          "number": 47,
+          "name": "MUHAMMAD AZIM NADIM MOHD AZMI",
+          "u22": true
+        },
+        {
+          "number": 88,
+          "name": "AIMAN NULHAKIM BIN MOHD ZAINI",
+          "subOut": 63
+        }
+      ]
+    },
+    "substitutes": {
+      "home": [
+        {
+          "number": 1,
+          "name": "VIKNESWARAN KRISNAN",
+          "position": "GK",
+          "subIn": 57
+        },
+        {
+          "number": 11,
+          "name": "IAN LOOI HENG HAN",
+          "u22": true,
+          "subIn": 57,
+          "subNumber": 1
+        },
+        {
+          "number": 24,
+          "name": "PRECIOUS CHIMEREUCHEYA ALLWELL"
+        },
+        {
+          "number": 25,
+          "name": "WOOJIN LIM",
+          "subIn": 63
+        },
+        {
+          "number": 26,
+          "name": "SEUNGMIN HAN"
+        },
+        {
+          "number": 29,
+          "name": "MUHAMMAD DANIAL ASHRAF BIN ABDULLAH"
+        },
+        {
+          "number": 4,
+          "name": "SHAHRUL AZNEI SHOPRI",
+          "subIn": 73
+        },
+        {
+          "number": 7,
+          "name": "MUHAMMAD SHARUL AMIN NASHARUDDIN",
+          "subIn": 73,
+          "subNumber": 1
+        },
+        {
+          "number": 9,
+          "name": "MAX FAREEZAN ANAK LIDIN"
+        },
+        {
+          "number": 10,
+          "name": "MUHAMMAD HADI MOHAMAD"
+        },
+        {
+          "number": 19,
+          "name": "MOHAMAD AZIM FARIS SHARI"
+        },
+        {
+          "number": 31,
+          "name": "SHARIZAN SYAFIQ BIN ADZMAN",
+          "position": "GK"
+        },
+        {
+          "number": 37,
+          "name": "MUHAMMAD NOOR ADHA BIN ZAILANI",
+          "u22": true,
+          "subIn": 63
+        },
+        {
+          "number": 39,
+          "name": "SUHAIRY BIN JOHARI"
+        },
+        {
+          "number": 76,
+          "name": "SIWON YOO",
+          "u22": true,
+          "subIn": 63,
+          "subNumber": 1
+        }
+      ],
+      "away": [
+        {
+          "number": 4,
+          "name": "SHAHRUL AZNEI SHOPRI",
+          "subIn": 73
+        },
+        {
+          "number": 7,
+          "name": "MUHAMMAD SHARUL AMIN NASHARUDDIN",
+          "subIn": 73,
+          "subNumber": 1
+        },
+        {
+          "number": 9,
+          "name": "MAX FAREEZAN ANAK LIDIN"
+        },
+        {
+          "number": 10,
+          "name": "MUHAMMAD HADI MOHAMAD"
+        },
+        {
+          "number": 19,
+          "name": "MOHAMAD AZIM FARIS SHARI"
+        },
+        {
+          "number": 31,
+          "name": "SHARIZAN SYAFIQ BIN ADZMAN",
+          "position": "GK"
+        },
+        {
+          "number": 37,
+          "name": "MUHAMMAD NOOR ADHA BIN ZAILANI",
+          "u22": true,
+          "subIn": 63
+        },
+        {
+          "number": 39,
+          "name": "SUHAIRY BIN JOHARI"
+        },
+        {
+          "number": 76,
+          "name": "SIWON YOO",
+          "u22": true,
+          "subIn": 63,
+          "subNumber": 1
+        }
+      ]
+    },
+    "index": 20
+  },
+  {
+    "url": "https://cms.fam.org.my/resultdetail/czo0OiI4NjY2Ijs%3D/W2025MA1",
+    "matchNumber": 167,
+    "kickoff": "4:45 PM",
+    "venue": "STADIUM MINI MPKP, JITRA",
+    "playerOfTheMatch": "SEIDOU ISMAILA (90) (SEOUL PHOENIX FC)",
+    "referee": "MUHAMMAD MUNIR BIN MOHD IZAM",
+    "homeTeam": "KEDAH DARUL AMAN FC",
+    "awayTeam": "SEOUL PHOENIX FC",
+    "homeScore": 1,
+    "awayScore": 6,
+    "htHome": 1,
+    "htAway": 1,
+    "goals": [
+      {
+        "team": "KEDAH DARUL AMAN FC",
+        "minute": 5,
+        "name": "SEOUL PHOENIX FC",
+        "number": 90,
+        "type": "normal"
+      },
+      {
+        "team": "SEOUL PHOENIX FC",
+        "minute": 47,
+        "name": "SEIDOU ISMAILA",
+        "number": 90,
+        "type": "normal"
+      },
+      {
+        "team": "SEOUL PHOENIX FC",
+        "minute": 67,
+        "name": "MUHAMMAD AFIF JAZIMIN BIN MOHD YUSOFF",
+        "number": 33,
+        "type": "normal"
+      },
+      {
+        "team": "SEOUL PHOENIX FC",
+        "minute": 72,
+        "name": "PRECIOUS CHIMEREUCHEYA ALLWELL",
+        "number": 24,
+        "type": "normal"
+      },
+      {
+        "team": "SEOUL PHOENIX FC",
+        "minute": 80,
+        "name": "SEIDOU ISMAILA",
+        "number": 90,
+        "type": "normal"
+      },
+      {
+        "team": "SEOUL PHOENIX FC",
+        "minute": 85,
+        "name": "SEIDOU ISMAILA",
+        "number": 90,
+        "type": "normal"
+      }
+    ],
+    "lineups": {
+      "home": [
+        {
+          "number": 3,
+          "name": "MUHAMMAD DANISH HAIKAL ABDULLAH",
+          "u22": true
+        },
+        {
+          "number": 4,
+          "name": "HAZRIE BALQIEF MOHAMMAD ZULHADI",
+          "u22": true
+        },
+        {
+          "number": 14,
+          "name": "MUHAMMAD AFIF DANIEL ABDUL HADI",
+          "u22": true,
+          "yellowCard": "69"
+        },
+        {
+          "number": 16,
+          "name": "MUHAMMAD IQMAL HAZIM MUHAMED SUPIAN"
+        },
+        {
+          "number": 17,
+          "name": "MUHAMMAD HAIRIL SYAZWAN KAMIS",
+          "u22": true
+        },
+        {
+          "number": 19,
+          "name": "MOHD FARIS HAFIY MAD NAZIR",
+          "u22": true,
+          "subOut": 62
+        },
+        {
+          "number": 25,
+          "name": "WAN MOHAMAD SYAZMIN WAN MOHAMAD RUZAIMI",
+          "position": "GK",
+          "captain": true,
+          "subOut": 74
+        },
+        {
+          "number": 27,
+          "name": "CHE AIZIL AZRIEN CHE AZRI",
+          "u22": true,
+          "yellowCard": "78"
+        },
+        {
+          "number": 35,
+          "name": "ADAM SYAKIRIN MUHAMMAD YUSRI",
+          "u22": true,
+          "subOut": 56
+        },
+        {
+          "number": 55,
+          "name": "MUHAMMAD IMAN SAFWAN MOHD HARRIS",
+          "u22": true
+        },
+        {
+          "number": 81,
+          "name": "MUHAMMAD EIRWAN ZARIEF RADJEBI",
+          "u22": true,
+          "yellowCard": "45"
+        }
+      ],
+      "away": [
+        {
+          "number": 1,
+          "name": "VIKNESWARAN KRISNAN",
+          "position": "GK"
+        },
+        {
+          "number": 9,
+          "name": "JISEOK YI",
+          "captain": true,
+          "u22": true
+        },
+        {
+          "number": 14,
+          "name": "MOHAMAD ASHRAF IQWAN ANUAR",
+          "u22": true
+        },
+        {
+          "number": 24,
+          "name": "PRECIOUS CHIMEREUCHEYA ALLWELL"
+        },
+        {
+          "number": 28,
+          "name": "CHANWON HWANG",
+          "yellowCard": "35"
+        },
+        {
+          "number": 33,
+          "name": "MUHAMMAD AFIF JAZIMIN BIN MOHD YUSOFF"
+        },
+        {
+          "number": 38,
+          "name": "DABIN YOON",
+          "u22": true,
+          "yellowCard": "87"
+        },
+        {
+          "number": 39,
+          "name": "MUHAMMAD AFIQ HAIKAL BIN SAMSUL BAHRIN"
+        },
+        {
+          "number": 77,
+          "name": "MUHAMMAD HAKIMI BIN MAT ISA"
+        },
+        {
+          "number": 89,
+          "name": "A. MAHENDRAN"
+        },
+        {
+          "number": 90,
+          "name": "SEIDOU ISMAILA"
+        }
+      ]
+    },
+    "substitutes": {
+      "home": [
+        {
+          "number": 1,
+          "name": "MUHAMMAD AQIL SYAHMI AZIZAN",
+          "position": "GK",
+          "u22": true,
+          "subIn": 74
+        },
+        {
+          "number": 5,
+          "name": "NUR HILAL AMIN MOHD KHAIRUL EZDI",
+          "u22": true
+        },
+        {
+          "number": 7,
+          "name": "MUHAMMAD AMIL HAIKAL ROZMI",
+          "u22": true
+        },
+        {
+          "number": 13,
+          "name": "MUHAMMAD SYANAS HAIKAL MUHAMMAD SHAMIZAN",
+          "u22": true
+        },
+        {
+          "number": 28,
+          "name": "MUHAMMAD SHAHRUL HAKIMI ZULKIFLI",
+          "u22": true,
+          "subIn": 56
+        },
+        {
+          "number": 41,
+          "name": "MUHAMMAD FAKRULLAH AHMAD SHUKRI",
+          "u22": true
+        },
+        {
+          "number": 66,
+          "name": "MUHAMMAD HAZIQ HAKIMI NOR HISHAM",
+          "u22": true
+        },
+        {
+          "number": 71,
+          "name": "MUHAMMAD SYOBIRIN MOHAMAD ZUHRI",
+          "u22": true,
+          "subIn": 62
+        },
+        {
+          "number": 29,
+          "name": "MUHAMMAD DANIAL ASHRAF BIN ABDULLAH"
+        },
+        {
+          "number": 31,
+          "name": "SUWAN KO",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 32,
+          "name": "SOMYEONG YUN"
+        },
+        {
+          "number": 37,
+          "name": "MUHAMMAD YUSOF UMAR BIN NORAZMAN",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 87,
+          "name": "IBRAHIM YAHAYA",
+          "u22": true
+        }
+      ],
+      "away": [
+        {
+          "number": 29,
+          "name": "MUHAMMAD DANIAL ASHRAF BIN ABDULLAH"
+        },
+        {
+          "number": 31,
+          "name": "SUWAN KO",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 32,
+          "name": "SOMYEONG YUN"
+        },
+        {
+          "number": 37,
+          "name": "MUHAMMAD YUSOF UMAR BIN NORAZMAN",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 87,
+          "name": "IBRAHIM YAHAYA",
+          "u22": true
+        }
+      ]
+    },
+    "index": 21
+  },
+  {
+    "url": "https://cms.fam.org.my/resultdetail/czo0OiI4NzEzIjs%3D/W2025MA1",
+    "matchNumber": 174,
+    "kickoff": "4:45 PM",
+    "venue": "STADIUM MINI PERSADA PLUS",
+    "playerOfTheMatch": "VEENOD SUBRAMANIAM (23) (BUNGA RAYA FC)",
+    "referee": "ZULKARNAIN BIN ZAKARIA",
+    "homeTeam": "SEOUL PHOENIX FC",
+    "awayTeam": "BUNGA RAYA FC",
+    "homeScore": 0,
+    "awayScore": 2,
+    "htHome": 0,
+    "htAway": 0,
+    "goals": [
+      {
+        "team": "BUNGA RAYA FC",
+        "minute": 66,
+        "name": "EMMANUEL KELLA SAMSON",
+        "number": 90,
+        "type": "normal"
+      },
+      {
+        "team": "BUNGA RAYA FC",
+        "minute": 89,
+        "name": "VEENOD SUBRAMANIAM",
+        "number": 23,
+        "type": "normal"
+      }
+    ],
+    "lineups": {
+      "home": [
+        {
+          "number": 1,
+          "name": "VIKNESWARAN KRISNAN",
+          "position": "GK"
+        },
+        {
+          "number": 9,
+          "name": "JISEOK YI",
+          "u22": true
+        },
+        {
+          "number": 14,
+          "name": "MOHAMAD ASHRAF IQWAN ANUAR",
+          "u22": true,
+          "subOut": 89
+        },
+        {
+          "number": 24,
+          "name": "PRECIOUS CHIMEREUCHEYA ALLWELL"
+        },
+        {
+          "number": 28,
+          "name": "CHANWON HWANG",
+          "yellowCard": "90+2"
+        },
+        {
+          "number": 33,
+          "name": "MUHAMMAD AFIF JAZIMIN BIN MOHD YUSOFF",
+          "captain": true
+        },
+        {
+          "number": 38,
+          "name": "DABIN YOON",
+          "u22": true
+        },
+        {
+          "number": 39,
+          "name": "MUHAMMAD AFIQ HAIKAL BIN SAMSUL BAHRIN"
+        },
+        {
+          "number": 87,
+          "name": "IBRAHIM YAHAYA",
+          "yellowCard": "45+2"
+        },
+        {
+          "number": 89,
+          "name": "A. MAHENDRAN"
+        },
+        {
+          "number": 90,
+          "name": "SEIDOU ISMAILA"
+        }
+      ],
+      "away": [
+        {
+          "number": 19,
+          "name": "DALAN RAJENDRAN",
+          "subOut": 72
+        },
+        {
+          "number": 23,
+          "name": "VEENOD SUBRAMANIAM",
+          "captain": true
+        },
+        {
+          "number": 32,
+          "name": "MUHAMMAD UMEIR AZNAN"
+        },
+        {
+          "number": 33,
+          "name": "MUHAMMAD SYUKRI BIN AZMAN",
+          "subOut": 56
+        },
+        {
+          "number": 47,
+          "name": "JOSEPH NII AMUGI",
+          "subOut": 56
+        },
+        {
+          "number": 51,
+          "name": "MOHAMAD HARIZ BIN KAMARUDIN"
+        },
+        {
+          "number": 72,
+          "name": "MUHAMMAD AZARUL NAZARITH AZHAR"
+        },
+        {
+          "number": 77,
+          "name": "MUHAMMAD FAHMI DANIEL BIN MOHD ZAAIM"
+        },
+        {
+          "number": 88,
+          "name": "SHAHEESWARAN THAVAKUMAR",
+          "position": "GK"
+        },
+        {
+          "number": 90,
+          "name": "EMMANUEL KELLA SAMSON"
+        },
+        {
+          "number": 95,
+          "name": "CHE MOHAMAD ARIF CHE KAMARUDIN",
+          "yellowCard": "45+2"
+        }
+      ]
+    },
+    "substitutes": {
+      "home": [
+        {
+          "number": 25,
+          "name": "WOOJIN LIM"
+        },
+        {
+          "number": 26,
+          "name": "SEUNGMIN HAN"
+        },
+        {
+          "number": 29,
+          "name": "MUHAMMAD DANIAL ASHRAF BIN ABDULLAH"
+        },
+        {
+          "number": 31,
+          "name": "SUWAN KO",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 32,
+          "name": "SOMYEONG YUN"
+        },
+        {
+          "number": 4,
+          "name": "MUHAMMAD ILHAM SYUKRI JAMALLUDDIN",
+          "subIn": 56
+        },
+        {
+          "number": 7,
+          "name": "SARANRAJ KALA ARASU",
+          "subIn": 56,
+          "subNumber": 1
+        },
+        {
+          "number": 8,
+          "name": "KUMAR CHANDRAN",
+          "u22": true,
+          "subNumber": 1
+        },
+        {
+          "number": 11,
+          "name": "VIMAL NAIR SUGU",
+          "subIn": 72
+        },
+        {
+          "number": 20,
+          "name": "MUHAMMAD AQIL HAZWAN NORHASIDI"
+        },
+        {
+          "number": 21,
+          "name": "HARISH THIGARAJAH",
+          "u22": true
+        },
+        {
+          "number": 94,
+          "name": "NIK MOHD AMIN AHMAD",
+          "position": "GK",
+          "u22": true
+        }
+      ],
+      "away": [
+        {
+          "number": 4,
+          "name": "MUHAMMAD ILHAM SYUKRI JAMALLUDDIN",
+          "subIn": 56
+        },
+        {
+          "number": 7,
+          "name": "SARANRAJ KALA ARASU",
+          "subIn": 56,
+          "subNumber": 1
+        },
+        {
+          "number": 8,
+          "name": "KUMAR CHANDRAN",
+          "u22": true,
+          "subNumber": 1
+        },
+        {
+          "number": 11,
+          "name": "VIMAL NAIR SUGU",
+          "subIn": 72
+        },
+        {
+          "number": 20,
+          "name": "MUHAMMAD AQIL HAZWAN NORHASIDI"
+        },
+        {
+          "number": 21,
+          "name": "HARISH THIGARAJAH",
+          "u22": true
+        },
+        {
+          "number": 94,
+          "name": "NIK MOHD AMIN AHMAD",
+          "position": "GK",
+          "u22": true
+        }
+      ]
+    },
+    "index": 22
+  },
+  {
+    "url": "https://cms.fam.org.my/resultdetail/czo0OiI4NzI0Ijs%3D/W2025MA1",
+    "matchNumber": 180,
+    "kickoff": "4:45 PM",
+    "venue": "STADIUM UPM, SERDANG",
+    "playerOfTheMatch": "ABDUL AFIQ HILMAN ABD HALIM (10) (IMIGRESEN FC II)",
+    "referee": "NOOR FARHAN HANIS BIN DAHALIN",
+    "homeTeam": "IMIGRESEN FC II",
+    "awayTeam": "SEOUL PHOENIX FC",
+    "homeScore": 7,
+    "awayScore": 1,
+    "htHome": 4,
+    "htAway": 1,
+    "goals": [
+      {
+        "team": "IMIGRESEN FC II",
+        "minute": 9,
+        "name": "ABDUL AFIQ HILMAN ABD HALIM",
+        "number": 10,
+        "type": "normal"
+      },
+      {
+        "team": "IMIGRESEN FC II",
+        "minute": 24,
+        "name": "ABDUL AFIQ HILMAN ABD HALIM",
+        "number": 9,
+        "type": "normal"
+      },
+      {
+        "team": "IMIGRESEN FC II",
+        "minute": 53,
+        "name": "MUHAMMAD FARISH DANIEL MOHD RAHIMA",
+        "number": 16,
+        "type": "normal"
+      },
+      {
+        "team": "IMIGRESEN FC II",
+        "minute": 75,
+        "name": "SEOUL PHOENIX FC",
+        "number": 90,
+        "type": "normal"
+      }
+    ],
+    "lineups": {
+      "home": [
+        {
+          "number": 6,
+          "name": "MOHD NASRIQ BIN BAHROM",
+          "captain": true
+        },
+        {
+          "number": 8,
+          "name": "SAIFUL RIDZUWAN SELAMAT"
+        },
+        {
+          "number": 9,
+          "name": "MOHAMMAD ALIF ROMLI"
+        },
+        {
+          "number": 10,
+          "name": "ABDUL AFIQ HILMAN ABD HALIM",
+          "subOut": 61
+        },
+        {
+          "number": 13,
+          "name": "MOHD FARHAN BIN ABU BAKAR",
+          "position": "GK"
+        },
+        {
+          "number": 14,
+          "name": "MUHAMMAD FARISH DANIEL MOHD RAHIMA",
+          "u22": true,
+          "subOut": 72
+        },
+        {
+          "number": 16,
+          "name": "FURQAN BIN AZRI"
+        },
+        {
+          "number": 17,
+          "name": "MUHAMMAD HAZIM BIN ABU ZAID",
+          "subOut": 61
+        },
+        {
+          "number": 43,
+          "name": "MOHD NAAIM FIRDAUS BIN STIBIN"
+        },
+        {
+          "number": 81,
+          "name": "MUHAMMAD ARIF ILHAM",
+          "u22": true,
+          "subOut": 61
+        },
+        {
+          "number": 91,
+          "name": "MOHD FAISAL MOHD ROSLI",
+          "subOut": 34
+        }
+      ],
+      "away": [
+        {
+          "number": 1,
+          "name": "VIKNESWARAN KRISNAN",
+          "position": "GK"
+        },
+        {
+          "number": 6,
+          "name": "YOUNGJU SONG",
+          "u22": true
+        },
+        {
+          "number": 9,
+          "name": "JISEOK YI",
+          "u22": true,
+          "subOut": 26
+        },
+        {
+          "number": 13,
+          "name": "SANGMUK OH",
+          "u22": true
+        },
+        {
+          "number": 24,
+          "name": "PRECIOUS CHIMEREUCHEYA ALLWELL"
+        },
+        {
+          "number": 28,
+          "name": "CHANWON HWANG",
+          "captain": true
+        },
+        {
+          "number": 33,
+          "name": "MUHAMMAD AFIF JAZIMIN BIN MOHD YUSOFF"
+        },
+        {
+          "number": 38,
+          "name": "DABIN YOON",
+          "u22": true
+        },
+        {
+          "number": 87,
+          "name": "IBRAHIM YAHAYA"
+        },
+        {
+          "number": 89,
+          "name": "A. MAHENDRAN",
+          "subOut": 53
+        },
+        {
+          "number": 90,
+          "name": "SEIDOU ISMAILA"
+        }
+      ]
+    },
+    "substitutes": {
+      "home": [
+        {
+          "number": 1,
+          "name": "MOHD IZARUL ADLI BIN MOHD NASIR",
+          "position": "GK"
+        },
+        {
+          "number": 2,
+          "name": "MOHAMAD AKIF AFIZI RAMZI",
+          "u22": true,
+          "subIn": 61
+        },
+        {
+          "number": 3,
+          "name": "MUHAMAD RAFIE BIN KAMARUZZAMAN"
+        },
+        {
+          "number": 15,
+          "name": "MICHAEL ARCHANGE ANY"
+        },
+        {
+          "number": 18,
+          "name": "CHE MOHAMAD SAFWAN HAZMAN CHE HASSAN",
+          "subIn": 72
+        },
+        {
+          "number": 21,
+          "name": "MOHD HAFIZ BIN KAMAL",
+          "subIn": 61,
+          "subNumber": 2
+        },
+        {
+          "number": 23,
+          "name": "MUHAMMAD HAZIQ RIDHWAN MOHD ROSLI",
+          "subIn": 34
+        },
+        {
+          "number": 73,
+          "name": "MUHAMMAD NAZWIN BIN MOHD SALLEH"
+        },
+        {
+          "number": 14,
+          "name": "MOHAMAD ASHRAF IQWAN ANUAR",
+          "u22": true,
+          "subIn": 26
+        },
+        {
+          "number": 25,
+          "name": "WOOJIN LIM"
+        },
+        {
+          "number": 26,
+          "name": "SEUNGMIN HAN",
+          "subIn": 53
+        },
+        {
+          "number": 29,
+          "name": "MUHAMMAD DANIAL ASHRAF BIN ABDULLAH"
+        },
+        {
+          "number": 31,
+          "name": "SUWAN KO",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 39,
+          "name": "MUHAMMAD AFIQ HAIKAL BIN SAMSUL BAHRIN",
+          "u22": true
+        }
+      ],
+      "away": [
+        {
+          "number": 14,
+          "name": "MOHAMAD ASHRAF IQWAN ANUAR",
+          "u22": true,
+          "subIn": 26
+        },
+        {
+          "number": 25,
+          "name": "WOOJIN LIM"
+        },
+        {
+          "number": 26,
+          "name": "SEUNGMIN HAN",
+          "subIn": 53
+        },
+        {
+          "number": 29,
+          "name": "MUHAMMAD DANIAL ASHRAF BIN ABDULLAH"
+        },
+        {
+          "number": 31,
+          "name": "SUWAN KO",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 39,
+          "name": "MUHAMMAD AFIQ HAIKAL BIN SAMSUL BAHRIN",
+          "u22": true
+        }
+      ]
+    },
+    "index": 23
+  },
+  {
+    "url": "https://cms.fam.org.my/resultdetail/czo0OiI4NzYwIjs%3D/W2025MA1",
+    "matchNumber": 190,
+    "kickoff": "4:45 PM",
+    "venue": "STADIUM MINI PERSADA PLUS",
+    "playerOfTheMatch": "ANTHONY ARTHUR (10) (KELANTAN WTS FC)",
+    "referee": "MURSYID BIN BAHAROM",
+    "homeTeam": "SEOUL PHOENIX FC",
+    "awayTeam": "KELANTAN WTS FC",
+    "homeScore": 0,
+    "awayScore": 4,
+    "htHome": 0,
+    "htAway": 2,
+    "goals": [
+      {
+        "team": "KELANTAN WTS FC",
+        "minute": 18,
+        "name": "MOHD NAZRIN BIN MOHD NAWI MOHD NAWI@MOHD DAUD",
+        "number": 20,
+        "type": "normal"
+      },
+      {
+        "team": "KELANTAN WTS FC",
+        "minute": 23,
+        "name": "EMMANUEL MOSINDO NGANZI",
+        "number": 42,
+        "type": "normal"
+      },
+      {
+        "team": "KELANTAN WTS FC",
+        "minute": 62,
+        "name": "MUHAMMAD AQIL HILMAN DANIAL ROSLAN",
+        "number": 46,
+        "type": "normal"
+      },
+      {
+        "team": "KELANTAN WTS FC",
+        "minute": 79,
+        "name": "MUHAMMAD NAZMI HAIKAL MOHD NADZIR",
+        "number": 77,
+        "type": "normal"
+      }
+    ],
+    "lineups": {
+      "home": [
+        {
+          "number": 1,
+          "name": "VIKNESWARAN KRISNAN",
+          "position": "GK"
+        },
+        {
+          "number": 6,
+          "name": "YOUNGJU SONG",
+          "u22": true,
+          "yellowCard": "26"
+        },
+        {
+          "number": 9,
+          "name": "JISEOK YI",
+          "u22": true,
+          "yellowCard": "53"
+        },
+        {
+          "number": 13,
+          "name": "SANGMUK OH",
+          "u22": true
+        },
+        {
+          "number": 24,
+          "name": "PRECIOUS CHIMEREUCHEYA ALLWELL"
+        },
+        {
+          "number": 28,
+          "name": "CHANWON HWANG",
+          "captain": true
+        },
+        {
+          "number": 33,
+          "name": "MUHAMMAD AFIF JAZIMIN BIN MOHD YUSOFF"
+        },
+        {
+          "number": 38,
+          "name": "DABIN YOON",
+          "yellowCard": "22"
+        },
+        {
+          "number": 39,
+          "name": "MUHAMMAD AFIQ HAIKAL BIN SAMSUL BAHRIN"
+        },
+        {
+          "number": 89,
+          "name": "A. MAHENDRAN",
+          "subOut": 79
+        },
+        {
+          "number": 90,
+          "name": "SEIDOU ISMAILA"
+        }
+      ],
+      "away": [
+        {
+          "number": 6,
+          "name": "DANDY ARBDALLAH"
+        },
+        {
+          "number": 10,
+          "name": "ANTHONY ARTHUR"
+        },
+        {
+          "number": 15,
+          "name": "MUHAMMAD HAIKAL MUSYRIF MOHD SAMRI"
+        },
+        {
+          "number": 19,
+          "name": "MOHAMAD IKHWAN YAZEK",
+          "subOut": 36
+        },
+        {
+          "number": 20,
+          "name": "MOHD NAZRIN BIN MOHD NAWI MOHD NAWI@MOHD DAUD",
+          "captain": true,
+          "subOut": 65
+        },
+        {
+          "number": 25,
+          "name": "MOHAMAD KHAIRUL RIZAM CHE SOH"
+        },
+        {
+          "number": 27,
+          "name": "WAN MUHAMMAD IRFAN WAN ZAINUDIN",
+          "u22": true,
+          "subOut": 72
+        },
+        {
+          "number": 29,
+          "name": "MUHAMAD SYAZWAN YUSOFF",
+          "position": "GK"
+        },
+        {
+          "number": 42,
+          "name": "EMMANUEL MOSINDO NGANZI"
+        },
+        {
+          "number": 46,
+          "name": "MUHAMMAD AQIL HILMAN DANIAL ROSLAN",
+          "yellowCard": "16",
+          "subOut": 72
+        },
+        {
+          "number": 55,
+          "name": "MUHAMMAD HAIQAL HAFIQ SABRI",
+          "u22": true
+        }
+      ]
+    },
+    "substitutes": {
+      "home": [
+        {
+          "number": 14,
+          "name": "MOHAMAD ASHRAF IQWAN ANUAR",
+          "u22": true,
+          "subIn": 79
+        },
+        {
+          "number": 25,
+          "name": "WOOJIN LIM"
+        },
+        {
+          "number": 26,
+          "name": "SEUNGMIN HAN"
+        },
+        {
+          "number": 29,
+          "name": "MUHAMMAD DANIAL ASHRAF BIN ABDULLAH"
+        },
+        {
+          "number": 31,
+          "name": "SUWAN KO",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 37,
+          "name": "MUHAMMAD YUSOF UMAR BIN NORAZMAN",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 3,
+          "name": "AHMAD NAZRI MUHAMAD"
+        },
+        {
+          "number": 12,
+          "name": "MUHAMMAD AIMAN YUSOFF"
+        },
+        {
+          "number": 16,
+          "name": "MOHAMAD SHAFIQ AL-HAFIZ DAWAWI",
+          "subIn": 72
+        },
+        {
+          "number": 21,
+          "name": "MUHD ADAM BASYIR YUSLI",
+          "u22": true,
+          "subIn": 72,
+          "subNumber": 1
+        },
+        {
+          "number": 30,
+          "name": "NIK MUHAMAD ATIQ NIK SOH",
+          "position": "GK"
+        },
+        {
+          "number": 33,
+          "name": "MUHAMMAD HAKIMI SAIFULLIZAN",
+          "subIn": 36,
+          "subNumber": 1
+        },
+        {
+          "number": 69,
+          "name": "AHMAD FIKRIE MOHD ZAID",
+          "u22": true
+        },
+        {
+          "number": 77,
+          "name": "MUHAMMAD NAZMI HAIKAL MOHD NADZIR",
+          "subIn": 65,
+          "subNumber": 1
+        },
+        {
+          "number": 87,
+          "name": "MOHAMAD IKHWAN MOHD HAFIZO",
+          "u22": true,
+          "subIn": 65
+        }
+      ],
+      "away": [
+        {
+          "number": 3,
+          "name": "AHMAD NAZRI MUHAMAD"
+        },
+        {
+          "number": 12,
+          "name": "MUHAMMAD AIMAN YUSOFF"
+        },
+        {
+          "number": 16,
+          "name": "MOHAMAD SHAFIQ AL-HAFIZ DAWAWI",
+          "subIn": 72
+        },
+        {
+          "number": 21,
+          "name": "MUHD ADAM BASYIR YUSLI",
+          "u22": true,
+          "subIn": 72,
+          "subNumber": 1
+        },
+        {
+          "number": 30,
+          "name": "NIK MUHAMAD ATIQ NIK SOH",
+          "position": "GK"
+        },
+        {
+          "number": 33,
+          "name": "MUHAMMAD HAKIMI SAIFULLIZAN",
+          "subIn": 36,
+          "subNumber": 1
+        },
+        {
+          "number": 69,
+          "name": "AHMAD FIKRIE MOHD ZAID",
+          "u22": true
+        },
+        {
+          "number": 77,
+          "name": "MUHAMMAD NAZMI HAIKAL MOHD NADZIR",
+          "subIn": 65,
+          "subNumber": 1
+        },
+        {
+          "number": 87,
+          "name": "MOHAMAD IKHWAN MOHD HAFIZO",
+          "u22": true,
+          "subIn": 65
+        }
+      ]
+    },
+    "index": 24
+  },
+  {
+    "url": "https://cms.fam.org.my/resultdetail/czo0OiI4NzczIjs%3D/W2025MA1",
+    "matchNumber": 199,
+    "kickoff": "4:45 PM",
+    "venue": "STADIUM UITM SHAH ALAM, SELANGOR",
+    "playerOfTheMatch": "ABDUL RAHMAN DAUD (9) (SELANGOR FC II)",
+    "referee": "ANSELM ANAK ENTERANG",
+    "homeTeam": "SELANGOR FC II",
+    "awayTeam": "SEOUL PHOENIX FC",
+    "homeScore": 5,
+    "awayScore": 0,
+    "htHome": 2,
+    "htAway": 0,
+    "goals": [
+      {
+        "team": "SELANGOR FC II",
+        "minute": 32,
+        "name": "MOHAMMAD HAYKAL DANISH MOHD HAIZON",
+        "number": 17,
+        "type": "normal"
+      },
+      {
+        "team": "SELANGOR FC II",
+        "minute": 67,
+        "name": "ABDUL RAHMAN DAUD",
+        "number": 9,
+        "type": "normal"
+      }
+    ],
+    "lineups": {
+      "home": [
+        {
+          "number": 6,
+          "name": "MUHAMMAD NAZWAN ABDULLAH",
+          "u22": true,
+          "subOut": 77
+        },
+        {
+          "number": 9,
+          "name": "ABDUL RAHMAN DAUD",
+          "u22": true
+        },
+        {
+          "number": 10,
+          "name": "MOHAMMAD HAYKAL DANISH MOHD HAIZON",
+          "u22": true
+        },
+        {
+          "number": 16,
+          "name": "MUHAMMAD DANISH ISKANDAR MARZIZUL",
+          "u22": true,
+          "subOut": 64
+        },
+        {
+          "number": 17,
+          "name": "MUHAMMAD FAKHRI AZRI KHAIRI ANUAR",
+          "u22": true
+        },
+        {
+          "number": 19,
+          "name": "RYAN HAMMAD  ZULRAFHAN",
+          "u22": true,
+          "subOut": 77
+        },
+        {
+          "number": 20,
+          "name": "MUHAMMAD AIMAN YUSUF MUHAMMAD NABIL",
+          "u22": true,
+          "yellowCard": "57",
+          "subOut": 85
+        },
+        {
+          "number": 26,
+          "name": "DANISH IRFAN EZAL",
+          "u22": true
+        },
+        {
+          "number": 29,
+          "name": "MUHAMMAD NUR ZHARIF  ZAINI",
+          "u22": true
+        },
+        {
+          "number": 33,
+          "name": "MUHAMMAD ABU KHALIL",
+          "captain": true,
+          "u22": true,
+          "subOut": 64
+        },
+        {
+          "number": 50,
+          "name": "MUHAMMAD FARISH FARHAN BIN MOHD ZALANI",
+          "position": "GK",
+          "u22": true
+        }
+      ],
+      "away": [
+        {
+          "number": 1,
+          "name": "VIKNESWARAN KRISNAN",
+          "position": "GK"
+        },
+        {
+          "number": 6,
+          "name": "YOUNGJU SONG",
+          "u22": true
+        },
+        {
+          "number": 9,
+          "name": "JISEOK YI",
+          "u22": true,
+          "subOut": 75
+        },
+        {
+          "number": 13,
+          "name": "SANGMUK OH",
+          "u22": true
+        },
+        {
+          "number": 14,
+          "name": "MOHAMAD ASHRAF IQWAN ANUAR",
+          "u22": true
+        },
+        {
+          "number": 24,
+          "name": "PRECIOUS CHIMEREUCHEYA ALLWELL",
+          "subOut": 55
+        },
+        {
+          "number": 28,
+          "name": "CHANWON HWANG",
+          "captain": true
+        },
+        {
+          "number": 33,
+          "name": "MUHAMMAD AFIF JAZIMIN BIN MOHD YUSOFF"
+        },
+        {
+          "number": 39,
+          "name": "MUHAMMAD AFIQ HAIKAL BIN SAMSUL BAHRIN",
+          "subOut": 16
+        },
+        {
+          "number": 89,
+          "name": "A. MAHENDRAN"
+        },
+        {
+          "number": 90,
+          "name": "SEIDOU ISMAILA"
+        }
+      ]
+    },
+    "substitutes": {
+      "home": [
+        {
+          "number": 1,
+          "name": "HAZRIQ HAQQIM  MOHD IZHAM",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 3,
+          "name": "MUHAMAD IRFAN ASWAD BIN ROSLAN",
+          "u22": true,
+          "subIn": 77,
+          "subNumber": 1
+        },
+        {
+          "number": 5,
+          "name": "MUHAMMAD AFIQ DANISH BIN HASNIRUDDIN",
+          "u22": true,
+          "subIn": 77
+        },
+        {
+          "number": 24,
+          "name": "MUHAMMAD AIMAN AMSYAR  SHA'ARI",
+          "u22": true
+        },
+        {
+          "number": 27,
+          "name": "MOHAMAD AMIR FARHAN MOHD FUZI",
+          "u22": true,
+          "subIn": 85
+        },
+        {
+          "number": 38,
+          "name": "IZZAT MUHD SYAHIR BIN MOHD ZULIHSAN",
+          "u22": true,
+          "subIn": 64
+        },
+        {
+          "number": 40,
+          "name": "AHMAD ARIZ ZUHAYR BIN NOR ZAIDI",
+          "u22": true
+        },
+        {
+          "number": 41,
+          "name": "AHMAD ZAMIL ZAQWAN BIN SAMSULKAMA",
+          "u22": true,
+          "subIn": 64,
+          "subNumber": 1
+        },
+        {
+          "number": 25,
+          "name": "WOOJIN LIM"
+        },
+        {
+          "number": 26,
+          "name": "SEUNGMIN HAN"
+        },
+        {
+          "number": 29,
+          "name": "MUHAMMAD DANIAL ASHRAF BIN ABDULLAH",
+          "subIn": 55
+        },
+        {
+          "number": 31,
+          "name": "SUWAN KO",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 37,
+          "name": "MUHAMMAD YUSOF UMAR BIN NORAZMAN",
+          "position": "GK",
+          "u22": true,
+          "subIn": 75
+        },
+        {
+          "number": 87,
+          "name": "IBRAHIM YAHAYA",
+          "u22": true,
+          "subIn": 16
+        }
+      ],
+      "away": [
+        {
+          "number": 25,
+          "name": "WOOJIN LIM"
+        },
+        {
+          "number": 26,
+          "name": "SEUNGMIN HAN"
+        },
+        {
+          "number": 29,
+          "name": "MUHAMMAD DANIAL ASHRAF BIN ABDULLAH",
+          "subIn": 55
+        },
+        {
+          "number": 31,
+          "name": "SUWAN KO",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 37,
+          "name": "MUHAMMAD YUSOF UMAR BIN NORAZMAN",
+          "position": "GK",
+          "u22": true,
+          "subIn": 75
+        },
+        {
+          "number": 87,
+          "name": "IBRAHIM YAHAYA",
+          "u22": true,
+          "subIn": 16
+        }
+      ]
+    },
+    "index": 25
+  },
+  {
+    "url": "https://cms.fam.org.my/resultdetail/czo0OiI4ODE1Ijs%3D/W2025MA1",
+    "matchNumber": 213,
+    "kickoff": "4:45 PM",
+    "venue": "STADIUM UM ARENA, KUALA LUMPUR",
+    "playerOfTheMatch": "SHAFIZI IQMAL MD KHIRUDIN (55) (UM-DAMANSARA UNITED)",
+    "referee": "JUBIK BIN ANDANGON",
+    "homeTeam": "SEOUL PHOENIX FC",
+    "awayTeam": "UM-DAMANSARA UNITED",
+    "homeScore": 1,
+    "awayScore": 8,
+    "htHome": 1,
+    "htAway": 3,
+    "goals": [
+      {
+        "team": "SEOUL PHOENIX FC",
+        "minute": 11,
+        "name": "UM-DAMANSARA UNITED",
+        "number": 55,
+        "type": "normal"
+      },
+      {
+        "team": "UM-DAMANSARA UNITED",
+        "minute": 37,
+        "name": "SHAFIZI IQMAL MD KHIRUDIN",
+        "number": 55,
+        "type": "normal"
+      },
+      {
+        "team": "UM-DAMANSARA UNITED",
+        "minute": 45,
+        "name": "SHAFIZI IQMAL MD KHIRUDIN",
+        "number": 55,
+        "type": "normal"
+      },
+      {
+        "team": "UM-DAMANSARA UNITED",
+        "minute": 61,
+        "name": "THANKGOD OGWUCHE MICHAEL",
+        "number": 57,
+        "type": "normal"
+      },
+      {
+        "team": "UM-DAMANSARA UNITED",
+        "minute": 64,
+        "name": "SHIVAN PILLAY ASOKAN",
+        "number": 2,
+        "type": "normal"
+      },
+      {
+        "team": "UM-DAMANSARA UNITED",
+        "minute": 72,
+        "name": "TAHA M KHALID",
+        "number": 7,
+        "type": "normal"
+      },
+      {
+        "team": "UM-DAMANSARA UNITED",
+        "minute": 81,
+        "name": "THANKGOD OGWUCHE MICHAEL",
+        "number": 57,
+        "type": "normal"
+      },
+      {
+        "team": "UM-DAMANSARA UNITED",
+        "minute": 90,
+        "name": "SAIFUL ISKANDAR ADHA SAIFUL AZLAN",
+        "number": 16,
+        "type": "normal"
+      }
+    ],
+    "lineups": {
+      "home": [
+        {
+          "number": 6,
+          "name": "YOUNGJU SONG",
+          "captain": true,
+          "u22": true
+        },
+        {
+          "number": 9,
+          "name": "JISEOK YI",
+          "u22": true
+        },
+        {
+          "number": 13,
+          "name": "SANGMUK OH",
+          "u22": true,
+          "subOut": 83
+        },
+        {
+          "number": 14,
+          "name": "MOHAMAD ASHRAF IQWAN ANUAR",
+          "u22": true
+        },
+        {
+          "number": 26,
+          "name": "SEUNGMIN HAN",
+          "subOut": 62
+        },
+        {
+          "number": 33,
+          "name": "MUHAMMAD AFIF JAZIMIN BIN MOHD YUSOFF"
+        },
+        {
+          "number": 37,
+          "name": "MUHAMMAD YUSOF UMAR BIN NORAZMAN",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 38,
+          "name": "DABIN YOON"
+        },
+        {
+          "number": 39,
+          "name": "MUHAMMAD AFIQ HAIKAL BIN SAMSUL BAHRIN",
+          "subOut": 62
+        },
+        {
+          "number": 87,
+          "name": "IBRAHIM YAHAYA"
+        },
+        {
+          "number": 90,
+          "name": "SEIDOU ISMAILA"
+        }
+      ],
+      "away": [
+        {
+          "number": 2,
+          "name": "SHIVAN PILLAY ASOKAN",
+          "captain": true,
+          "subOut": 77
+        },
+        {
+          "number": 3,
+          "name": "VICKIE OWEN MARINUS"
+        },
+        {
+          "number": 4,
+          "name": "MUHAMMAD GHAFFAR ABDUL RAHMAN"
+        },
+        {
+          "number": 6,
+          "name": "MUHAMMAD HARIZ MANSOR"
+        },
+        {
+          "number": 10,
+          "name": "WAN AHMAD KUZRI WAN AHMAD KAMAL"
+        },
+        {
+          "number": 11,
+          "name": "GIANNELLI SEAN GAN"
+        },
+        {
+          "number": 16,
+          "name": "SAIFUL ISKANDAR ADHA SAIFUL AZLAN"
+        },
+        {
+          "number": 26,
+          "name": "KHAIR MUHAMMAD JEFRI JONES",
+          "subOut": 71
+        },
+        {
+          "number": 30,
+          "name": "MUHAMAD HAZIQ MUKRIZ MOHAMED HASEMUDDIN",
+          "position": "GK"
+        },
+        {
+          "number": 55,
+          "name": "SHAFIZI IQMAL MD KHIRUDIN",
+          "subOut": 71
+        },
+        {
+          "number": 79,
+          "name": "VARGAS VALINOTTI NICOLAS",
+          "subOut": 60
+        }
+      ]
+    },
+    "substitutes": {
+      "home": [
+        {
+          "number": 1,
+          "name": "VIKNESWARAN KRISNAN",
+          "position": "GK"
+        },
+        {
+          "number": 24,
+          "name": "PRECIOUS CHIMEREUCHEYA ALLWELL",
+          "subIn": 83
+        },
+        {
+          "number": 25,
+          "name": "WOOJIN LIM"
+        },
+        {
+          "number": 27,
+          "name": "JEONGMIN YOON"
+        },
+        {
+          "number": 28,
+          "name": "CHANWON HWANG",
+          "subIn": 62
+        },
+        {
+          "number": 29,
+          "name": "MUHAMMAD DANIAL ASHRAF BIN ABDULLAH"
+        },
+        {
+          "number": 7,
+          "name": "TAHA M KHALID",
+          "subIn": 60
+        },
+        {
+          "number": 8,
+          "name": "BRANDON LIEW JUN YUEN",
+          "subIn": 71,
+          "subNumber": 1
+        },
+        {
+          "number": 9,
+          "name": "MUHAMMAD IZZUL AZMI"
+        },
+        {
+          "number": 19,
+          "name": "ZAINUL ARIFIN AHMAD LATIFI",
+          "subIn": 77
+        },
+        {
+          "number": 22,
+          "name": "MUHAMMAD HAZIQ FITRI NEK LAH",
+          "position": "GK"
+        },
+        {
+          "number": 33,
+          "name": "MUHAMMAD ISMAT IMRAN ZAINAL"
+        },
+        {
+          "number": 53,
+          "name": "MUHAMMAD ARIS MOHD ASRI",
+          "subIn": 71
+        },
+        {
+          "number": 57,
+          "name": "THANKGOD OGWUCHE MICHAEL"
+        },
+        {
+          "number": 93,
+          "name": "RAJA MUHAMMAD HAIKARL RAJA MOHD ZAHARI",
+          "u22": true
+        }
+      ],
+      "away": [
+        {
+          "number": 7,
+          "name": "TAHA M KHALID",
+          "subIn": 60
+        },
+        {
+          "number": 8,
+          "name": "BRANDON LIEW JUN YUEN",
+          "subIn": 71,
+          "subNumber": 1
+        },
+        {
+          "number": 9,
+          "name": "MUHAMMAD IZZUL AZMI"
+        },
+        {
+          "number": 19,
+          "name": "ZAINUL ARIFIN AHMAD LATIFI",
+          "subIn": 77
+        },
+        {
+          "number": 22,
+          "name": "MUHAMMAD HAZIQ FITRI NEK LAH",
+          "position": "GK"
+        },
+        {
+          "number": 33,
+          "name": "MUHAMMAD ISMAT IMRAN ZAINAL"
+        },
+        {
+          "number": 53,
+          "name": "MUHAMMAD ARIS MOHD ASRI",
+          "subIn": 71
+        },
+        {
+          "number": 57,
+          "name": "THANKGOD OGWUCHE MICHAEL"
+        },
+        {
+          "number": 93,
+          "name": "RAJA MUHAMMAD HAIKARL RAJA MOHD ZAHARI",
+          "u22": true
+        }
+      ]
+    },
+    "index": 26
+  },
+  {
+    "url": "https://cms.fam.org.my/resultdetail/czo0OiI4ODUwIjs%3D/W2025MA1",
+    "matchNumber": 218,
+    "kickoff": "4:45 PM",
+    "venue": "KOMPLEKS BOLA SEPAK PERAK, CHEPOR",
+    "playerOfTheMatch": "KAMAL ARIF AZRAI SHAKIMAR (21) (PERAK FA)",
+    "referee": "KHAIRUL AMIN ROMLI",
+    "homeTeam": "PERAK FA",
+    "awayTeam": "SEOUL PHOENIX FC",
+    "homeScore": 2,
+    "awayScore": 0,
+    "htHome": 0,
+    "htAway": 0,
+    "goals": [],
+    "lineups": {
+      "home": [
+        {
+          "number": 2,
+          "name": "MUHAMMAD FADHIL MOHAMMAD AZMI",
+          "yellowCard": "71"
+        },
+        {
+          "number": 4,
+          "name": "MUHAMMAD FADHIL IDRIS"
+        },
+        {
+          "number": 8,
+          "name": "AHMAD DANISH HAIKAL ABDULLAH",
+          "u22": true
+        },
+        {
+          "number": 9,
+          "name": "AHMAD DANIEL HAKIMI AHMAD AZMIL",
+          "u22": true,
+          "subOut": 76
+        },
+        {
+          "number": 19,
+          "name": "MOHAMAD HAZIQ DANISH MOHD HAFIDZ",
+          "u22": true
+        },
+        {
+          "number": 21,
+          "name": "KAMAL ARIF AZRAI SHAKIMAR",
+          "captain": true
+        },
+        {
+          "number": 22,
+          "name": "AHMAD SYAZWAN SYAZANY AHMAD SHAFEI",
+          "position": "GK"
+        },
+        {
+          "number": 24,
+          "name": "MUHAMMAD NASROL AMRI KAMARUL AZHAR"
+        },
+        {
+          "number": 26,
+          "name": "MOHAMAD AMIRUL AIMAN BIN MOHD NASARUDDIN"
+        },
+        {
+          "number": 30,
+          "name": "EKENE VICTOR EMEWULU",
+          "subOut": 61
+        },
+        {
+          "number": 57,
+          "name": "MUHAMMAD HAZIM BIN JAMAL HISAM",
+          "u22": true,
+          "yellowCard": "25"
+        }
+      ],
+      "away": [
+        {
+          "number": 1,
+          "name": "VIKNESWARAN KRISNAN",
+          "position": "GK"
+        },
+        {
+          "number": 6,
+          "name": "YOUNGJU SONG",
+          "captain": true,
+          "u22": true
+        },
+        {
+          "number": 9,
+          "name": "JISEOK YI",
+          "u22": true,
+          "yellowCard": "31"
+        },
+        {
+          "number": 13,
+          "name": "SANGMUK OH",
+          "u22": true
+        },
+        {
+          "number": 14,
+          "name": "MOHAMAD ASHRAF IQWAN ANUAR",
+          "u22": true
+        },
+        {
+          "number": 26,
+          "name": "SEUNGMIN HAN"
+        },
+        {
+          "number": 28,
+          "name": "CHANWON HWANG"
+        },
+        {
+          "number": 33,
+          "name": "MUHAMMAD AFIF JAZIMIN BIN MOHD YUSOFF"
+        },
+        {
+          "number": 39,
+          "name": "MUHAMMAD AFIQ HAIKAL BIN SAMSUL BAHRIN"
+        },
+        {
+          "number": 87,
+          "name": "IBRAHIM YAHAYA",
+          "yellowCard": "49"
+        },
+        {
+          "number": 90,
+          "name": "SEIDOU ISMAILA",
+          "yellowCard": "43"
+        }
+      ]
+    },
+    "substitutes": {
+      "home": [
+        {
+          "number": 1,
+          "name": "AHMAD FARIHIN HAZIMI SAIFULNIZAM",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 6,
+          "name": "AKMAL HAZIM ISMAIL"
+        },
+        {
+          "number": 10,
+          "name": "MUHAMAD ALIF ZIKRI ZAINI ANUAR",
+          "subNumber": 1
+        },
+        {
+          "number": 11,
+          "name": "MUHAMMAD AMIRUL AKMAL BIN SAFARINIZAM",
+          "subIn": 76
+        },
+        {
+          "number": 13,
+          "name": "MUHAMMAD AMIRUL FIKRI ABDULLAH"
+        },
+        {
+          "number": 16,
+          "name": "HAFIZY DANIEL MOHAMAD TERMIZI"
+        },
+        {
+          "number": 17,
+          "name": "MUHAMAD AFIFIN ARFA FAKHRI",
+          "u22": true,
+          "subIn": 61
+        },
+        {
+          "number": 88,
+          "name": "WAN ZACK HAIKAL BIN WAN NOR",
+          "subNumber": 2
+        },
+        {
+          "number": 27,
+          "name": "JEONGMIN YOON"
+        },
+        {
+          "number": 31,
+          "name": "SUWAN KO",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 37,
+          "name": "MUHAMMAD YUSOF UMAR BIN NORAZMAN",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 89,
+          "name": "A. MAHENDRAN",
+          "u22": true
+        }
+      ],
+      "away": [
+        {
+          "number": 27,
+          "name": "JEONGMIN YOON"
+        },
+        {
+          "number": 31,
+          "name": "SUWAN KO",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 37,
+          "name": "MUHAMMAD YUSOF UMAR BIN NORAZMAN",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 89,
+          "name": "A. MAHENDRAN",
+          "u22": true
+        }
+      ]
+    },
+    "index": 27
+  },
+  {
+    "url": "https://cms.fam.org.my/resultdetail/czo0OiI4ODgyIjs%3D/W2025MA1",
+    "matchNumber": 231,
+    "kickoff": "4:45 PM",
+    "venue": "STADIUM MINI PERSADA PLUS",
+    "playerOfTheMatch": "WOOJIN LIM (25) (SEOUL PHOENIX FC)",
+    "referee": "JUBIK BIN ANDANGON",
+    "homeTeam": "SEOUL PHOENIX FC",
+    "awayTeam": "PERLIS GSA FC",
+    "homeScore": 3,
+    "awayScore": 1,
+    "htHome": 1,
+    "htAway": 1,
+    "goals": [
+      {
+        "team": "SEOUL PHOENIX FC",
+        "minute": 45,
+        "name": "IBRAHIM YAHAYA",
+        "number": 90,
+        "type": "normal"
+      },
+      {
+        "team": "SEOUL PHOENIX FC",
+        "minute": 89,
+        "name": "PERLIS GSA FC",
+        "number": 24,
+        "type": "normal"
+      }
+    ],
+    "lineups": {
+      "home": [
+        {
+          "number": 1,
+          "name": "VIKNESWARAN KRISNAN",
+          "position": "GK"
+        },
+        {
+          "number": 6,
+          "name": "YOUNGJU SONG",
+          "captain": true,
+          "u22": true,
+          "yellowCard": "86",
+          "subOut": 88
+        },
+        {
+          "number": 13,
+          "name": "SANGMUK OH",
+          "u22": true
+        },
+        {
+          "number": 14,
+          "name": "MOHAMAD ASHRAF IQWAN ANUAR",
+          "u22": true
+        },
+        {
+          "number": 26,
+          "name": "SEUNGMIN HAN",
+          "subOut": 45
+        },
+        {
+          "number": 27,
+          "name": "JEONGMIN YOON",
+          "subOut": 45
+        },
+        {
+          "number": 28,
+          "name": "CHANWON HWANG"
+        },
+        {
+          "number": 33,
+          "name": "MUHAMMAD AFIF JAZIMIN BIN MOHD YUSOFF"
+        },
+        {
+          "number": 38,
+          "name": "DABIN YOON",
+          "yellowCard": "23",
+          "subOut": 69
+        },
+        {
+          "number": 39,
+          "name": "MUHAMMAD AFIQ HAIKAL BIN SAMSUL BAHRIN"
+        },
+        {
+          "number": 90,
+          "name": "SEIDOU ISMAILA"
+        }
+      ],
+      "away": [
+        {
+          "number": 2,
+          "name": "MOHAMMAD DANIEL HAIQAL BIN MOHD TAJUDDIN",
+          "u22": true
+        },
+        {
+          "number": 5,
+          "name": "MOHAMAD HAFIZ BIN ABDUL KARIM"
+        },
+        {
+          "number": 7,
+          "name": "AZANNIS ADZRI ABDUL HALIM"
+        },
+        {
+          "number": 8,
+          "name": "MUHAMMAD NASRI BIN AHMAD THAUHID"
+        },
+        {
+          "number": 14,
+          "name": "MUHAMMAD HAZWAN BIN HASSAN"
+        },
+        {
+          "number": 19,
+          "name": "NASHRUL SHAZRIN BIN ROSLAN"
+        },
+        {
+          "number": 22,
+          "name": "KAMARUL HILMI BIN ADENAN",
+          "position": "GK"
+        },
+        {
+          "number": 24,
+          "name": "MUHAMMAD HAFIZI BIN MAT PODZI",
+          "subOut": 54
+        },
+        {
+          "number": 25,
+          "name": "MOHAMMAD HAZIQ MU'IZ BIN ABDUL",
+          "captain": true
+        },
+        {
+          "number": 26,
+          "name": "HAZRIL BALQIEZ BIN MOHAMMAD ZULHADI",
+          "u22": true
+        },
+        {
+          "number": 80,
+          "name": "MOHAMAD SHUKOR BIN AZMI",
+          "subOut": 79
+        }
+      ]
+    },
+    "substitutes": {
+      "home": [
+        {
+          "number": 9,
+          "name": "JISEOK YI",
+          "u22": true,
+          "subIn": 69
+        },
+        {
+          "number": 24,
+          "name": "PRECIOUS CHIMEREUCHEYA ALLWELL"
+        },
+        {
+          "number": 25,
+          "name": "WOOJIN LIM",
+          "subIn": 88
+        },
+        {
+          "number": 31,
+          "name": "SUWAN KO",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 32,
+          "name": "SOMYEONG YUN",
+          "subIn": 45,
+          "subNumber": 1
+        },
+        {
+          "number": 37,
+          "name": "MUHAMMAD YUSOF UMAR BIN NORAZMAN",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 87,
+          "name": "IBRAHIM YAHAYA",
+          "subIn": 45
+        },
+        {
+          "number": 12,
+          "name": "YUSMAL DANIEL HAKIM BIN YUSOFF",
+          "subIn": 79
+        },
+        {
+          "number": 16,
+          "name": "MUHAMMAD FIRDAUS BIN MUHAMAD KAIRONNISAM SAHABUDIN",
+          "subIn": 54
+        },
+        {
+          "number": 23,
+          "name": "MUHAMMAD HAIKAL FITRI ZOLKIFLEE",
+          "position": "GK",
+          "u22": true
+        }
+      ],
+      "away": [
+        {
+          "number": 12,
+          "name": "YUSMAL DANIEL HAKIM BIN YUSOFF",
+          "subIn": 79
+        },
+        {
+          "number": 16,
+          "name": "MUHAMMAD FIRDAUS BIN MUHAMAD KAIRONNISAM SAHABUDIN",
+          "subIn": 54
+        },
+        {
+          "number": 23,
+          "name": "MUHAMMAD HAIKAL FITRI ZOLKIFLEE",
+          "position": "GK",
+          "u22": true
+        }
+      ]
+    },
+    "index": 28
+  },
+  {
+    "url": "https://cms.fam.org.my/resultdetail/czo0OiI4OTE5Ijs%3D/W2025MA1",
+    "matchNumber": 235,
+    "kickoff": "8:45 PM",
+    "venue": "STADIUM DARUL AMAN, ALOR SETAR",
+    "playerOfTheMatch": "BARATHKUMAR A/L RAMALOO (12) (KEDAH FA)",
+    "referee": "MOHAMAD IZZAT IZAINI ALI",
+    "homeTeam": "KEDAH FA",
+    "awayTeam": "SEOUL PHOENIX FC",
+    "homeScore": 3,
+    "awayScore": 0,
+    "htHome": 2,
+    "htAway": 0,
+    "goals": [
+      {
+        "team": "KEDAH FA",
+        "minute": 22,
+        "name": "BARATHKUMAR A/L RAMALOO",
+        "number": 12,
+        "type": "normal"
+      }
+    ],
+    "lineups": {
+      "home": [
+        {
+          "number": 7,
+          "name": "MUHAMMAD ZHAFIR BIN MOHD YUSOFF",
+          "subOut": 68
+        },
+        {
+          "number": 12,
+          "name": "BARATHKUMAR A/L RAMALOO"
+        },
+        {
+          "number": 13,
+          "name": "MUHAMAD AIMAN FARHAN BIN MUHAMAD FAUZI"
+        },
+        {
+          "number": 16,
+          "name": "RAJENDRAN VELOO",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 19,
+          "name": "MOHD AIMAN AFIF BIN MD AFIZUL",
+          "subOut": 76
+        },
+        {
+          "number": 22,
+          "name": "MOHAMMAD RAHMAT MAKASUF"
+        },
+        {
+          "number": 23,
+          "name": "JASMIR BIN MEHAT",
+          "subOut": 76
+        },
+        {
+          "number": 32,
+          "name": "MUHAMMAD AQIL IRFANUDDIN BIN MOHD SABRI"
+        },
+        {
+          "number": 44,
+          "name": "PAPE ABDOULAYE DIAKITE",
+          "captain": true
+        },
+        {
+          "number": 66,
+          "name": "MUHAMAD KAMIL AKMAL BIN ABD HALIM",
+          "subOut": 78
+        },
+        {
+          "number": 90,
+          "name": "NNABUIKE CHIJIOKE CHUKWU",
+          "subOut": 68
+        }
+      ],
+      "away": [
+        {
+          "number": 1,
+          "name": "VIKNESWARAN KRISNAN",
+          "position": "GK"
+        },
+        {
+          "number": 6,
+          "name": "YOUNGJU SONG",
+          "captain": true,
+          "u22": true
+        },
+        {
+          "number": 13,
+          "name": "SANGMUK OH",
+          "u22": true
+        },
+        {
+          "number": 14,
+          "name": "MOHAMAD ASHRAF IQWAN ANUAR",
+          "u22": true,
+          "yellowCard": "38"
+        },
+        {
+          "number": 26,
+          "name": "SEUNGMIN HAN",
+          "subOut": 54
+        },
+        {
+          "number": 28,
+          "name": "CHANWON HWANG",
+          "subOut": 54
+        },
+        {
+          "number": 33,
+          "name": "MUHAMMAD AFIF JAZIMIN BIN MOHD YUSOFF"
+        },
+        {
+          "number": 38,
+          "name": "DABIN YOON",
+          "yellowCard": "87"
+        },
+        {
+          "number": 39,
+          "name": "MUHAMMAD AFIQ HAIKAL BIN SAMSUL BAHRIN"
+        },
+        {
+          "number": 87,
+          "name": "IBRAHIM YAHAYA"
+        },
+        {
+          "number": 89,
+          "name": "A. MAHENDRAN",
+          "subOut": 77
+        }
+      ]
+    },
+    "substitutes": {
+      "home": [
+        {
+          "number": 1,
+          "name": "MUHAMAD NORFAHMI BIN MUHAMAD ZAKI",
+          "position": "GK",
+          "u22": true
+        },
+        {
+          "number": 2,
+          "name": "MUHAMMAD SAFWAN SHUHAIMI",
+          "u22": true,
+          "subIn": 78
+        },
+        {
+          "number": 4,
+          "name": "ASNAN AHMAD",
+          "subIn": 68
+        },
+        {
+          "number": 18,
+          "name": "MUHAMMAD AKMAL HAKIM ROSLI",
+          "u22": true
+        },
+        {
+          "number": 20,
+          "name": "MUHAMMAD AMMAR MUHAMAD SHUKRI",
+          "u22": true
+        },
+        {
+          "number": 29,
+          "name": "MOHAMMAD AFEEQ IQMAL BIN ROSLI",
+          "subIn": 76
+        },
+        {
+          "number": 30,
+          "name": "MOHAMAD NABIL BIN AHMAD LATPI",
+          "subIn": 68,
+          "subNumber": 1
+        },
+        {
+          "number": 31,
+          "name": "SASVINTHARAN A/L THAMILVANAM",
+          "subIn": 76,
+          "subNumber": 1
+        },
+        {
+          "number": 9,
+          "name": "JISEOK YI",
+          "u22": true,
+          "subIn": 54
+        },
+        {
+          "number": 24,
+          "name": "PRECIOUS CHIMEREUCHEYA ALLWELL"
+        },
+        {
+          "number": 25,
+          "name": "WOOJIN LIM",
+          "subIn": 54,
+          "subNumber": 1
+        },
+        {
+          "number": 27,
+          "name": "JEONGMIN YOON"
+        },
+        {
+          "number": 37,
+          "name": "MUHAMMAD YUSOF UMAR BIN NORAZMAN",
+          "position": "GK",
+          "u22": true,
+          "subIn": 77
+        },
+        {
+          "number": 90,
+          "name": "SEIDOU ISMAILA",
+          "u22": true
+        }
+      ],
+      "away": [
+        {
+          "number": 9,
+          "name": "JISEOK YI",
+          "u22": true,
+          "subIn": 54
+        },
+        {
+          "number": 24,
+          "name": "PRECIOUS CHIMEREUCHEYA ALLWELL"
+        },
+        {
+          "number": 25,
+          "name": "WOOJIN LIM",
+          "subIn": 54,
+          "subNumber": 1
+        },
+        {
+          "number": 27,
+          "name": "JEONGMIN YOON"
+        },
+        {
+          "number": 37,
+          "name": "MUHAMMAD YUSOF UMAR BIN NORAZMAN",
+          "position": "GK",
+          "u22": true,
+          "subIn": 77
+        },
+        {
+          "number": 90,
+          "name": "SEIDOU ISMAILA",
+          "u22": true
+        }
+      ]
+    },
+    "index": 29
+  }
+]

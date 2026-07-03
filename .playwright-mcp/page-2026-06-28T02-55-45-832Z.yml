@@ -1,0 +1,387 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - link "서울피닉스 FC 로고 서울피닉스Seoul Phoenix FC" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img "서울피닉스 FC 로고" [ref=e7]
+          - generic [ref=e8]: 서울피닉스Seoul Phoenix FC
+        - generic [ref=e9]:
+          - img "K·국제클럽축구연맹" [ref=e11]
+          - generic [ref=e12]:
+            - text: K·국제클럽
+            - text: 축구연맹
+      - navigation [ref=e13]:
+        - link "홈" [ref=e14] [cursor=pointer]:
+          - /url: /
+        - link "클럽 소개" [ref=e15] [cursor=pointer]:
+          - /url: /about/
+        - link "뉴스" [ref=e16] [cursor=pointer]:
+          - /url: /news/
+        - link "선수단" [ref=e17] [cursor=pointer]:
+          - /url: /squad/
+        - link "경기 일정" [ref=e18] [cursor=pointer]:
+          - /url: /schedule/
+        - link "갤러리" [ref=e19] [cursor=pointer]:
+          - /url: /gallery/
+        - link "연락처" [ref=e20] [cursor=pointer]:
+          - /url: /contact/
+      - button "메뉴 열기" [ref=e21]
+    - navigation [ref=e23]:
+      - link "홈" [ref=e24] [cursor=pointer]:
+        - /url: /
+      - link "클럽 소개" [ref=e25] [cursor=pointer]:
+        - /url: /about/
+      - link "뉴스" [ref=e26] [cursor=pointer]:
+        - /url: /news/
+      - link "선수단" [ref=e27] [cursor=pointer]:
+        - /url: /squad/
+      - link "경기 일정" [ref=e28] [cursor=pointer]:
+        - /url: /schedule/
+      - link "갤러리" [ref=e29] [cursor=pointer]:
+        - /url: /gallery/
+      - link "연락처" [ref=e30] [cursor=pointer]:
+        - /url: /contact/
+  - main [ref=e31]:
+    - generic [ref=e32]:
+      - generic [ref=e34]:
+        - heading "뉴스" [level=1] [ref=e35]
+        - paragraph [ref=e36]: 국내외 축구 소식을 전합니다
+      - generic [ref=e39]:
+        - button "전체" [ref=e40]
+        - button "클럽 소식" [ref=e41]
+        - button "한국 축구" [ref=e42]
+        - button "말레이시아 축구" [ref=e43]
+        - button "인터뷰" [ref=e44]
+      - generic [ref=e46]:
+        - generic [ref=e48]:
+          - img [ref=e49]
+          - textbox "기사 검색..." [ref=e51]
+        - generic [ref=e52]:
+          - 'link "클럽 소식2026.05.23 서울피닉스, Kedah FA에 0-3 석패… 첫 A1 리그 시즌 마무리 서울피닉스 FC가 2025-26시즌 A1 Semi-Pro League 최종전에서 Kedah FA에 0-3으로 패배하며 첫 해외 진출 시즌을 마무리했다. 이날 경기에서 서울피닉스는 전반에만 2골을 허용하며 어려운 경기를 펼쳤다. 후반에도 추가 실점을 막지 못하며 결국 3점 차 패배를 기록했다. RedScores 통계에 따르면 서울피닉스는 시즌 총 25경기에서 3승 4무 18패를 기록했으며, 리그 19개 팀 중 13위로 첫 시즌을 마감했다. 시즌 평균 득점은 0.7골, 평균 실점은 3.5골을 기록했다. 비록 성적은 기대에 미치지 못했지만, 한국 축구단으로는 최초로 말레이시아 리그 시스템에 진출한 의미 있는 도전이었다는 평가다. 구단은 시즌 종료 후 전력 분석을 통해 차기 시즌을 준비할 계획이다. [출처: RedScores / Global Sports Archive] 서울피닉스 미디어자세히 보기" [ref=e53] [cursor=pointer]':
+            - /url: /news/1/
+            - generic [ref=e55]:
+              - img [ref=e57]
+              - generic [ref=e59]:
+                - generic [ref=e60]: 클럽 소식2026.05.23
+                - heading "서울피닉스, Kedah FA에 0-3 석패… 첫 A1 리그 시즌 마무리" [level=2] [ref=e61]
+                - paragraph [ref=e62]: "서울피닉스 FC가 2025-26시즌 A1 Semi-Pro League 최종전에서 Kedah FA에 0-3으로 패배하며 첫 해외 진출 시즌을 마무리했다. 이날 경기에서 서울피닉스는 전반에만 2골을 허용하며 어려운 경기를 펼쳤다. 후반에도 추가 실점을 막지 못하며 결국 3점 차 패배를 기록했다. RedScores 통계에 따르면 서울피닉스는 시즌 총 25경기에서 3승 4무 18패를 기록했으며, 리그 19개 팀 중 13위로 첫 시즌을 마감했다. 시즌 평균 득점은 0.7골, 평균 실점은 3.5골을 기록했다. 비록 성적은 기대에 미치지 못했지만, 한국 축구단으로는 최초로 말레이시아 리그 시스템에 진출한 의미 있는 도전이었다는 평가다. 구단은 시즌 종료 후 전력 분석을 통해 차기 시즌을 준비할 계획이다. [출처: RedScores / Global Sports Archive]"
+                - generic [ref=e63]:
+                  - text: 서울피닉스 미디어
+                  - generic [ref=e64]:
+                    - text: 자세히 보기
+                    - img [ref=e65]
+          - 'link "인터뷰2026.02.15 손진영 구단주, \"한-말레이시아 축구 교류 확대할 것\" 서울피닉스 손진영 구단주가 한국과 말레이시아 축구 발전을 위한 비전과 향후 계획을 발표했습니다. 손 구단주는 \"서울피닉스는 단순한 축구 클럽을 넘어 한국과 말레이시아를 연결하는 스포츠 문화 교류의 플랫폼이 되고자 합니다\"라고 밝혔습니다. 그는 \"한국 선수들에게는 해외 리그에서 경쟁할 기회를, 말레이시아 선수들에게는 한국식 체계적인 훈련 시스템을 경험할 기회를 제공하는 것이 우리의 목표\"라고 강조했습니다. 또한 \"향후 한국과 말레이시아 클럽 간의 친선 경기, 유소년 교류 프로그램, 코칭 세미나 등 다양한 교류 사업을 추진할 계획\"이라고 덧붙였습니다. [참고: 위키피디아 / 스포츠조선] 서울피닉스 미디어자세히 보기" [ref=e67] [cursor=pointer]':
+            - /url: /news/2/
+            - generic [ref=e69]:
+              - img [ref=e71]
+              - generic [ref=e73]:
+                - generic [ref=e74]: 인터뷰2026.02.15
+                - heading "손진영 구단주, \"한-말레이시아 축구 교류 확대할 것\"" [level=2] [ref=e75]
+                - paragraph [ref=e76]: "서울피닉스 손진영 구단주가 한국과 말레이시아 축구 발전을 위한 비전과 향후 계획을 발표했습니다. 손 구단주는 \"서울피닉스는 단순한 축구 클럽을 넘어 한국과 말레이시아를 연결하는 스포츠 문화 교류의 플랫폼이 되고자 합니다\"라고 밝혔습니다. 그는 \"한국 선수들에게는 해외 리그에서 경쟁할 기회를, 말레이시아 선수들에게는 한국식 체계적인 훈련 시스템을 경험할 기회를 제공하는 것이 우리의 목표\"라고 강조했습니다. 또한 \"향후 한국과 말레이시아 클럽 간의 친선 경기, 유소년 교류 프로그램, 코칭 세미나 등 다양한 교류 사업을 추진할 계획\"이라고 덧붙였습니다. [참고: 위키피디아 / 스포츠조선]"
+                - generic [ref=e77]:
+                  - text: 서울피닉스 미디어
+                  - generic [ref=e78]:
+                    - text: 자세히 보기
+                    - img [ref=e79]
+          - 'link "클럽 소식2026.01.06 서울피닉스, Kota Kemuning City FC와의 친선전서 2-0 승리 서울피닉스가 2026년 새해 첫 친선 토너먼트에서 Kota Kemuning City FC를 2-0으로 격파했습니다. 이날 승리는 위키피디아에 공식 기록으로 등재될 정도로 의미 있는 성과로 기록됐다. 새로 영입된 선수들의 호흡이 인상적인 경기였으며, 팀의 조직력이 한층 업그레이드되었음을 보여주었습니다. 전반 15분과 후반 30분에 터진 골은 각각 세트피스와 역습 상황에서 나와 팀의 다양한 공격 옵션을 입증했습니다. 이번 친선 토너먼트는 말레이시아 현지 팀들과의 실전 경험을 쌓기 위해 마련되었으며, 서울피닉스는 이날 승리를 통해 팀 전력에 대한 자신감을 얻었습니다. [출처: Wikipedia - Seoul Phoenix FC] 서울피닉스 미디어자세히 보기" [ref=e81] [cursor=pointer]':
+            - /url: /news/3/
+            - generic [ref=e83]:
+              - img [ref=e85]
+              - generic [ref=e87]:
+                - generic [ref=e88]: 클럽 소식2026.01.06
+                - heading "서울피닉스, Kota Kemuning City FC와의 친선전서 2-0 승리" [level=2] [ref=e89]
+                - paragraph [ref=e90]: "서울피닉스가 2026년 새해 첫 친선 토너먼트에서 Kota Kemuning City FC를 2-0으로 격파했습니다. 이날 승리는 위키피디아에 공식 기록으로 등재될 정도로 의미 있는 성과로 기록됐다. 새로 영입된 선수들의 호흡이 인상적인 경기였으며, 팀의 조직력이 한층 업그레이드되었음을 보여주었습니다. 전반 15분과 후반 30분에 터진 골은 각각 세트피스와 역습 상황에서 나와 팀의 다양한 공격 옵션을 입증했습니다. 이번 친선 토너먼트는 말레이시아 현지 팀들과의 실전 경험을 쌓기 위해 마련되었으며, 서울피닉스는 이날 승리를 통해 팀 전력에 대한 자신감을 얻었습니다. [출처: Wikipedia - Seoul Phoenix FC]"
+                - generic [ref=e91]:
+                  - text: 서울피닉스 미디어
+                  - generic [ref=e92]:
+                    - text: 자세히 보기
+                    - img [ref=e93]
+          - 'link "말레이시아 축구2025.12.14 셀랑고르 II, 서울피닉스에 5-0 대승… 리그 선두 질주 A1 Semi-Pro League 선두를 달리는 Selangor FC II가 서울피닉스 FC를 상대로 5-0 대승을 거두며 리그 지배력을 재확인했다. 셀랑고르 II는 전반부터 압도적인 경기력을 선보이며 여러 차례 득점 기회를 만들었고, 후반에도 추가 골을 터뜨리며 완승을 거뒀다. 이 승리로 셀랑고르 II는 리그 선두 자리를 굳건히 지켰다. 서울피닉스로서는 시즌 중반 들어 리그 상위 팀들의 강한 압박에 어려움을 겪는 모양새다. 이상진 감독은 \"우리는 아직 배워가는 과정이다. 매 경기가 중요한 경험이 되고 있다\"고 밝혔다. [출처: Sporty / FootballTransfers] Sporty자세히 보기" [ref=e95] [cursor=pointer]':
+            - /url: /news/4/
+            - generic [ref=e97]:
+              - img [ref=e99]
+              - generic [ref=e101]:
+                - generic [ref=e102]: 말레이시아 축구2025.12.14
+                - heading "셀랑고르 II, 서울피닉스에 5-0 대승… 리그 선두 질주" [level=2] [ref=e103]
+                - paragraph [ref=e104]: "A1 Semi-Pro League 선두를 달리는 Selangor FC II가 서울피닉스 FC를 상대로 5-0 대승을 거두며 리그 지배력을 재확인했다. 셀랑고르 II는 전반부터 압도적인 경기력을 선보이며 여러 차례 득점 기회를 만들었고, 후반에도 추가 골을 터뜨리며 완승을 거뒀다. 이 승리로 셀랑고르 II는 리그 선두 자리를 굳건히 지켰다. 서울피닉스로서는 시즌 중반 들어 리그 상위 팀들의 강한 압박에 어려움을 겪는 모양새다. 이상진 감독은 \"우리는 아직 배워가는 과정이다. 매 경기가 중요한 경험이 되고 있다\"고 밝혔다. [출처: Sporty / FootballTransfers]"
+                - generic [ref=e105]:
+                  - text: Sporty
+                  - generic [ref=e106]:
+                    - text: 자세히 보기
+                    - img [ref=e107]
+          - 'link "말레이시아 축구2025.10.06 Bunga Raya FC, 서울피닉스에 2-0 승리… 홈 강세 입증 Bunga Raya FC가 10월 6일 Stadium Tampin, Negeri Sembilan에서 열린 A1 Semi-Pro League 경기에서 서울피닉스 FC를 2-0으로 물리쳤다. Bunga Raya는 전반부터 빠른 템포의 경기 운영으로 서울피닉스를 압박했고, 전반 중반 선제골에 이어 후반 추가골을 터뜨리며 승부를 결정지었다. 서울피닉스는 이날 경기에서도 결정력 부족을 드러내며 유효슈팅 기회를 살리지 못했다. 이상진 감독은 경기 후 \"상대의 홈 분위기에 위축된 면이 있었다. 앞으로 원정 경기 대비를 더 철저히 하겠다\"고 밝혔다. 이 경기는 AFL(Amateur Football League) 공식 홈페이지에 서울피닉스의 공식 일정으로 등록되어 있다. [출처: AFL (Amateur Football League)] AFL 미디어자세히 보기" [ref=e109] [cursor=pointer]':
+            - /url: /news/5/
+            - generic [ref=e111]:
+              - img [ref=e113]
+              - generic [ref=e115]:
+                - generic [ref=e116]: 말레이시아 축구2025.10.06
+                - heading "Bunga Raya FC, 서울피닉스에 2-0 승리… 홈 강세 입증" [level=2] [ref=e117]
+                - paragraph [ref=e118]: "Bunga Raya FC가 10월 6일 Stadium Tampin, Negeri Sembilan에서 열린 A1 Semi-Pro League 경기에서 서울피닉스 FC를 2-0으로 물리쳤다. Bunga Raya는 전반부터 빠른 템포의 경기 운영으로 서울피닉스를 압박했고, 전반 중반 선제골에 이어 후반 추가골을 터뜨리며 승부를 결정지었다. 서울피닉스는 이날 경기에서도 결정력 부족을 드러내며 유효슈팅 기회를 살리지 못했다. 이상진 감독은 경기 후 \"상대의 홈 분위기에 위축된 면이 있었다. 앞으로 원정 경기 대비를 더 철저히 하겠다\"고 밝혔다. 이 경기는 AFL(Amateur Football League) 공식 홈페이지에 서울피닉스의 공식 일정으로 등록되어 있다. [출처: AFL (Amateur Football League)]"
+                - generic [ref=e119]:
+                  - text: AFL 미디어
+                  - generic [ref=e120]:
+                    - text: 자세히 보기
+                    - img [ref=e121]
+          - 'link "클럽 소식2025.09.28 서울피닉스, Kedah Darul FC에 2-0 완승… 두 번째 승리 신고 서울피닉스 FC가 9월 28일 홈 경기에서 Kedah Darul FC를 2-0으로 격파하며 시즌 두 번째 승리를 기록했다. 전반적으로 안정적인 경기 운영을 선보인 서울피닉스는 전반과 후반 고른 득점으로 완승을 거뒀다. 특히 수비진의 단단한 조직력이 돋보였으며, 상대의 공격을 효과적으로 차단하며 클린시트를 달성했다. 이 승리로 서울피닉스는 리그에서 점차 적응해 나가는 모습을 보여주며 팀 분위기를 끌어올렸다. 직전 경기인 ATM(Armed Forces FC)전 1-3 패배를 깔끔하게 설욕한 의미 있는 승리였다. [출처: FootballTransfers] 서울피닉스 미디어자세히 보기" [ref=e123] [cursor=pointer]':
+            - /url: /news/6/
+            - generic [ref=e125]:
+              - img [ref=e127]
+              - generic [ref=e129]:
+                - generic [ref=e130]: 클럽 소식2025.09.28
+                - heading "서울피닉스, Kedah Darul FC에 2-0 완승… 두 번째 승리 신고" [level=2] [ref=e131]
+                - paragraph [ref=e132]: "서울피닉스 FC가 9월 28일 홈 경기에서 Kedah Darul FC를 2-0으로 격파하며 시즌 두 번째 승리를 기록했다. 전반적으로 안정적인 경기 운영을 선보인 서울피닉스는 전반과 후반 고른 득점으로 완승을 거뒀다. 특히 수비진의 단단한 조직력이 돋보였으며, 상대의 공격을 효과적으로 차단하며 클린시트를 달성했다. 이 승리로 서울피닉스는 리그에서 점차 적응해 나가는 모습을 보여주며 팀 분위기를 끌어올렸다. 직전 경기인 ATM(Armed Forces FC)전 1-3 패배를 깔끔하게 설욕한 의미 있는 승리였다. [출처: FootballTransfers]"
+                - generic [ref=e133]:
+                  - text: 서울피닉스 미디어
+                  - generic [ref=e134]:
+                    - text: 자세히 보기
+                    - img [ref=e135]
+          - 'link "말레이시아 축구2025.09.21 ATM, 서울피닉스에 3-1 역전승… 후반 집중력 앞세워 Armed Forces FC(ATM)가 9월 21일 홈 경기에서 서울피닉스 FC에 3-1 역전승을 거뒀다. 서울피닉스가 전반에 선제골을 터뜨리며 앞서갔으나, 후반 들어 ATM이 맹공을 퍼부으며 경기를 뒤집었다. ATM은 후반에만 3골을 집중시키며 역전에 성공, 홈 팬들 앞에서 값진 승리를 챙겼다. ATM의 헤드코치는 \"후반전 선수들의 투지와 집중력이 승리를 가져왔다. 서울피닉스가 쉽지 않은 상대임을 알고 준비했다\"고 소감을 밝혔다. 서울피닉스는 전반 선제골 이후 집중력이 흐트러지며 역전을 허용한 점이 아쉬움으로 남았다. [출처: FootballTransfers] AFL 미디어자세히 보기" [ref=e137] [cursor=pointer]':
+            - /url: /news/7/
+            - generic [ref=e139]:
+              - img [ref=e141]
+              - generic [ref=e143]:
+                - generic [ref=e144]: 말레이시아 축구2025.09.21
+                - heading "ATM, 서울피닉스에 3-1 역전승… 후반 집중력 앞세워" [level=2] [ref=e145]
+                - paragraph [ref=e146]: "Armed Forces FC(ATM)가 9월 21일 홈 경기에서 서울피닉스 FC에 3-1 역전승을 거뒀다. 서울피닉스가 전반에 선제골을 터뜨리며 앞서갔으나, 후반 들어 ATM이 맹공을 퍼부으며 경기를 뒤집었다. ATM은 후반에만 3골을 집중시키며 역전에 성공, 홈 팬들 앞에서 값진 승리를 챙겼다. ATM의 헤드코치는 \"후반전 선수들의 투지와 집중력이 승리를 가져왔다. 서울피닉스가 쉽지 않은 상대임을 알고 준비했다\"고 소감을 밝혔다. 서울피닉스는 전반 선제골 이후 집중력이 흐트러지며 역전을 허용한 점이 아쉬움으로 남았다. [출처: FootballTransfers]"
+                - generic [ref=e147]:
+                  - text: AFL 미디어
+                  - generic [ref=e148]:
+                    - text: 자세히 보기
+                    - img [ref=e149]
+          - 'link "클럽 소식2025.09.13 서울피닉스, Manjung City에 1-0 승… A1 리그 첫 승 신고! 서울피닉스가 A1 Semi-Pro League 2025/2026 시즌 첫 승을 신고했다. 9월 13일 Sepang MPS 스타디움에서 열린 경기에서 Manjung City를 1-0으로 꺾었다. 전반 22분, 터진 송영주(Youngju Song)의 중원 침투에 이은 강력한 중거리 슛이 결승골로 연결됐다. 서울피닉스는 전반 내내 균형 잡힌 경기력을 선보였고, 수비진의 집중력이 돋보였다. 이상진(Sang-jin Lee) 감독은 경기 후 \"선수들이 90분 내내 훌륭한 경기력을 보여줬다. 후반 들어 체력이 떨어지면서 수비적으로 내려섰지만, 끝까지 집중력을 잃지 않았다\"고 칭찬했다. 반면 Manjung City의 Ahmad Fairuz Yunus 감독은 \"우리가 경기 적응이 다소 늦었다. 후반에 많은 기회를 만들었지만 골로 연결되지 못해 아쉽다\"고 밝혔다. 이 경기는 말레이시아 주요 스포츠 매체 Stadium Astro가 보도할 정도로 주목을 받았다. 서울피닉스는 전반기 3경기에서 무승(1무 2패)에 그친 끝에 첫 승리의 기쁨을 맛봤다. [출처: Stadium Astro (Shaiful Shamsudin, 2025.09.13)] Stadium Astro자세히 보기" [ref=e151] [cursor=pointer]':
+            - /url: /news/8/
+            - generic [ref=e153]:
+              - img [ref=e155]
+              - generic [ref=e157]:
+                - generic [ref=e158]: 클럽 소식2025.09.13
+                - heading "서울피닉스, Manjung City에 1-0 승… A1 리그 첫 승 신고!" [level=2] [ref=e159]
+                - paragraph [ref=e160]: "서울피닉스가 A1 Semi-Pro League 2025/2026 시즌 첫 승을 신고했다. 9월 13일 Sepang MPS 스타디움에서 열린 경기에서 Manjung City를 1-0으로 꺾었다. 전반 22분, 터진 송영주(Youngju Song)의 중원 침투에 이은 강력한 중거리 슛이 결승골로 연결됐다. 서울피닉스는 전반 내내 균형 잡힌 경기력을 선보였고, 수비진의 집중력이 돋보였다. 이상진(Sang-jin Lee) 감독은 경기 후 \"선수들이 90분 내내 훌륭한 경기력을 보여줬다. 후반 들어 체력이 떨어지면서 수비적으로 내려섰지만, 끝까지 집중력을 잃지 않았다\"고 칭찬했다. 반면 Manjung City의 Ahmad Fairuz Yunus 감독은 \"우리가 경기 적응이 다소 늦었다. 후반에 많은 기회를 만들었지만 골로 연결되지 못해 아쉽다\"고 밝혔다. 이 경기는 말레이시아 주요 스포츠 매체 Stadium Astro가 보도할 정도로 주목을 받았다. 서울피닉스는 전반기 3경기에서 무승(1무 2패)에 그친 끝에 첫 승리의 기쁨을 맛봤다. [출처: Stadium Astro (Shaiful Shamsudin, 2025.09.13)]"
+                - generic [ref=e161]:
+                  - text: Stadium Astro
+                  - generic [ref=e162]:
+                    - text: 자세히 보기
+                    - img [ref=e163]
+          - 'link "클럽 소식2025.08.24 서울피닉스, 개막전서 Malaysian University에 0-3 패배 서울피닉스 FC가 A1 Semi-Pro League 데뷔전에서 Malaysian University(말레이시아 대학 선발팀)에 0-3으로 패배했다. 8월 24일 Stadium UiTM, Shah Alam에서 열린 이 경기에서 서울피닉스는 첫 해외 리그 도전의 높은 벽을 실감했다. Malaysian University는 조직적인 플레이로 전반에만 2골을 터뜨리며 경기를 주도했고, 후반에도 한 골을 추가해 완승을 거뒀다. 서울피닉스는 경기 내내 좋은 기회를 여러 차례 만들었지만, 마무리에서 아쉬움을 남겼다. 그럼에도 한국 축구단 최초의 말레이시아 리그 공식 경기라는 역사적 의미를 가진 경기였다. AFL 공식 홈페이지에는 이 경기가 서울피닉스 FC의 첫 A1 리그 공식 경기로 기록되어 있다. [출처: AFL / Forza Football / FootballTransfers] 서울피닉스 미디어자세히 보기" [ref=e165] [cursor=pointer]':
+            - /url: /news/9/
+            - generic [ref=e167]:
+              - img [ref=e169]
+              - generic [ref=e171]:
+                - generic [ref=e172]: 클럽 소식2025.08.24
+                - heading "서울피닉스, 개막전서 Malaysian University에 0-3 패배" [level=2] [ref=e173]
+                - paragraph [ref=e174]: "서울피닉스 FC가 A1 Semi-Pro League 데뷔전에서 Malaysian University(말레이시아 대학 선발팀)에 0-3으로 패배했다. 8월 24일 Stadium UiTM, Shah Alam에서 열린 이 경기에서 서울피닉스는 첫 해외 리그 도전의 높은 벽을 실감했다. Malaysian University는 조직적인 플레이로 전반에만 2골을 터뜨리며 경기를 주도했고, 후반에도 한 골을 추가해 완승을 거뒀다. 서울피닉스는 경기 내내 좋은 기회를 여러 차례 만들었지만, 마무리에서 아쉬움을 남겼다. 그럼에도 한국 축구단 최초의 말레이시아 리그 공식 경기라는 역사적 의미를 가진 경기였다. AFL 공식 홈페이지에는 이 경기가 서울피닉스 FC의 첫 A1 리그 공식 경기로 기록되어 있다. [출처: AFL / Forza Football / FootballTransfers]"
+                - generic [ref=e175]:
+                  - text: 서울피닉스 미디어
+                  - generic [ref=e176]:
+                    - text: 자세히 보기
+                    - img [ref=e177]
+          - 'link "클럽 소식2025.08.16 서울피닉스, 2025-26시즌 최종 선수단 발표… 18명 확정 서울피닉스 FC가 2025-26 A1 Semi-Pro League에 나설 최종 선수단 18명을 발표했다. 선수단은 한국 선수 12명, 말레이시아 선수 5명, 남아프리카공화국 선수 1명으로 구성됐다. 주장은 중원의 핵심 최찬양(Chan-yang Choi)이 맡았다. ■ 선수 명단 GK: Vikneswaran Krisnan (MAS) DF: 정은호 (KOR), 이지석 (KOR), 박평안 (KOR), Mhlengi Sibonani Ndhlovu (RSA, DF), Zubair Kamarulzaman (MAS), 최지윤 (KOR) MF: 임오규 (KOR), Wan Syamil Sulaiman (MAS), 송영주 (KOR), 최찬양 (KOR, 주장), 오상묵 (KOR), Adam Ilham Idwan Shah (MAS), 유준혁 (KOR), 방선우 (KOR) 서울피닉스는 시즌 전 공개 테스트를 통해 선수를 모집했으며, 한국 선수들은 K4리그와 대학 축구 출신 유망주들로 구성됐다. 말레이시아 선수들은 현지 에이전트를 통해 영입했으며, 남아공 출신 Ndhlovu는 아시아 무대 도전을 위해 합류했다. 홈 구장은 사이버자야(Cyberjaya) 소재 MMU Stadium(수용인원 2,500명)을 사용할 예정이다. [출처: Wikipedia - Seoul Phoenix FC] 서울피닉스 미디어자세히 보기" [ref=e179] [cursor=pointer]':
+            - /url: /news/10/
+            - generic [ref=e181]:
+              - img [ref=e183]
+              - generic [ref=e185]:
+                - generic [ref=e186]: 클럽 소식2025.08.16
+                - heading "서울피닉스, 2025-26시즌 최종 선수단 발표… 18명 확정" [level=2] [ref=e187]
+                - paragraph [ref=e188]: "서울피닉스 FC가 2025-26 A1 Semi-Pro League에 나설 최종 선수단 18명을 발표했다. 선수단은 한국 선수 12명, 말레이시아 선수 5명, 남아프리카공화국 선수 1명으로 구성됐다. 주장은 중원의 핵심 최찬양(Chan-yang Choi)이 맡았다. ■ 선수 명단 GK: Vikneswaran Krisnan (MAS) DF: 정은호 (KOR), 이지석 (KOR), 박평안 (KOR), Mhlengi Sibonani Ndhlovu (RSA, DF), Zubair Kamarulzaman (MAS), 최지윤 (KOR) MF: 임오규 (KOR), Wan Syamil Sulaiman (MAS), 송영주 (KOR), 최찬양 (KOR, 주장), 오상묵 (KOR), Adam Ilham Idwan Shah (MAS), 유준혁 (KOR), 방선우 (KOR) 서울피닉스는 시즌 전 공개 테스트를 통해 선수를 모집했으며, 한국 선수들은 K4리그와 대학 축구 출신 유망주들로 구성됐다. 말레이시아 선수들은 현지 에이전트를 통해 영입했으며, 남아공 출신 Ndhlovu는 아시아 무대 도전을 위해 합류했다. 홈 구장은 사이버자야(Cyberjaya) 소재 MMU Stadium(수용인원 2,500명)을 사용할 예정이다. [출처: Wikipedia - Seoul Phoenix FC]"
+                - generic [ref=e189]:
+                  - text: 서울피닉스 미디어
+                  - generic [ref=e190]:
+                    - text: 자세히 보기
+                    - img [ref=e191]
+          - 'link "클럽 소식2025.06.16 FC 서울피닉스, A1 세미프로 리그 참가 최종 승인 한국 축구단 FC 서울피닉스(Seoul Phoenix FC)가 2025-2026 A1 Semi-Pro League 참가를 최종 승인받았다. 암추어 풋볼 리그(AFL) 위원장 다툭 유수프 마하디(Datuk Yusoff Mahadi)는 6월 16일(현지시각) 성명을 통해 \"Kedah Darul Aman FC, Guar Syed Alwi FC, 그리고 FC 서울피닉스가 A1 Semi-Pro League 2025-2026 공식 참가를 확정했다\"고 발표했다. 또한 UM-Damansara United도 추가 승인되어 총 16개 팀이 리그를 구성하게 됐다. 이로써 서울피닉스는 한국 축구 역사상 최초로 말레이시아 리그 시스템에 진출한 팀이 되었다. 앞서 지난 5월 말레이시아축구협회(MFF)가 FIFA와 AFC의 승인을 거쳐 서울피닉스의 리그 참가를 승인한 바 있다. 서울피닉스 권혁훈 구단주는 \"말레이시아에서의 새로운 도전이 공식적으로 시작됐다. 한국과 말레이시아 축구 발전에 기여하는 팀이 되겠다\"고 소감을 밝혔다. [출처: New Straits Times (Farah Azharie, 2025.06.16)] New Straits Times자세히 보기" [ref=e193] [cursor=pointer]':
+            - /url: /news/11/
+            - generic [ref=e195]:
+              - img [ref=e197]
+              - generic [ref=e199]:
+                - generic [ref=e200]: 클럽 소식2025.06.16
+                - heading "FC 서울피닉스, A1 세미프로 리그 참가 최종 승인" [level=2] [ref=e201]
+                - paragraph [ref=e202]: "한국 축구단 FC 서울피닉스(Seoul Phoenix FC)가 2025-2026 A1 Semi-Pro League 참가를 최종 승인받았다. 암추어 풋볼 리그(AFL) 위원장 다툭 유수프 마하디(Datuk Yusoff Mahadi)는 6월 16일(현지시각) 성명을 통해 \"Kedah Darul Aman FC, Guar Syed Alwi FC, 그리고 FC 서울피닉스가 A1 Semi-Pro League 2025-2026 공식 참가를 확정했다\"고 발표했다. 또한 UM-Damansara United도 추가 승인되어 총 16개 팀이 리그를 구성하게 됐다. 이로써 서울피닉스는 한국 축구 역사상 최초로 말레이시아 리그 시스템에 진출한 팀이 되었다. 앞서 지난 5월 말레이시아축구협회(MFF)가 FIFA와 AFC의 승인을 거쳐 서울피닉스의 리그 참가를 승인한 바 있다. 서울피닉스 권혁훈 구단주는 \"말레이시아에서의 새로운 도전이 공식적으로 시작됐다. 한국과 말레이시아 축구 발전에 기여하는 팀이 되겠다\"고 소감을 밝혔다. [출처: New Straits Times (Farah Azharie, 2025.06.16)]"
+                - generic [ref=e203]:
+                  - text: New Straits Times
+                  - generic [ref=e204]:
+                    - text: 자세히 보기
+                    - img [ref=e205]
+          - 'link "클럽 소식2025.05.15 \"축구판 질롱 코리아\" 뜬다! K4 출신 서울피닉스, 말레이시아 2부리그 참가 ''축구판 질롱코리아''가 탄생한다. K4리그 출신 서울피닉스가 말레이시아 2부리그 A1 Semi-Pro League에 참가한다. 스포츠조선 단독 보도에 따르면, 말레이시아축구협회는 지난 8일 FC서울피닉스의 A1세미프로리그(2부) 참가를 최종 승인했다. 다툭 워라 유수프 마하디 말레이시아축구협회 부회장은 현지 매체를 통해 \"서울피닉스는 한국에서 아마추어리그(K4)에 참가한 경력을 갖고 있다\"고 설명했다. 서울피닉스는 지난해까지 FC세종(세종 SA FC)으로 K4리그에 참가했던 팀이다. 2023년 K4리그에 처음 참가해 12승6무12패(승점 25)로 16위를 기록했고, 지난해엔 3승3무18패(승점 12)로 13위였다. 올 시즌 서울피닉스로 구단 명칭을 변경했고, 변병주 감독을 새 사령탑으로 선임했다. 서울피닉스는 지난 3월 말레이시아축구협회에 A1세미프로리그 참가 신청 공문을 보낸 뒤, 4월 10일 협회 관계자 협상을 거쳐 4월 25일 리그 참가 계약을 마무리했다. 국내 자본 축구단의 해외 리그 참가는 매우 드문 사례로, 프로야구 질롱코리아의 호주 리그 진출에 빗대어 ''축구판 질롱코리아''로 불리고 있다. [출처: 스포츠조선 (박상경 기자, 2025.05.15)] 스포츠조선자세히 보기" [ref=e207] [cursor=pointer]':
+            - /url: /news/12/
+            - generic [ref=e209]:
+              - img [ref=e211]
+              - generic [ref=e213]:
+                - generic [ref=e214]: 클럽 소식2025.05.15
+                - heading "\"축구판 질롱 코리아\" 뜬다! K4 출신 서울피닉스, 말레이시아 2부리그 참가" [level=2] [ref=e215]
+                - paragraph [ref=e216]: "'축구판 질롱코리아'가 탄생한다. K4리그 출신 서울피닉스가 말레이시아 2부리그 A1 Semi-Pro League에 참가한다. 스포츠조선 단독 보도에 따르면, 말레이시아축구협회는 지난 8일 FC서울피닉스의 A1세미프로리그(2부) 참가를 최종 승인했다. 다툭 워라 유수프 마하디 말레이시아축구협회 부회장은 현지 매체를 통해 \"서울피닉스는 한국에서 아마추어리그(K4)에 참가한 경력을 갖고 있다\"고 설명했다. 서울피닉스는 지난해까지 FC세종(세종 SA FC)으로 K4리그에 참가했던 팀이다. 2023년 K4리그에 처음 참가해 12승6무12패(승점 25)로 16위를 기록했고, 지난해엔 3승3무18패(승점 12)로 13위였다. 올 시즌 서울피닉스로 구단 명칭을 변경했고, 변병주 감독을 새 사령탑으로 선임했다. 서울피닉스는 지난 3월 말레이시아축구협회에 A1세미프로리그 참가 신청 공문을 보낸 뒤, 4월 10일 협회 관계자 협상을 거쳐 4월 25일 리그 참가 계약을 마무리했다. 국내 자본 축구단의 해외 리그 참가는 매우 드문 사례로, 프로야구 질롱코리아의 호주 리그 진출에 빗대어 '축구판 질롱코리아'로 불리고 있다. [출처: 스포츠조선 (박상경 기자, 2025.05.15)]"
+                - generic [ref=e217]:
+                  - text: 스포츠조선
+                  - generic [ref=e218]:
+                    - text: 자세히 보기
+                    - img [ref=e219]
+          - 'link "클럽 소식2025.04.12 한국 최초 말레이시아 리그 진출형 축구단, \"FC 서울 피닉스\" 창단 서울을 연고로 하는 프로 축구단 ''FC 서울 피닉스''가 공식 창단을 선언했다. 한국 축구 역사상 최초로 말레이시아 2부 리그인 A1 Semi-Pro League 참가를 목표로 한다. FC 서울 피닉스는 구단주 권혁훈, 회장 서진영·변병주 체제로 출범했다. 변병주 감독이 초대 사령탑을 맡아 팀을 이끌게 된다. 구단은 국내 유망 선수들에게 아시아 무대 진출의 교두보를 마련해 주는 것을 핵심 비전으로 제시했다. 또한 한국 선수들의 해외 진출 기회 확대와 함께 말레이시아 현지 선수들과의 협력을 통해 한-말 축구 교류를 활성화하겠다는 계획이다. 서울피닉스는 사이버자야(Cyberjaya)에 훈련 캠프를 마련하고, MMU 스타디움을 홈 구장으로 사용할 예정이다. 이로써 말레이시아는 태국, 베트남, 인도네시아와 함께 동남아 축구 4강 체제를 유지하는 가운데, 한국 팀의 참가로 더욱 다양한 리그 환경이 조성될 전망이다. [출처: SG-HATT, 2025.04.12] SG-HATT자세히 보기" [ref=e221] [cursor=pointer]':
+            - /url: /news/13/
+            - generic [ref=e223]:
+              - img [ref=e225]
+              - generic [ref=e227]:
+                - generic [ref=e228]: 클럽 소식2025.04.12
+                - heading "한국 최초 말레이시아 리그 진출형 축구단, \"FC 서울 피닉스\" 창단" [level=2] [ref=e229]
+                - paragraph [ref=e230]: "서울을 연고로 하는 프로 축구단 'FC 서울 피닉스'가 공식 창단을 선언했다. 한국 축구 역사상 최초로 말레이시아 2부 리그인 A1 Semi-Pro League 참가를 목표로 한다. FC 서울 피닉스는 구단주 권혁훈, 회장 서진영·변병주 체제로 출범했다. 변병주 감독이 초대 사령탑을 맡아 팀을 이끌게 된다. 구단은 국내 유망 선수들에게 아시아 무대 진출의 교두보를 마련해 주는 것을 핵심 비전으로 제시했다. 또한 한국 선수들의 해외 진출 기회 확대와 함께 말레이시아 현지 선수들과의 협력을 통해 한-말 축구 교류를 활성화하겠다는 계획이다. 서울피닉스는 사이버자야(Cyberjaya)에 훈련 캠프를 마련하고, MMU 스타디움을 홈 구장으로 사용할 예정이다. 이로써 말레이시아는 태국, 베트남, 인도네시아와 함께 동남아 축구 4강 체제를 유지하는 가운데, 한국 팀의 참가로 더욱 다양한 리그 환경이 조성될 전망이다. [출처: SG-HATT, 2025.04.12]"
+                - generic [ref=e231]:
+                  - text: SG-HATT
+                  - generic [ref=e232]:
+                    - text: 자세히 보기
+                    - img [ref=e233]
+          - 'link "클럽 소식2026.05.16 서울피닉스, Perlis GSA에 3-1 쾌승… 2026년 첫 승리 신고 서울피닉스 FC가 5월 16일 홈 경기에서 Perlis GSA FC를 3-1로 격파하며 2026년 A1 Semi-Pro League 첫 승리를 신고했다. 전반 15분 선제골을 시작으로 서울피닉스는 경기 내내 주도권을 놓지 않았다. 전반 중반 추가골에 이어 후반에도 한 골을 더하며 완승을 거뒀다. Perlis GSA는 후반 막판 한 골을 만회하는데 그쳤다. 이날 승리는 서울피닉스가 올해 치른 10경기 만에 거둔 첫 승리로, 팀 분위기 반전에 중요한 전환점이 될 전망이다. 특히 홈 팬들 앞에서 3골을 터뜨리며 공격력이 살아난 점이 고무적이다. [출처: top-esport.com] 서울피닉스 미디어자세히 보기" [ref=e235] [cursor=pointer]':
+            - /url: /news/14/
+            - generic [ref=e237]:
+              - img [ref=e239]
+              - generic [ref=e241]:
+                - generic [ref=e242]: 클럽 소식2026.05.16
+                - heading "서울피닉스, Perlis GSA에 3-1 쾌승… 2026년 첫 승리 신고" [level=2] [ref=e243]
+                - paragraph [ref=e244]: "서울피닉스 FC가 5월 16일 홈 경기에서 Perlis GSA FC를 3-1로 격파하며 2026년 A1 Semi-Pro League 첫 승리를 신고했다. 전반 15분 선제골을 시작으로 서울피닉스는 경기 내내 주도권을 놓지 않았다. 전반 중반 추가골에 이어 후반에도 한 골을 더하며 완승을 거뒀다. Perlis GSA는 후반 막판 한 골을 만회하는데 그쳤다. 이날 승리는 서울피닉스가 올해 치른 10경기 만에 거둔 첫 승리로, 팀 분위기 반전에 중요한 전환점이 될 전망이다. 특히 홈 팬들 앞에서 3골을 터뜨리며 공격력이 살아난 점이 고무적이다. [출처: top-esport.com]"
+                - generic [ref=e245]:
+                  - text: 서울피닉스 미디어
+                  - generic [ref=e246]:
+                    - text: 자세히 보기
+                    - img [ref=e247]
+          - 'link "클럽 소식2026.02.15 서울피닉스, KDA FC 상대로 시즌 최다 6골 폭발! 6-1 대승 서울피닉스 FC가 2월 15일 원정 경기에서 KDA FC(Kedah Darul Aman FC)를 6-1로 대파하며 시즌 최다 득점 승리를 기록했다. 전반부터 서울피닉스의 공격이 폭발했다. 전반에만 3골을 터뜨리며 경기를 주도했고, 후반에도 3골을 추가하며 KDA FC의 홈에서 대승을 거뒀다. KDA FC는 후반 한 골을 만회하는데 그쳤다. 이날 6득점은 서울피닉스가 A1 Semi-Pro League에서 기록한 한 경기 최다 득점이다. 그동안 공격력 부족으로 어려움을 겪었던 서울피닉스로서는 확실한 공격력 반등을 알린 경기로 평가받고 있다. [출처: top-esport.com] 서울피닉스 미디어자세히 보기" [ref=e249] [cursor=pointer]':
+            - /url: /news/15/
+            - generic [ref=e251]:
+              - img [ref=e253]
+              - generic [ref=e255]:
+                - generic [ref=e256]: 클럽 소식2026.02.15
+                - heading "서울피닉스, KDA FC 상대로 시즌 최다 6골 폭발! 6-1 대승" [level=2] [ref=e257]
+                - paragraph [ref=e258]: "서울피닉스 FC가 2월 15일 원정 경기에서 KDA FC(Kedah Darul Aman FC)를 6-1로 대파하며 시즌 최다 득점 승리를 기록했다. 전반부터 서울피닉스의 공격이 폭발했다. 전반에만 3골을 터뜨리며 경기를 주도했고, 후반에도 3골을 추가하며 KDA FC의 홈에서 대승을 거뒀다. KDA FC는 후반 한 골을 만회하는데 그쳤다. 이날 6득점은 서울피닉스가 A1 Semi-Pro League에서 기록한 한 경기 최다 득점이다. 그동안 공격력 부족으로 어려움을 겪었던 서울피닉스로서는 확실한 공격력 반등을 알린 경기로 평가받고 있다. [출처: top-esport.com]"
+                - generic [ref=e259]:
+                  - text: 서울피닉스 미디어
+                  - generic [ref=e260]:
+                    - text: 자세히 보기
+                    - img [ref=e261]
+          - link [ref=e263] [cursor=pointer]:
+            - /url: /news/16/
+            - generic [ref=e265]:
+              - img [ref=e267]
+              - generic [ref=e269]:
+                - generic [ref=e270]: 클럽 소식2026.06.25
+                - heading "서울피닉스 FC, 첫 A1 세미프로 리그 시즌 14위로 마감… 값진 도전의 기록" [level=2] [ref=e271]
+                - paragraph [ref=e272]: "서울피닉스 FC가 말레이시아 A1 세미프로 리그(AFL) 2025-2026 시즌을 14위로 마감했다. 한국 축구단 최초로 말레이시아 리그에 진출한 도전적인 시즌이었다. 최종 성적은 4승 3무 20패, 승점 14점. 25경기에서 19골을 득점하고 95실점을 기록했다. 리그 최하위권으로 예상됐던 전망을 뒤집고 14위로 시즌을 마치며 가능성을 입증했다는 평가다. 시즌 중반에는 이상진(Lee Sang-jin) 초대 감독이 성적 부진으로 자리에서 물러났고, 이후 말레이시아 출신의 아리프 하심(Ariff Hashim) 감독이 팀을 지휘했다. 감독 교체 이후 팀은 안정을 찾아가는 모습을 보여줬다. 시즌 하이라이트는 단연 2월 15일 KDA FC(Kedah Darul Aman FC) 원정에서 거둔 6-1 대승이었다. 당시 서울피닉스는 전·후반 합쳐 6골을 터뜨리며 시즌 최다 득점 승리를 기록, 말레이시아 축구계에 강한 인상을 남겼다. 또한 9월 28일 홈 경기에서는 KDA FC를 상대로 2-0 완승을 거두기도 했다. 팀 내 최다 득점자는 나이지리아 출신 공격수 세이두 이스마일라(Seidou Ismaila)로 8골을 기록하며 팀 공격을 이끌었다. 한국인 선수들도 고른 활약을 펼쳤다. 송영주, 최찬양이 각각 2골을 기록했고, 오상묵, 윤삼영, 최지윤도 1골씩을 추가했다. 서울피닉스는 말레이시아 AFL 특약에 따라 경기당 최대 7명의 한국인 선수를 출전시킬 수 있었고, 이 제도를 적극 활용하며 한국과 말레이시아 축구의 가교 역할을 수행했다. 아리프 하심 감독은 \"첫 시즌이라는 어려운 여건 속에서도 선수들이 끝까지 포기하지 않고 싸워줬다. 시즌 초반 많은 어려움이 있었지만, 후반기로 갈수록 팀이 발전하는 모습을 보여줬다\"고 소감을 밝혔다. 이어 \"다가오는 시즌에는 더 나은 전력으로 팬들 앞에 서겠다. 이 경험을 발판 삼아 반드시 리그 중상위권으로 도약하겠다\"는 각오를 전했다. 서울피닉스는 차기 시즌을 위해 보강 작업에 들어갈 예정이며, K3/K4 리그 방출 선수 및 유망주 영입을 통해 전력을 강화한다는 계획이다. [출처: a1semipro.com / Wikipedia]"
+                - generic [ref=e273]:
+                  - text: 서울피닉스 미디어
+                  - generic [ref=e274]:
+                    - text: 자세히 보기
+                    - img [ref=e275]
+          - 'link "말레이시아 축구2026.01.15 말레이시아 슈퍼리그 2025-2026 시즌 개막… 12개 팀 우승 경쟁 말레이시아 슈퍼리그 2025-2026 시즌이 본격적으로 시작됐다. 올 시즌에는 12개 팀이 참가하며, 각 팀은 24경기를 치르게 된다. 지난 시즌 챔피언 조호르 다룰 탁짐(JDT)은 5연패에 도전하며, 셀랑고르 FC, KEDAH FA, 트렝가누 FC 등이 우승 후보로 꼽히고 있다. 말레이시아 축구 연협(FAM)은 \"올 시즌 외국인 선수 제한이 강화되면서 국내 선수들의 성장이 기대된다\"고 밝혔다. 특히 25세 이하 선수 출전 의무화 제도가 시행되면서 유소년 선수들의 활약이 주목된다. 한국 선수들의 참가도 눈에 띈다. 서울피닉스 FC가 A1 Semi-Pro League에서 활약하고 있으며, 말레이시아 1부 리그에도 한국인 감독과 선수들이 다수 진출해 있다. 시즌은 2026년 1월부터 8월까지 진행되며, 상위 4개 팀은 AFC 챔피언스리그 진출 자격을 얻게 된다. [출처: 말레이시아 축구 연협(FAM) / AiScore] 서울피닉스 미디어자세히 보기" [ref=e277] [cursor=pointer]':
+            - /url: /news/19/
+            - generic [ref=e279]:
+              - img [ref=e281]
+              - generic [ref=e283]:
+                - generic [ref=e284]: 말레이시아 축구2026.01.15
+                - heading "말레이시아 슈퍼리그 2025-2026 시즌 개막… 12개 팀 우승 경쟁" [level=2] [ref=e285]
+                - paragraph [ref=e286]: "말레이시아 슈퍼리그 2025-2026 시즌이 본격적으로 시작됐다. 올 시즌에는 12개 팀이 참가하며, 각 팀은 24경기를 치르게 된다. 지난 시즌 챔피언 조호르 다룰 탁짐(JDT)은 5연패에 도전하며, 셀랑고르 FC, KEDAH FA, 트렝가누 FC 등이 우승 후보로 꼽히고 있다. 말레이시아 축구 연협(FAM)은 \"올 시즌 외국인 선수 제한이 강화되면서 국내 선수들의 성장이 기대된다\"고 밝혔다. 특히 25세 이하 선수 출전 의무화 제도가 시행되면서 유소년 선수들의 활약이 주목된다. 한국 선수들의 참가도 눈에 띈다. 서울피닉스 FC가 A1 Semi-Pro League에서 활약하고 있으며, 말레이시아 1부 리그에도 한국인 감독과 선수들이 다수 진출해 있다. 시즌은 2026년 1월부터 8월까지 진행되며, 상위 4개 팀은 AFC 챔피언스리그 진출 자격을 얻게 된다. [출처: 말레이시아 축구 연협(FAM) / AiScore]"
+                - generic [ref=e287]:
+                  - text: 서울피닉스 미디어
+                  - generic [ref=e288]:
+                    - text: 자세히 보기
+                    - img [ref=e289]
+          - 'link "말레이시아 축구2026.01.06 셀랑고르 FC, 김판곤 감독 선임… \"10년 만의 리그 우승 도전\" 셀랑고르 FC가 2026년 1월 5일, 김판곤 감독(55)을 새 사령탑으로 공식 선임했다. 지난해 K리그1 울산HD에서 경질된 김 감독은 5개월 만에 현장으로 복귀하며, 말레이시아 무대에서 재기를 노린다. 김 감독은 2018년 울산HD 감독 부임 이후 2019년 FA컵 우승, 2022년 K리그1 준우승 등 화려한 지도력으로 잘 알려져 있다. 셀랑고르 FC는 \"김판곤 감독의 풍부한 경험과 지도력이 팀을 더욱 높은 단계로 이끌어 줄 것이라 확신한다\"고 기대감을 표했다. 이어 \"김 감독은 아시아 축구에 대한 깊은 이해와 함께 선수들의 잠재력을 최대한 끌어내는 데 탁월한 능력을 갖추고 있다\"고 덧붙였다. 김 감독은 취임 소감에서 \"구단에 합류하기로 한 내 결정은 팀의 비전과 헌신에 대한 확신에 기반한다\"며 \"셀랑고르의 목표와 비전은 감독으로서 내가 품고 있는 열망과도 일치한다\"고 밝혔다. 셀랑고르 FC는 2025-2026 시즌 말레이시아 슈퍼리그에서 10년 만의 리그 우승을 목표로 하고 있으며, 김 감독이 이끄는 전담 코칭 스태프와 함께 본격적인 시즌 준비에 돌입했다. [출처: 뉴스1 / 연합뉴스 / 말레이시아 셀랑고르 FC 공식 발표] 서울피닉스 미디어자세히 보기" [ref=e291] [cursor=pointer]':
+            - /url: /news/20/
+            - generic [ref=e293]:
+              - img [ref=e295]
+              - generic [ref=e297]:
+                - generic [ref=e298]: 말레이시아 축구2026.01.06
+                - heading "셀랑고르 FC, 김판곤 감독 선임… \"10년 만의 리그 우승 도전\"" [level=2] [ref=e299]
+                - paragraph [ref=e300]: "셀랑고르 FC가 2026년 1월 5일, 김판곤 감독(55)을 새 사령탑으로 공식 선임했다. 지난해 K리그1 울산HD에서 경질된 김 감독은 5개월 만에 현장으로 복귀하며, 말레이시아 무대에서 재기를 노린다. 김 감독은 2018년 울산HD 감독 부임 이후 2019년 FA컵 우승, 2022년 K리그1 준우승 등 화려한 지도력으로 잘 알려져 있다. 셀랑고르 FC는 \"김판곤 감독의 풍부한 경험과 지도력이 팀을 더욱 높은 단계로 이끌어 줄 것이라 확신한다\"고 기대감을 표했다. 이어 \"김 감독은 아시아 축구에 대한 깊은 이해와 함께 선수들의 잠재력을 최대한 끌어내는 데 탁월한 능력을 갖추고 있다\"고 덧붙였다. 김 감독은 취임 소감에서 \"구단에 합류하기로 한 내 결정은 팀의 비전과 헌신에 대한 확신에 기반한다\"며 \"셀랑고르의 목표와 비전은 감독으로서 내가 품고 있는 열망과도 일치한다\"고 밝혔다. 셀랑고르 FC는 2025-2026 시즌 말레이시아 슈퍼리그에서 10년 만의 리그 우승을 목표로 하고 있으며, 김 감독이 이끄는 전담 코칭 스태프와 함께 본격적인 시즌 준비에 돌입했다. [출처: 뉴스1 / 연합뉴스 / 말레이시아 셀랑고르 FC 공식 발표]"
+                - generic [ref=e301]:
+                  - text: 서울피닉스 미디어
+                  - generic [ref=e302]:
+                    - text: 자세히 보기
+                    - img [ref=e303]
+          - 'link "말레이시아 축구2026.01.10 A1 세미프로 리그 2025-2026 시즌, 서울피닉스 첫 해외 도전 말레이시아 A1 세미프로 리그(AFL) 2025-2026 시즌이 지난 1월 개막했다. 올해는 특히 한국 축구단 최초로 말레이시아 리그에 진출한 서울피닉스 FC의 참가가 큰 주목을 받고 있다. A1 세미프로 리그는 말레이시아 축구 리그 시스템의 2부 리그로, 총 19개 팀이 참가한다. 서울피닉스는 사이버자야(Cyberjaya)를 연고지로 하며, MMU 스타디움을 홈 구장으로 사용하고 있다. 서울피닉스는 말레이시아 AFL과의 특약을 통해 공식 경기에 한국 선수 7명까지 출전할 수 있는 독특한 지위를 확보했다. 이는 한국과 말레이시아 축구 교류의 새로운 장을 여는 의미 있는 진전으로 평가된다. 시즌은 2026년 1월부터 8월까지 진행되며, 상위 팀은 말레이시아 슈퍼리그로의 승격 기회를 얻는다. [출처: AFL 공식 / 서울피닉스 미디어] 서울피닉스 미디어자세히 보기" [ref=e305] [cursor=pointer]':
+            - /url: /news/23/
+            - generic [ref=e307]:
+              - img [ref=e309]
+              - generic [ref=e311]:
+                - generic [ref=e312]: 말레이시아 축구2026.01.10
+                - heading "A1 세미프로 리그 2025-2026 시즌, 서울피닉스 첫 해외 도전" [level=2] [ref=e313]
+                - paragraph [ref=e314]: "말레이시아 A1 세미프로 리그(AFL) 2025-2026 시즌이 지난 1월 개막했다. 올해는 특히 한국 축구단 최초로 말레이시아 리그에 진출한 서울피닉스 FC의 참가가 큰 주목을 받고 있다. A1 세미프로 리그는 말레이시아 축구 리그 시스템의 2부 리그로, 총 19개 팀이 참가한다. 서울피닉스는 사이버자야(Cyberjaya)를 연고지로 하며, MMU 스타디움을 홈 구장으로 사용하고 있다. 서울피닉스는 말레이시아 AFL과의 특약을 통해 공식 경기에 한국 선수 7명까지 출전할 수 있는 독특한 지위를 확보했다. 이는 한국과 말레이시아 축구 교류의 새로운 장을 여는 의미 있는 진전으로 평가된다. 시즌은 2026년 1월부터 8월까지 진행되며, 상위 팀은 말레이시아 슈퍼리그로의 승격 기회를 얻는다. [출처: AFL 공식 / 서울피닉스 미디어]"
+                - generic [ref=e315]:
+                  - text: 서울피닉스 미디어
+                  - generic [ref=e316]:
+                    - text: 자세히 보기
+                    - img [ref=e317]
+          - 'link "말레이시아 축구2026.05.30 JDT, 말레이시아 슈퍼리그 5연패 달성… 압도적 시즌 운영 조호르 다룰 탁짐(JDT)이 2025-2026 말레이시아 슈퍼리그에서 우승을 확정지으며 대회 5연패를 달성했다. JDT는 24경기에서 23승 1무라는 경이로운 기록을 세웠으며, 117득점 10실점이라는 압도적인 성적으로 시즌을 마무리했다. 승점 70점으로 2위와의 격차는 17점에 달했다. 셀랑고르 FC는 16승 5무 3패로 2위를 차지하며 김판곤 감독 부임 첫 시즌에 나쁘지 않은 성적을 거뒀다. 트렝가누 FC가 3위, 케다 FA가 4위로 시즌을 마감했다. JDT는 이번 우승으로 AFC 챔피언스리그 엘리트 진출권을 확보했으며, 말레이시아 축구의 아시아 무대 도전을 이어가게 됐다. [출처: AiScore / FootballCritic] 서울피닉스 미디어자세히 보기" [ref=e319] [cursor=pointer]':
+            - /url: /news/24/
+            - generic [ref=e321]:
+              - img [ref=e323]
+              - generic [ref=e325]:
+                - generic [ref=e326]: 말레이시아 축구2026.05.30
+                - heading "JDT, 말레이시아 슈퍼리그 5연패 달성… 압도적 시즌 운영" [level=2] [ref=e327]
+                - paragraph [ref=e328]: "조호르 다룰 탁짐(JDT)이 2025-2026 말레이시아 슈퍼리그에서 우승을 확정지으며 대회 5연패를 달성했다. JDT는 24경기에서 23승 1무라는 경이로운 기록을 세웠으며, 117득점 10실점이라는 압도적인 성적으로 시즌을 마무리했다. 승점 70점으로 2위와의 격차는 17점에 달했다. 셀랑고르 FC는 16승 5무 3패로 2위를 차지하며 김판곤 감독 부임 첫 시즌에 나쁘지 않은 성적을 거뒀다. 트렝가누 FC가 3위, 케다 FA가 4위로 시즌을 마감했다. JDT는 이번 우승으로 AFC 챔피언스리그 엘리트 진출권을 확보했으며, 말레이시아 축구의 아시아 무대 도전을 이어가게 됐다. [출처: AiScore / FootballCritic]"
+                - generic [ref=e329]:
+                  - text: 서울피닉스 미디어
+                  - generic [ref=e330]:
+                    - text: 자세히 보기
+                    - img [ref=e331]
+  - contentinfo [ref=e333]:
+    - generic [ref=e335]:
+      - generic [ref=e336]:
+        - link "서울피닉스 FC 로고 서울피닉스Seoul Phoenix FC" [ref=e337] [cursor=pointer]:
+          - /url: /
+          - img "서울피닉스 FC 로고" [ref=e338]
+          - generic [ref=e339]: 서울피닉스Seoul Phoenix FC
+        - paragraph [ref=e340]:
+          - text: 대한민국-말레이시아를 잇는 축구 클럽.
+          - text: Malaysia A1 Semi-Pro League에서
+          - text: 새로운 역사를 만들어갑니다.
+        - generic [ref=e341]:
+          - link "youtube" [ref=e342] [cursor=pointer]:
+            - /url: "#"
+            - text: "Y"
+          - link "instagram" [ref=e343] [cursor=pointer]:
+            - /url: "#"
+            - text: I
+          - link "facebook" [ref=e344] [cursor=pointer]:
+            - /url: "#"
+            - text: F
+      - generic [ref=e345]:
+        - heading "클럽" [level=3] [ref=e346]
+        - list [ref=e347]:
+          - listitem [ref=e348]:
+            - link "클럽 소개" [ref=e349] [cursor=pointer]:
+              - /url: /about/
+          - listitem [ref=e350]:
+            - link "선수단" [ref=e351] [cursor=pointer]:
+              - /url: /squad/
+          - listitem [ref=e352]:
+            - link "경기 일정" [ref=e353] [cursor=pointer]:
+              - /url: /schedule/
+          - listitem [ref=e354]:
+            - link "갤러리" [ref=e355] [cursor=pointer]:
+              - /url: /gallery/
+      - generic [ref=e356]:
+        - heading "미디어" [level=3] [ref=e357]
+        - list [ref=e358]:
+          - listitem [ref=e359]:
+            - link "뉴스" [ref=e360] [cursor=pointer]:
+              - /url: /news/
+          - listitem [ref=e361]:
+            - link "한국 축구" [ref=e362] [cursor=pointer]:
+              - /url: /news/?category=korean
+          - listitem [ref=e363]:
+            - link "말레이시아 축구" [ref=e364] [cursor=pointer]:
+              - /url: /news/?category=malaysia
+      - generic [ref=e365]:
+        - heading "고객 지원" [level=3] [ref=e366]
+        - list [ref=e367]:
+          - listitem [ref=e368]:
+            - link "연락처" [ref=e369] [cursor=pointer]:
+              - /url: /contact/
+          - listitem [ref=e370]:
+            - link "자주 묻는 질문" [ref=e371] [cursor=pointer]:
+              - /url: /contact/
+          - listitem [ref=e372]:
+            - link "티켓 예매" [ref=e373] [cursor=pointer]:
+              - /url: /schedule/
+    - generic [ref=e376]:
+      - paragraph [ref=e377]: © 2026 Seoul Phoenix FC. All rights reserved.
+      - generic [ref=e378]:
+        - link "개인정보처리방침" [ref=e379] [cursor=pointer]:
+          - /url: "#"
+        - link "이용약관" [ref=e380] [cursor=pointer]:
+          - /url: "#"

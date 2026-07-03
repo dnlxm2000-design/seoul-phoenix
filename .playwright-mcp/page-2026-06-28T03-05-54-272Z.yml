@@ -1,0 +1,220 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e4]:
+      - link "서울피닉스 FC 로고 서울피닉스 Seoul Phoenix FC" [ref=e5] [cursor=pointer]:
+        - /url: /
+        - img "서울피닉스 FC 로고" [ref=e7]
+        - generic [ref=e8]:
+          - generic [ref=e9]: 서울피닉스
+          - generic [ref=e10]: Seoul Phoenix FC
+      - navigation [ref=e11]:
+        - link "홈" [ref=e12] [cursor=pointer]:
+          - /url: /
+        - link "클럽 소개" [ref=e13] [cursor=pointer]:
+          - /url: /about/
+        - link "뉴스" [ref=e14] [cursor=pointer]:
+          - /url: /news/
+        - link "선수단" [ref=e15] [cursor=pointer]:
+          - /url: /squad/
+        - link "경기 일정" [ref=e16] [cursor=pointer]:
+          - /url: /schedule/
+        - link "갤러리" [ref=e17] [cursor=pointer]:
+          - /url: /gallery/
+        - link "연락처" [ref=e18] [cursor=pointer]:
+          - /url: /contact/
+  - main [ref=e19]:
+    - generic [ref=e20]:
+      - generic [ref=e23]:
+        - heading "클럽 소개" [level=1] [ref=e24]
+        - paragraph [ref=e25]: 대한민국과 말레이시아를 잇는 축구 클럽, 서울피닉스 FC의 이야기입니다
+      - generic [ref=e28]:
+        - generic [ref=e29]:
+          - text: About
+          - heading "서울피닉스 FC의 비전과 미션" [level=2] [ref=e30]:
+            - text: 서울피닉스 FC의
+            - text: 비전과 미션
+          - generic [ref=e31]:
+            - paragraph [ref=e32]: 서울피닉스 FC는 2023년 Vanesse FC로 창단되어, 2025년 말레이시아 Cyberjaya로 연고지를 이전하며 새롭게 출범한 축구 클럽입니다.
+            - paragraph [ref=e33]: 우리는 한국 축구의 우수한 시스템과 말레이시아의 축구 열정을 결합하여, 아시아 축구의 새로운 가능성을 열어가고 있습니다.
+            - paragraph [ref=e34]: 단순한 축구 클럽을 넘어, 한국과 말레이시아를 연결하는 스포츠 문화 교류의 가교 역할을 목표로 합니다.
+        - generic [ref=e36]:
+          - img "서울피닉스 FC 공식 로고" [ref=e38]
+          - paragraph [ref=e39]: 하나된 열정, 하나된 도전
+      - generic [ref=e41]:
+        - heading "핵심 가치" [level=2] [ref=e42]
+        - generic [ref=e43]:
+          - generic [ref=e44]:
+            - img [ref=e46]
+            - heading "도전" [level=3] [ref=e48]
+            - paragraph [ref=e49]: 새로운 무대에서 끊임없이 도전하며 성장합니다
+          - generic [ref=e50]:
+            - img [ref=e52]
+            - heading "화합" [level=3] [ref=e54]
+            - paragraph [ref=e55]: 한국과 말레이시아, 두 문화의 조화를 만들어갑니다
+          - generic [ref=e56]:
+            - img [ref=e58]
+            - heading "투명성" [level=3] [ref=e60]
+            - paragraph [ref=e61]: 정직하고 투명한 운영으로 신뢰를 쌓습니다
+      - generic [ref=e63]:
+        - heading "클럽 역사" [level=2] [ref=e64]
+        - generic [ref=e67]:
+          - generic [ref=e70]:
+            - text: "2023.01"
+            - heading "Vanesse FC 창단" [level=3] [ref=e71]
+            - paragraph [ref=e72]: K4 League 참가를 목표로 클럽 창단
+          - generic [ref=e75]:
+            - text: "2024"
+            - heading "세종 SA FC로 재창단" [level=3] [ref=e76]
+            - paragraph [ref=e77]: 세종시를 연고지로 클럽명 변경 및 재창단
+          - generic [ref=e80]:
+            - text: "2025"
+            - heading "서울피닉스 FC로 재탄생" [level=3] [ref=e81]
+            - paragraph [ref=e82]: 말레이시아 Cyberjaya로 연고지 이전 및 클럽명 변경. Malaysia A1 Semi-Pro League 참가
+          - generic [ref=e85]:
+            - text: 2025-26
+            - heading "말레이시아 리그 데뷔 시즌" [level=3] [ref=e86]
+            - paragraph [ref=e87]: 2025.08.02 개막 — 2026.05.23 종료. 말레이시아 A1 Semi-Pro League 첫 시즌을 소화하며 한국-말레이시아 축구 교류의 새 장을 열다
+          - generic [ref=e90]:
+            - text: "2026.01"
+            - heading "프리시즌 친선 토너먼트 승리" [level=3] [ref=e91]
+            - paragraph [ref=e92]: Kota Kemuning City FC를 2-0으로 격파하며 클럽 역사상 첫 친선 토너먼트 승리 기록
+      - generic [ref=e94]:
+        - generic [ref=e95]:
+          - text: Head Coach
+          - heading "팀을 이끄는 감독" [level=2] [ref=e96]
+        - generic [ref=e98]:
+          - generic [ref=e99]:
+            - generic [ref=e100]: 🇲🇾
+            - heading "Ariff Hashim" [level=3] [ref=e101]
+            - paragraph [ref=e102]: Head Coach
+            - paragraph [ref=e103]: 📍 Shah Alam, Selangor, Malaysia
+            - generic [ref=e104]:
+              - link "LinkedIn 프로필" [ref=e105] [cursor=pointer]:
+                - /url: https://my.linkedin.com/in/ariff-hashim-03753a49
+                - img [ref=e106]
+                - text: LinkedIn 프로필
+              - paragraph [ref=e108]: 🎓 Bachelor of Sports Studies — Universiti Teknologi MARA (UiTM), Malaysia
+          - generic [ref=e109]:
+            - generic [ref=e110]:
+              - heading "About" [level=4] [ref=e111]
+              - paragraph [ref=e112]: 말레이시아 축구의 베테랑 코치로, Football Association of Malaysia(FAM) 산하 국가대표 U-17 전임 코치로서 10년 이상의 국가대표급 지도 경험을 보유하고 있습니다. Selangor United FC U-21 헤드 코치로 Malaysian League Presidents Cup 무대를 경험하며 클럽 축구 지도자로서의 폭넓은 경험을 쌓았습니다.
+            - generic [ref=e113]:
+              - heading "Coaching Philosophy" [level=4] [ref=e114]
+              - paragraph [ref=e115]: 체계적이고 분석적인 전술 구성과 선수 개개인의 강점을 살리는 맞춤형 코칭으로 정평이 나 있으며, 한국과 말레이시아 선수들이 함께 호흡하는 서울피닉스의 다양성을 팀의 강점으로 끌어올리고 있습니다.
+            - generic [ref=e116]:
+              - heading "Experience" [level=4] [ref=e117]
+              - list [ref=e118]:
+                - listitem [ref=e119]:
+                  - generic [ref=e121]:
+                    - text: National U-17 코치
+                    - generic [ref=e122]: · Football Association of Malaysia (FAM)
+                    - paragraph [ref=e123]: 2013 - 현재
+                - listitem [ref=e124]:
+                  - generic [ref=e126]:
+                    - text: Head Coach, U-21 Presidents Cup
+                    - generic [ref=e127]: · Selangor United FC
+                    - paragraph [ref=e128]: 2019 - 2020
+                - listitem [ref=e129]:
+                  - generic [ref=e131]:
+                    - text: 기술 이사 / 코칭 디렉터
+                    - generic [ref=e132]: · Kelantan FA (Red Warriors)
+                    - paragraph [ref=e133]: 2024 - 현재
+                - listitem [ref=e134]:
+                  - generic [ref=e136]:
+                    - text: Head Coach
+                    - generic [ref=e137]: · 서울피닉스 FC
+                    - paragraph [ref=e138]: 2025 - 현재
+      - generic [ref=e140]:
+        - heading "리더십 팀" [level=2] [ref=e141]
+        - paragraph [ref=e142]: 서울피닉스를 이끄는 리더십 팀을 소개합니다
+        - generic [ref=e143]:
+          - generic [ref=e144]:
+            - generic [ref=e146]: 권
+            - heading "권혁훈" [level=3] [ref=e147]
+            - paragraph [ref=e148]: 구단주
+            - paragraph [ref=e149]: 클럽의 비전과 방향성 제시
+          - generic [ref=e150]:
+            - generic [ref=e152]: 서
+            - heading "서진영" [level=3] [ref=e153]
+            - paragraph [ref=e154]: 회장
+            - paragraph [ref=e155]: 구단 운영 총괄
+          - generic [ref=e156]:
+            - generic [ref=e158]: 변
+            - heading "변병주" [level=3] [ref=e159]
+            - paragraph [ref=e160]: 회장
+            - paragraph [ref=e161]: 구단 운영 총괄
+      - generic [ref=e164]:
+        - heading "서울피닉스의 여정에 함께하세요" [level=2] [ref=e165]
+        - paragraph [ref=e166]: 새로운 역사를 함께 써 나갈 선수와 팬을 기다립니다
+        - link "연락하기" [ref=e167] [cursor=pointer]:
+          - /url: /contact/
+  - contentinfo [ref=e168]:
+    - generic [ref=e170]:
+      - generic [ref=e171]:
+        - link "서울피닉스 FC 로고 서울피닉스 Seoul Phoenix FC" [ref=e172] [cursor=pointer]:
+          - /url: /
+          - img "서울피닉스 FC 로고" [ref=e174]
+          - generic [ref=e175]:
+            - generic [ref=e176]: 서울피닉스
+            - generic [ref=e177]: Seoul Phoenix FC
+        - paragraph [ref=e178]:
+          - text: 대한민국-말레이시아를 잇는 축구 클럽.
+          - text: Malaysia A1 Semi-Pro League에서
+          - text: 새로운 역사를 만들어갑니다.
+        - generic [ref=e179]:
+          - link "youtube" [ref=e180] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=e181]: "Y"
+          - link "instagram" [ref=e182] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=e183]: I
+          - link "facebook" [ref=e184] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=e185]: F
+      - generic [ref=e186]:
+        - heading "클럽" [level=3] [ref=e187]
+        - list [ref=e188]:
+          - listitem [ref=e189]:
+            - link "클럽 소개" [ref=e190] [cursor=pointer]:
+              - /url: /about/
+          - listitem [ref=e191]:
+            - link "선수단" [ref=e192] [cursor=pointer]:
+              - /url: /squad/
+          - listitem [ref=e193]:
+            - link "경기 일정" [ref=e194] [cursor=pointer]:
+              - /url: /schedule/
+          - listitem [ref=e195]:
+            - link "갤러리" [ref=e196] [cursor=pointer]:
+              - /url: /gallery/
+      - generic [ref=e197]:
+        - heading "미디어" [level=3] [ref=e198]
+        - list [ref=e199]:
+          - listitem [ref=e200]:
+            - link "뉴스" [ref=e201] [cursor=pointer]:
+              - /url: /news/
+          - listitem [ref=e202]:
+            - link "한국 축구" [ref=e203] [cursor=pointer]:
+              - /url: /news/?category=korean
+          - listitem [ref=e204]:
+            - link "말레이시아 축구" [ref=e205] [cursor=pointer]:
+              - /url: /news/?category=malaysia
+      - generic [ref=e206]:
+        - heading "고객 지원" [level=3] [ref=e207]
+        - list [ref=e208]:
+          - listitem [ref=e209]:
+            - link "연락처" [ref=e210] [cursor=pointer]:
+              - /url: /contact/
+          - listitem [ref=e211]:
+            - link "자주 묻는 질문" [ref=e212] [cursor=pointer]:
+              - /url: /contact/
+          - listitem [ref=e213]:
+            - link "티켓 예매" [ref=e214] [cursor=pointer]:
+              - /url: /schedule/
+    - generic [ref=e217]:
+      - paragraph [ref=e218]: © 2026 Seoul Phoenix FC. All rights reserved.
+      - generic [ref=e219]:
+        - link "개인정보처리방침" [ref=e220] [cursor=pointer]:
+          - /url: "#"
+        - link "이용약관" [ref=e221] [cursor=pointer]:
+          - /url: "#"
+  - alert [ref=e222]
