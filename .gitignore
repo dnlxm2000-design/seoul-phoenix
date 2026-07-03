@@ -39,3 +39,22 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+cookies.txt
+cookie*.txt
+*.png
+*.log
+SISYPHUS_CONTEXT.md
+todo.md
+test_*
+setup_output.txt
+verify*
+page_*.json
+debug_*
+art1.html
+upload*
+tmp-*
+check_*
+*.php
+admin*
+.ps1
